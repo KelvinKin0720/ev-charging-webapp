@@ -24,9 +24,14 @@ awd/
 
 ---
 
-## 🖼 Screenshots
+## 🖼️ Project Screenshots
 
-🚧 *You can add screenshots later under `screenshots/` folder and reference them here.*
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Map Page
+![Map Page](screenshots/map.png)
+
 
 ---
 
