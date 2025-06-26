@@ -32,6 +32,7 @@
     </div>
 
     <div class="right-panel">
+      <button class="add-button" (click)="openAddDialog()">Add</button>
       <div *ngIf="data.length === 0; else dataTable">
         <img src="assets/charge.gif" alt="Loading..."/>
       </div>
@@ -51,14 +52,43 @@
             <td>{{ row.LOCATION_EN }}</td>
             <td>{{ row.ADDRESS_EN }}</td>
             <td class="option-buttons">
-
               <button class="btn details-btn" (click)="viewDetails(row)">Details</button>
-
+              <button class="btn edit-btn" (click)="openEditDialog(row)">Edit</button>
+              <button class="btn delete-btn" (click)="confirmDelete(row)">Delete</button>
             </td>
           </tr>
           </tbody>
         </table>
       </ng-template>
+    </div>
+  </div>
+</div>
+
+<!-- 新增/編輯彈窗 -->
+<div class="modal" *ngIf="isAddDialogOpen || isEditDialogOpen">
+  <div class="modal-content">
+    <h2>{{ isAddDialogOpen ? '新增資料' : '編輯資料' }}</h2>
+    <form #geoForm="ngForm">
+      <div class="form-row" *ngFor="let field of geoFields">
+        <label>{{ field.label }}</label>
+        <input *ngIf="isAddDialogOpen" [(ngModel)]="addRowData[field.key]" name="add_{{field.key}}" />
+        <input *ngIf="isEditDialogOpen" [(ngModel)]="editRowData[field.key]" name="edit_{{field.key}}" [readonly]="field.key === 'id'" />
+      </div>
+      <div class="modal-actions">
+        <button type="button" (click)="isAddDialogOpen ? submitAdd() : submitEdit()">{{ isAddDialogOpen ? '新增' : '儲存' }}</button>
+        <button type="button" (click)="closeDialog()">取消</button>
+      </div>
+    </form>
+  </div>
+</div>
+<!-- 刪除確認彈窗 -->
+<div class="modal" *ngIf="isDeleteConfirmOpen">
+  <div class="modal-content">
+    <h2>確認刪除</h2>
+    <p>確定要刪除這筆資料嗎？</p>
+    <div class="modal-actions">
+      <button type="button" (click)="submitDelete()">確定</button>
+      <button type="button" (click)="isDeleteConfirmOpen = false">取消</button>
     </div>
   </div>
 </div>

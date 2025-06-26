@@ -15,6 +15,39 @@ export class HomepageComponent implements OnInit {
   username: string = '';
   password: string = '';
   currentUser: any;
+  isAddDialogOpen = false;
+  isEditDialogOpen = false;
+  isDeleteConfirmOpen = false;
+  editRowData: any = null;
+  addRowData: any = null;
+  deleteRowData: any = null;
+
+  // geo 資料表所有欄位
+  geoFields = [
+    { key: 'id', label: 'ID' },
+    { key: 'NAME_OF_DISTRICT_COUNCIL_DISTRICT_EN', label: 'DISTRICT(EN)' },
+    { key: 'LOCATION_EN', label: 'LOCATION(EN)' },
+    { key: 'ADDRESS_EN', label: 'ADDRESS(EN)' },
+    { key: 'NAME_OF_DISTRICT_COUNCIL_DISTRICT_TC', label: 'DISTRICT(TC)' },
+    { key: 'LOCATION_TC', label: 'LOCATION(TC)' },
+    { key: 'ADDRESS_TC', label: 'ADDRESS(TC)' },
+    { key: 'NAME_OF_DISTRICT_COUNCIL_DISTRICT_SC', label: 'DISTRICT(SC)' },
+    { key: 'LOCATION_SC', label: 'LOCATION(SC)' },
+    { key: 'ADDRESS_SC', label: 'ADDRESS(SC)' },
+    { key: 'STANDARD_BS1363_no', label: 'STANDARD_BS1363_no' },
+    { key: 'MEDIUM_IEC62196_no', label: 'MEDIUM_IEC62196_no' },
+    { key: 'MEDIUM_SAEJ1772_no', label: 'MEDIUM_SAEJ1772_no' },
+    { key: 'MEDIUM_OTHERS_no', label: 'MEDIUM_OTHERS_no' },
+    { key: 'QUICK_CHAdeMO_no', label: 'QUICK_CHAdeMO_no' },
+    { key: 'QUICK_CCS_DC_COMBO_no', label: 'QUICK_CCS_DC_COMBO_no' },
+    { key: 'QUICK_IEC62196_no', label: 'QUICK_IEC62196_no' },
+    { key: 'QUICK_GB_T20234_3_DC__no', label: 'QUICK_GB_T20234_3_DC__no' },
+    { key: 'QUICK_OTHERS_no', label: 'QUICK_OTHERS_no' },
+    { key: 'REMARK_FOR__OTHERS_', label: 'REMARK_FOR__OTHERS_' },
+    { key: 'DATA_PATH', label: 'DATA_PATH' },
+    { key: 'GeometryLongitude', label: 'GeometryLongitude' },
+    { key: 'GeometryLatitude', label: 'GeometryLatitude' }
+  ];
 
   constructor(private authService: AuthService,private router: Router) {
   }
@@ -150,5 +183,64 @@ export class HomepageComponent implements OnInit {
   viewDetails(row: any) {
     this.authService.setRowData(row);
     this.router.navigate(['/map']);
+  }
+
+  openAddDialog() {
+    this.addRowData = {};
+    this.isAddDialogOpen = true;
+  }
+
+  openEditDialog(row: any) {
+    this.editRowData = { ...row };
+    this.isEditDialogOpen = true;
+  }
+
+  confirmDelete(row: any) {
+    this.deleteRowData = row;
+    this.isDeleteConfirmOpen = true;
+  }
+
+  submitAdd() {
+    this.authService.createGeo(this.addRowData).subscribe(
+      (res) => {
+        alert('新增成功');
+        this.isAddDialogOpen = false;
+        this.search(); // 重新查詢刷新資料
+      },
+      (err) => {
+        alert('新增失敗');
+      }
+    );
+  }
+
+  submitEdit() {
+    this.authService.updateGeo(this.editRowData.id, this.editRowData).subscribe(
+      (res) => {
+        alert('編輯成功');
+        this.isEditDialogOpen = false;
+        this.search();
+      },
+      (err) => {
+        alert('編輯失敗');
+      }
+    );
+  }
+
+  submitDelete() {
+    this.authService.deleteGeo(this.deleteRowData.id).subscribe(
+      (res) => {
+        alert('刪除成功');
+        this.isDeleteConfirmOpen = false;
+        this.search();
+      },
+      (err) => {
+        alert('刪除失敗');
+      }
+    );
+  }
+
+  closeDialog() {
+    this.isAddDialogOpen = false;
+    this.isEditDialogOpen = false;
   }
 }

@@ -97,9 +97,7 @@ export class AuthService {
   }
 
   deleteData(rowId: number): Observable<any> {
-    const headers = new HttpHeaders({ 'Content-Type': 'application/json' });
-
-    return this.http.delete<any>(`${this.apiUrl}/delete-row.php?id=${rowId}`, { headers });
+    return this.deleteGeo(rowId);
   }
 
 
@@ -109,5 +107,17 @@ export class AuthService {
 
   getRowData() {
     return this.rowData;
+  }
+
+  createGeo(data: any) {
+    return this.http.post<any>(`${this.apiUrl}/evcharger.php`, data);
+  }
+
+  updateGeo(id: number, data: any) {
+    return this.http.put<any>(`${this.apiUrl}/evcharger.php?id=${id}`, data);
+  }
+
+  deleteGeo(id: number) {
+    return this.http.delete<any>(`${this.apiUrl}/evcharger.php?id=${id}`);
   }
 }
