@@ -1,0 +1,64 @@
+<!-- app.component.html -->
+<div class="background">
+
+  <div class="content">
+    <div class="left-panel">
+      <div *ngIf="filters.length > 0">
+        <div class="filter-item">
+          <label class="filter-label">{{ filters[0].label }}</label>
+          <select class="custom-select" [(ngModel)]="selectedDistrict">
+            <option value="">Please Select</option>
+            <option *ngFor="let option of filters[0].options" [value]="option">{{ option }}</option>
+          </select>
+        </div>
+
+        <div class="filter-item">
+          <label class="filter-label">{{ filters[1].label }}</label>
+          <select class="custom-select" [(ngModel)]="selectedLocation">
+            <option value="">Please Select</option>
+            <option *ngFor="let option of filters[1].options" [value]="option">{{ option }}</option>
+          </select>
+        </div>
+
+        <div class="filter-item">
+          <label class="filter-label">{{ filters[2].label }}</label>
+          <select class="custom-select" [(ngModel)]="selectedPlace">
+            <option value="">Please Select</option>
+            <option *ngFor="let option of filters[2].options" [value]="option">{{ option }}</option>
+          </select>
+        </div>
+      </div>
+      <button class="search-button" (click)="search()">SEARCH</button>
+    </div>
+
+    <div class="right-panel">
+      <div *ngIf="data.length === 0; else dataTable">
+        <img src="assets/charge.gif" alt="Loading..."/>
+      </div>
+      <ng-template #dataTable>
+        <table class="styled-table">
+          <thead>
+          <tr>
+            <th>DISTRICT</th>
+            <th>LOCATION</th>
+            <th>ADDRESS</th>
+            <th>OPTION</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr *ngFor="let row of data">
+            <td>{{ row.NAME_OF_DISTRICT_COUNCIL_DISTRICT_EN }}</td>
+            <td>{{ row.LOCATION_EN }}</td>
+            <td>{{ row.ADDRESS_EN }}</td>
+            <td class="option-buttons">
+
+              <button class="btn details-btn" (click)="viewDetails(row)">Details</button>
+
+            </td>
+          </tr>
+          </tbody>
+        </table>
+      </ng-template>
+    </div>
+  </div>
+</div>

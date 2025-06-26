@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+        crossorigin=""></script>
+
+<div class="homepage-container">
+
+  <div id="map" style="height: calc(100% );"></div>
+</div>
+
+<div class="floating-panel" *ngIf="rowData">
+  <label><strong>Address:</strong> {{ rowData.ADDRESS_TC }}</label>
+  <label><strong>Latitude:</strong> {{ rowData.GeometryLatitude }}</label>
+  <label><strong>Longitude:</strong> {{ rowData.GeometryLongitude }}</label>
+  <label><strong>Location:</strong> {{ rowData.LOCATION_TC }}</label>
+  <label><strong>District:</strong> {{ rowData.NAME_OF_DISTRICT_COUNCIL_DISTRICT_TC }}</label>
+</div>

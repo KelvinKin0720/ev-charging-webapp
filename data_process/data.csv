@@ -1,0 +1,671 @@
+﻿NAME_OF_DISTRICT_COUNCIL_DISTRICT_EN,LOCATION_EN,ADDRESS_EN,NAME_OF_DISTRICT_COUNCIL_DISTRICT_TC,LOCATION_TC,ADDRESS_TC,NAME_OF_DISTRICT_COUNCIL_DISTRICT_SC,LOCATION_SC,ADDRESS_SC,STANDARD_BS1363_no,MEDIUM_IEC62196_no,MEDIUM_SAEJ1772_no,MEDIUM_OTHERS_no,QUICK_CHAdeMO_no,QUICK_CCS_DC_COMBO_no,QUICK_IEC62196_no,QUICK_GB_T20234_3_DC__no,QUICK_OTHERS_no,REMARK_FOR__OTHERS_,DATA_PATH,GeometryLongitude,GeometryLatitude
+Central & Western,The Peak Galleria,"118 Peak Rd, The Peak",中西區,山頂廣場,山頂道118號,中西区,山顶广场,山顶道118号,0,3,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.14944000000003,22.270535000000052
+Central & Western,The Centrium,"60 Wyndham Street, Central",中西區,中央廣場,中環雲咸街60號,中西区,中央广场,中环云咸街60号,2,2,0,0,0,0,0,0,0,-,-,114.15465200000006,22.28061900000006
+Central & Western,Three Garden Road Carpark,GARDEN ROAD,中西區,花園道三號停車場,花園道,中西区,花园道三号停车场,花园道,3,20,0,2,0,0,0,0,0,-,-,114.16126200000008,22.278653000000077
+Central & Western,NEW WORLD TOWER,"QUEEN'S ROAD CENTRAL, CENTRAL & WESTERN",中西區,新世界大廈,中西區 皇后大道中,中西区,新世界大厦,中西区 皇后大道中,1,0,0,0,0,0,0,0,0,-,-,114.15693400000009,22.280323000000067
+Central & Western,Star Ferry Car Park,"9 Edinburgh Place, Central, Hong Kong",中西區,天星停車場,香港中環愛丁堡廣場9號,中西区,天星停车场,香港中环爱丁堡广场9号,3,38,0,0,1,1,1,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.16044000000011,22.282755000000066
+Central & Western,City Hall Car Park,"1 Edinburgh Place, Central, Hong Kong",中西區,大會堂停車場,香港中環愛丁堡廣場1號,中西区,大会堂停车场,香港中环爱丁堡广场1号,0,30,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.16214000000002,22.281911000000036
+Central & Western,Rumsey Street Car Park,"2 Rumsey Street, Sheung Wan, Hong Kong",中西區,林士街停車場,香港上環林士街2號,中西区,林士街停车场,香港上环林士街2号,0,110,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.15322700000002,22.287408000000028
+Central & Western,Queensway Government Offices,"No. 66 Queensway, Hong kong",中西區,金鐘道政府合署,香港金鐘道66號,中西区,金钟道政府合署,香港金钟道66号,0,48,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.16388700000005,22.277721000000042
+Central & Western,One International Finance Centre,"1 Harbour View St, Central",中西區,國際金融中心一期,中環港景街1號,中西区,国际金融中心一期,中环港景街1号,0,1,0,0,0,0,0,0,0,-,-,114.15700000000004,22.285454000000072
+Central & Western,TWO IFC (International Finance Centre) - IFC II,"FINANCE STREET, CENTRAL & WESTERN",中西區,國際金融中心二期,中西區 金融街,中西区,国际金融中心二期,中西区 金融街,0,0,0,0,3,3,20,0,3,-,-,114.1577390000001,22.285874000000035
+Central & Western,Pacific Place,"88 Queensway, Hong Kong",中西區,太古廣場,香港金鐘道88號,中西区,太古广场,香港金钟道88号,0,0,0,0,0,3,5,0,4,-,-,114.16538200000002,22.277634000000035
+Wan Chai,Three Pacific Place,Wing Fung Street.,灣仔區,太古廣場三座,永豐街,湾仔区,太古广场三座,永丰街,0,0,0,0,0,0,4,0,0,-,-,114.16779300000007,22.276838000000055
+Central & Western,WING ON CENTRE,"CONNAUGHT ROAD CENTRAL, CENTRAL & WESTERN",中西區,永安中心,中西區 干諾道中,中西区,永安中心,中西区 干诺道中,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.1530130000001,22.286590000000047
+Central & Western,Cheung Kong Center Car Park,"2 Queen's Road Central, Hong Kong",中西區,長江集團中心停車場,香港中環皇后大道中2號,中西区,长江集团中心停车场,香港中环皇后大道中2号,0,0,0,0,0,0,2,0,0,-,-,114.16011800000001,22.279207000000042
+Central & Western,CITIC TOWER,"TIM MEI AVENUE, CENTRAL & WESTERN",中西區,中信大廈,中西區 添美道,中西区,中信大厦,中西区 添美道,0,0,0,0,0,0,0,0,3,Tesla Wall Connector,-,114.16716100000008,22.280631000000028
+Central & Western,"Hong Kong University, Composite Building Car Park",Lung Fu Shan,中西區,香港大學綜合大樓停車場,龍虎山,中西区,香港大学综合大楼停车场,龙虎山,0,0,0,0,1,1,1,0,0,-,-,114.13599600000009,22.28334300000006
+Central & Western,Island Pacific Hotel,"14, Centre Street",中西區,港島太平洋酒店,西營盤正街14號,中西区,港岛太平洋酒店,西营盘正街14号,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.14236100000005,22.288181000000066
+Central & Western,CENTRESTAGE,"HOLLYWOOD ROAD, CENTRAL & WESTERN",中西區,聚賢居,中西區 荷李活道,中西区,聚贤居,中西区 荷李活道,0,0,0,6,0,0,0,0,0,Tesla Wall Connector,-,114.15089200000011,22.28377000000006
+Central & Western,Kwun Lun Lau,"20 Lung Wah St, Kennedy Town",中西區,觀龍樓,堅尼地城龍華街20號,中西区,观龙楼,坚尼地城龙华街20号,0,1,0,0,0,0,0,0,0,-,-,114.12850300000002,22.27989800000006
+Central & Western,Sun Yat Sen Memorial Park Sports Centre,"18,Eastern Street North,Sai Ying Pun,Hong Kong ",中西區,中山紀念公園體育館,香港島西營盤東邊街北18號 ,中西区,中山纪念公园停车场(体育馆),西营盘东边街北18号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.14355300000011,22.28979700000008
+Central & Western,Sun Yat Sen Memorial Park,"16 Eastern Street North, Sai Ying Pun, Hong Kong",中西區,中山紀念公園,西營盤東邊街北16號,中西区,中山纪念公园停车场(游泳池),西营盘东边街北16号,0,12,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.14446900000007,22.289491000000055
+Central & Western,ISLAND SHANGRI-LA HOTEL,"QUEENSWAY, CENTRAL & WESTERN",中西區,港島香格里拉大酒店,中西區 金鐘道,中西区,港岛香格里拉大酒店,中西区 金钟道,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.16430900000012,22.27713600000004
+Central & Western,Kennedy Town Car Park,"12 Rock Hill Street, Kennedy Town, Hong Kong",中西區,堅尼地城停車場,香港堅尼地城石山街12號,中西区,坚尼地城停车场,香港坚尼地城石山街12号,0,59,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.12897800000007,22.281790000000058
+Central & Western,THE CENTER,"QUEEN'S ROAD CENTRAL, CENTRAL & WESTERN",中西區,中環中心,中西區 皇后大道中,中西区,中环中心,中西区 皇后大道中,0,6,0,0,0,0,0,0,0,-,-,114.15470200000004,22.28460400000006
+Central & Western,MAN YEE BUILDING,"DES VOEUX ROAD CENTRAL, CENTRAL & WESTERN",中西區,萬宜大廈,中西區 德輔道中,中西区,万宜大厦,中西区 德辅道中,0,2,0,0,0,0,2,0,0,-,-,114.15614800000003,22.283656000000065
+Central & Western,Bank of China Building,"Bank Street, Central",中西區,中國銀行大廈,中環銀行街,中西区,中国银行大厦,中环银行街,0,0,0,0,0,0,0,0,0,-,-,114.15992300000005,22.28010800000004
+Central & Western,Cloudlands,"35-37 Plantation Rd, The Peak",中西區,雲嶺山莊,山頂種植道35-37號,中西区,云岭山庄,山顶种植道35-37号,0,4,0,0,0,0,0,0,0,-,-,114.15396200000009,22.26801000000006
+Central & Western,Admiralty Car Park,"Rodney Street, Queensway, Admiralty",中西區,金鐘停車場,金鐘樂禮街,中西区,金钟停车场,金钟乐礼街,0,11,0,0,1,1,0,0,0,-,-,114.16585800000007,22.27841200000006
+Central & Western,Grandview Garden Soho  ,"Grandview Garden Block 1, 18 Bridges St, Tai Ping Shan",中西區,雍翠臺 蘇豪,太平山必列者士街18號,中西区,雍翠台 苏豪,太平山必列者士街18号,0,0,0,6,0,0,0,0,4,Tesla Supercharger,-,114.15090000000009,22.28345900000005
+Central & Western,Bank of China Tower,"1 Garden Rd, Central",中西區,中銀大廈,花園道1號,中西区,中银大厦,花园道1号,0,0,0,0,0,0,8,0,0,-,-,114.16171400000007,22.278865000000053
+Central & Western,SHUN TAK CENTRE,"CONNAUGHT ROAD CENTRAL, CENTRAL & WESTERN",中西區,信德中心,中西區 干諾道中,中西区,信德中心,中西区 干诺道中,0,0,0,0,0,0,0,0,10,Tesla Supercharger,-,114.15182900000002,22.28793600000006
+Central & Western,The Westwood,"The Westwood, Belcher's St, Kennedy Town",中西區,西寶城,"卑路乍街, 堅尼地城",中西区,西宝城,"卑路乍街, 坚尼地城",0,0,0,0,0,0,0,0,4,Tesla Supercharger,-,114.1336510000001,22.28422000000006
+Central & Western,Two MacDonnell Road,Two MacDonnell Road,中西區,麥當勞道2號,香港半山麥當勞道2號,中西区,麦当劳道2号,香港半山麦当劳道2号,0,2,0,0,0,2,0,0,0,-,-,114.15578700000003,22.276012000000037
+Eastern,Cityplaza Carpark,"Cityplaza, 18 Taikoo Shing Road, Tai Koo Shing, Hong Kong",東區,太古城中心停車場,香港太古城太古城道18號太古城中心,东区,太古城中心停车场,香港太古城太古城道18号太古城中心,0,0,0,0,0,2,24,0,0,-,-,114.21734600000002,22.28670500000004
+Wan Chai,Electric Road 148,"148 Electric Road, North Point",灣仔區,電氣道148號,北角電氣道148號,湾仔区,电气道148号,北角电气道148号,2,0,0,0,0,0,0,0,0,-,-,114.19176600000003,22.28661900000003
+Eastern,Cornell Centre,"50 Wing Tai Road, Chai Wan, Hong Kong",東區,港利中心,香港柴灣永泰道50號,东区,港利中心,香港柴湾永泰道50号,1,0,0,0,0,0,0,0,0,-,-,114.2428440000001,22.26746000000003
+Eastern,Kerry Centre,"KING'S ROAD, EASTERN",東區,嘉里中心,東區 英皇道,东区,嘉里中心,东区 英皇道,0,4,0,0,0,0,0,0,0,-,-,114.20966600000008,22.290474000000074
+Eastern,Island Resort,"28 Siu Sai Wan Road, Chai Wan",東區,藍灣半島,柴灣小西灣道28號,东区,蓝湾半岛,柴湾小西湾道28号,4,0,0,3,0,0,0,0,3,-,-,114.25089700000001,22.26633400000003
+Eastern,Oxford House,"979 King's Road, Quarry Bay, Hong Kong",東區,濠豐大廈,香港鰂魚涌太古坊英皇道979號,东区,濠丰大厦,香港鰂鱼涌太古坊英皇道979号,2,0,0,0,0,0,0,0,0,-,-,114.21350900000004,22.287157000000036
+Eastern,Dorset House and PCCW Tower,"979 King's Road, Quarry Bay, Hong Kong",東區,多盛大廈及電訊盈科中心,香港鰂魚涌太古坊英皇道979號,东区,多盛大厦及电讯盈科中心,香港鰂鱼涌太古坊英皇道979号,2,0,0,0,0,0,3,0,0,-,-,114.2120000000001,22.287090000000035
+Eastern,One Island East,"18 Westlands Rd, Quarry Bay",東區,港島東中心,鰂魚涌華蘭路18號,东区,港岛东中心,鲗鱼涌华兰路18号,1,0,0,0,0,0,0,0,0,-,-,114.21301900000003,22.28649900000005
+Eastern,Kornhill Plaza (south),Hong On Street,東區,康怡廣場 (南),康安街,东区,康怡广场 (南),康安街,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.2170470000001,22.284291000000053
+Eastern,Kornhill Plaza,"2 Kornhill Road, Quarry Bay, Hong Kong",東區,康怡廣場,康山道2號 鰂魚涌,东区,康怡广场,康山道2号 鰂鱼涌,0,4,0,0,0,2,0,0,0,-,-,114.2163700000001,22.28399500000006
+Eastern,Trend Centre,"CHEUNG LEE STREET, EASTERN",東區,國貿中心,東區 祥利街,东区,国贸中心,东区 祥利街,1,0,0,0,0,0,0,0,0,-,-,114.23532100000011,22.265359000000046
+Eastern,North Point Government Offices,"No. 333 Java Road, North Point, Hong Kong",東區,北角政府合署,香港北角渣華道333號,东区,北角政府合署,香港北角渣华道333号,0,29,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.20836600000007,22.29232600000006
+Eastern,Shau Kei Wan Car Park,1 Po Man Street,東區,筲箕灣停車場,寶文街1號,东区,筲箕湾停车场,香港筲箕湾宝文街1号,0,116,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.22955400000001,22.278703000000064
+Eastern,Paradise Mall Carpark,"100 SHING TAI ROAD, Eastern District, Hong Kong",東區,杏花新城停車場,香港 東區 盛泰道100號,东区,杏花新城停车场,香港 东区 盛泰道100号,1,2,0,0,1,1,3,0,5,-,-,114.23889700000007,22.278001000000074
+Wan Chai,Lai Tak Tsuen,"LAI TAK TSUEN ROAD, EASTERN",灣仔區,勵德邨,東區 勵德邨道,湾仔区,励德邨,东区 励德邨道,0,2,0,0,0,0,0,0,0,-,-,114.19392300000004,22.278816000000063
+Eastern,Hing Wah Plaza,"11 Wan Tsui Rd, Chai Wan",東區,興華廣場,柴灣環翠道11號,东区,兴华广场,柴湾环翠道11号,0,12,0,0,0,4,0,0,0,-,-,114.23466500000006,22.263163000000077
+Eastern,Lincoln House,"979 King's Road, Quarry Bay, Hong Kong",東區,林肯大廈,香港鰂魚涌太古坊英皇道979號,东区,林肯大厦,香港鰂鱼涌太古坊英皇道979号,0,0,0,0,0,0,0,0,4,Tesla Supercharger,-,114.21223200000009,22.287686000000065
+Eastern,Berkshire House,"25 Westlands Road, Quarry Bay, Hong Kong",東區,柏克大廈,香港鰂魚涌華蘭路25號,东区,柏克大厦,香港鰂鱼涌华兰路25号,0,0,0,0,0,0,2,0,0,-,-,114.21331000000009,22.287580000000048
+Eastern,HEALTHY GARDENS,"KING'S ROAD, EASTERN",東區,健威花園,東區 英皇道,东区,健威花园,东区 英皇道,0,0,0,18,0,0,0,0,0,Tesla Wall Connector,-,114.20331800000008,22.29149300000006
+Eastern,City Garden Hotel,Power Street,東區,城市花園酒店,北角大強街,东区,城市花园酒店,北角大强街,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.19386400000008,22.290055000000052
+Eastern,Smiling Shau Kei Wan Plaza,"17, Nam On St, Shau Kei Wan",東區,天悅筲箕灣廣場,筲箕灣南安街17號,东区,天悦筲箕湾广场,筲箕湾南安街17号,0,0,0,0,0,0,6,0,0,-,-,114.22626900000012,22.278036000000043
+Eastern,Cheerful Garden,Fu Yee Rd,東區,富怡花園,小西灣富怡道,东区,富怡花园,小西湾富怡道,0,1,0,0,0,0,1,0,0,-,-,114.2505020000001,22.263760000000048
+Eastern,Harbour Grand Hong Kong,"18 King Wah Rd, North Point",東區,港島海逸君綽酒店,北角京華道18號,东区,港岛海逸君绰酒店,北角京华道18号,0,0,0,0,0,0,2,0,0,-,-,114.19180600000004,22.288677000000064
+Eastern,Grand Promenade,"38 Tai Hong Street, Sai Wan Ho",東區,嘉亨灣,西灣河太康街38號,东区,嘉亨湾,西湾河太康街38号,0,3,0,0,0,0,0,0,0,-,-,114.2244720000001,22.285368000000062
+Eastern,King's Road 1063,"16 Shipyard Ln, Quarry Bay",東區,英皇道1063號,鰂魚涌船塢里16號,东区,英皇道1063号,鲗鱼涌船坞里16号,0,4,0,0,0,0,0,0,0,-,-,114.21377100000007,22.285451000000023
+Eastern,K11 ATELIER KING'S ROAD,728 KING'S ROAD,東區,K11 ATELIER KING'S ROAD,英皇道728號,东区,K11 ATELIER KING'S ROAD,英皇道728号,0,2,0,5,0,2,0,0,4,Tesla Supercharger,-,114.20749300000011,22.291217000000074
+Eastern,The Tanner Hill,"TANNER ROAD, EASTERN",東區,雋悅,東區 丹拿道,东区,隽悦,东区 丹拿道,0,1,0,0,0,0,0,0,0,-,-,114.20113400000002,22.289873000000057
+Eastern,Harmony Place,NAM ON STREET,東區,樂融軒,東區 南安街,东区,乐融轩,东区 南安街,0,19,0,0,0,0,0,0,0,-,-,114.22715800000003,22.278151000000037
+Eastern,HING MAN ESTATE,"HING MAN STREET, EASTERN",東區,興民邨,東區 興民街,东区,兴民邨,东区 兴民街,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.23281700000007,22.267844000000025
+Eastern,Siu Sai Wan Sports Ground,"8 Fu Hong Street, Siu Sai Wan",東區,小西灣運動場停車場,小西灣富康街8號,东区,小西湾运动场停车场,小西湾富康街8号,0,15,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.24790800000005,22.267510000000073
+Eastern,Island East Sports Center,"52 Lei King Road, Sai Wan Ho, Hong Kong",東區,港島東體育館停車場,香港西灣河鯉景道52號,东区,港岛东体育馆停车场,香港西湾河鲤景道52号,0,19,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.2223590000001,22.28487000000007
+Eastern,Island Place,"60-36 Tanner Rd, North Point",東區,港運城,北角丹拿道60-36號,东区,港运城,北角丹拿道60-36号,0,0,0,0,0,0,6,0,0,-,-,114.2029060000001,22.290819000000056
+Eastern,Hing Tung Car Park ,"Hing Tung Shopping Centre, 55 Yiu Hing Road, Shau Kei Wan, Hong Kong",東區,興東停車場,香港筲箕灣耀興道55號興東商場,东区,兴东停车场,香港筲箕湾耀兴道55号兴东商场,0,45,0,0,0,0,0,0,0,-,-,114.22007200000007,22.280490000000043
+Eastern,Carrus Customs,"15, Ching Wah St, North Point",東區,Carrus Customs,北角清華街15號,东区,Carrus Customs,北角清华街15号,0,1,0,0,0,0,0,0,0,-,-,114.19775300000003,22.289067000000045
+Eastern,Pamela Youde Nethersole Eastern Hospital Visitor Car Park,"3 LOK MAN ROAD, CHAI WAN, HONG KONG",東區,東區尤德夫人那打素醫院訪客停車場,香港柴灣樂民道3號,东区,东区尤德夫人那打素医院访客停车场,香港柴湾乐民道3号,0,1,0,0,0,0,0,0,0,-,-,114.2350110000001,22.269284000000027
+Eastern,Two Taikoo Place,"53A Pan Hoi St, Quarry Bay",東區,太古坊二座,鰂魚涌濱海街53A號,东区,太古坊二座,鲗鱼涌滨海街53A号,0,0,0,6,0,0,0,0,3,Tesla Wall Connector / Supercharger,-,114.2115520000001,22.28673200000003
+Eastern,Wan Tsui Car Park ,"Wan Tsui Commercial Complex, 2 Wah Ha Street, Chai Wan, Hong Kong",東區,環翠停車場,香港柴灣華廈街2號環翠商場,东区,环翠停车场,香港柴湾华厦街2号环翠商场,0,36,0,0,0,0,0,0,0,-,-,114.23682600000006,22.261888000000056
+Eastern,Devon House,"979 King's Road, Quarry Bay, Hong Kong",東區,德宏大廈,香港鰂魚涌太古坊英皇道979號,东区,德宏大厦,香港鰂鱼涌太古坊英皇道979号,0,10,0,0,0,0,0,0,0,-,-,114.21106000000009,22.28718900000007
+Eastern,Healthy Village I & II,"192 Tsat Tsz Mui Rd, Tsat Tsz Mui",東區,健康村 I & II,北角七姊妹道 192號,东区,健康村 I & II,北角七姊妹道 192号,0,2,0,0,0,0,0,0,0,-,-,114.20623200000011,22.291432000000043
+Eastern,Ming Wah Dai Ha,"1 A Kung Ngam Rd, Shau Kei Wan",東區,明華大廈,筲箕灣阿公岩道1號,东区,明华大厦,筲箕湾阿公岩道1号,0,21,0,0,0,0,0,0,0,-,-,114.23110900000006,22.276227000000063
+Eastern,Marina House,"32 Hoi An St, Shau Kei Wan",東區,海天廣場,32 海晏街,东区,海天广场,32 海晏街,1,0,0,0,0,0,0,0,0,-,-,114.22413700000004,22.280790000000025
+Eastern,Yiu Tung Shopping Centre Car Park,"Yiu Tung Shopping Centre, 12 Yiu Hing Road, Shau Kei Wan, Hong Kong",東區,耀東商場停車場,香港筲箕灣耀興道12號耀東商場,东区,耀东商场停车场,香港筲箕湾耀兴道12号耀东商场,0,2,0,0,0,0,0,0,0,-,-,114.2235710000001,22.277304000000072
+Southern,Cyberport Carpark 1 & 2,"100 Cyberport Rd, Telegraph Bay, Southern District",南區,數碼港停車場(一&二),南區鋼綫灣數碼港道100號,南区,数码港停车场(一&二),南区钢綫湾数码港道100号,2,0,0,3,0,0,2,0,9,-,-,114.13017100000002,22.262076000000036
+Southern,Cyberport Carpark 3,"100 Cyberport Rd, Telegraph Bay, Southern District",南區,數碼港停車場(三),南區鋼綫灣數碼港道100號,南区,数码港停车场(三),南区钢綫湾数码港道100号,0,0,0,6,0,0,2,0,9,-,-,114.13169300000004,22.259596000000045
+Southern,Stanley Plaza Car Park ,"Stanley Plaza, 23 Carmel Road, Stanley, Hong Kong",南區,赤柱廣場停車場,香港赤柱佳美道23號赤柱廣場,南区,赤柱广场停车场,香港赤柱佳美道23号赤柱广场,0,28,0,0,0,6,0,0,0,-,-,114.20890000000009,22.220330000000047
+Southern,The Pulse,"BEACH ROAD, SOUTHERN",南區,The Pulse,南區 海灘道,南区,The Pulse,南区 海滩道,0,1,0,0,0,1,0,0,6,-,-,114.19828100000007,22.235460000000046
+Southern,L'hotel Island South,11 Tong Bin Ln,南區,如心南灣海景酒店,黃竹坑塘邊徑11號,南区,如心南湾海景酒店,黄竹坑塘边径11号,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.16798800000004,22.250012000000027
+Southern,One Island South,"HEUNG YIP ROAD, SOUTHERN",南區,One Island South,南區 香葉道,南区,One Island South,南区 香叶道,2,0,0,0,0,0,0,0,0,-,-,114.16878300000008,22.248849000000064
+Southern,OCEAN PARK,"180 WONG CHUK HANG ROAD, Southern District, Hong Kong",南區,香港海洋公園,香港 南區 黃竹坑道180號,南区,香港海洋公园,香港 南区 黄竹坑道180号,0,1,0,0,0,0,0,0,0,-,-,114.17468200000008,22.248215000000073
+Southern,Upper Baguio Villa,"Victoria Rd, Pok Fu Lam",南區,上碧瑤灣,薄扶林域多利道,南区,上碧瑶湾,薄扶林域多利道,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.13345300000003,22.261979000000053
+Southern,TIN WAN ESTATE CAR PARK,"TIN WAN STREET, SOUTHERN",南區,田灣邨多層停車場,南區 田灣街,南区,田湾邨多层停车场,南区 田湾街,0,0,0,4,0,0,0,0,0,Tesla Wall Connector,-,114.14944500000001,22.25061900000003
+Southern,Chi Fu Landmark,Chi Fu Road,南區,置富南區廣場,薄扶林置富道,南区,置富南区广场,薄扶林置富道,2,0,0,0,0,0,2,0,0,-,-,114.13895100000002,22.25799500000005
+Southern,The Hong Kong Ocean Park Marriott Hotel,"WONG CHUK HANG ROAD, SOUTHERN",南區,香港海洋公園萬豪酒店,南區 黃竹坑道,南区,香港海洋公园万豪酒店,南区 黄竹坑道,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.17586700000004,22.247730000000047
+Southern,Ap Lei Chau Waterfront Promenade,"No.8 Hung Shing Street, Ap Lei Chau, Hong Kong.",南區,鴨脷洲海濱長廊,鴨脷洲洪聖街8號,南区,鸭脷洲海滨长廊,鸭脷洲洪圣街8号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.15533500000004,22.244890000000055
+Southern,KAM FUNG BUILDING,"ABERDEEN MAIN ROAD, SOUTHERN",南區,金豐大廈,南區 香港仔大道,南区,金丰大厦,南区 香港仔大道,0,2,0,0,0,0,0,0,0,-,-,114.15543500000001,22.248662000000024
+Southern,Deep Water Bay Carpark,"Island Road, Deep Water Bay",南區,深水灣泳灘停車場,深水灣香島道,南区,深水湾泳滩停车场,深水湾香岛道,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.18841600000007,22.24439200000006
+Southern,Bel-Air (Phase 1 & 2),"Residence Bel-air Club Bel-air (bay Wing), 48 Bel-air Ave, Telegraph Bay",南區,貝沙灣1 & 2期,薄扶林貝沙灣道48號,南区,贝沙湾1 &amp; 2期,薄扶林贝沙湾道48号,0,2,0,0,0,0,0,0,0,-,-,114.13196500000004,22.257882000000052
+Southern,Bel-Air (Phase 4),"8 Bel-air Peak Ave, Telegraph Bay",南區,貝沙灣4期,鋼綫灣貝沙山道8號,南区,贝沙湾4期,钢线湾贝沙山道8号,0,2,0,0,0,0,0,0,0,-,-,114.13369100000011,22.25432900000004
+Southern,Bel-Air (Phase 6),"8 Bel-air Peak Ave, Telegraph Bay",南區,貝沙灣6期,Bel-Air (Phase 6) 貝沙灣6期,南区,贝沙湾6期,Bel-Air (Phase 6) 贝沙湾6期,0,2,0,0,0,0,0,0,0,-,-,114.13369100000011,22.25432900000004
+Southern,Aberdeen Car Park,"18 Aberdeen Reservoir Road, Aberdeen, Hong Kong",南區,香港仔停車場,香港仔香港仔水塘道18號,南区,香港仔停车场,香港仔香港仔水塘道18号,0,44,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.1566180000001,22.25027300000005
+Southern,Shek Pai Wan Estate Car Park,"Shek Pai Wan, Yue Kwong Road, Aberdeen, Hong Kong",南區,石排灣邨停車場,香港仔石排灣漁光道,南区,石排湾邨停车场,香港仔石排湾渔光道,0,4,0,0,0,0,0,0,0,-,-,114.15856900000006,22.249210000000062
+Southern,Fullerton Ocean Park Hotel,"3 Ocean Dr, Wong Chuk Hang",南區,香港富麗敦海洋公園酒店,香港仔海洋徑3號,南区,香港富丽敦海洋公园酒店,香港仔海洋径3号,0,7,0,0,0,0,0,0,3,Tesla Supercharger,-,114.16539100000011,22.236556000000064
+Southern,Landmark South,39 Yip Kan St ,南區,Landmark South,黃竹坑業勤街39號,南区,Landmark South,黄竹坑业勤街39号,0,110,0,0,2,2,0,0,3,Tesla Supercharger,-,114.16682300000002,22.249322000000063
+Southern,RED HILL PLAZA,"RED HILL ROAD, SOUTHERN",南區,紅山廣場,南區 紅山道,南区,红山广场,南区 红山道,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.22323200000005,22.236528000000078
+Southern,The Southside,"11 Heung Yip Rd, Wong Chuk Hang",南區,The Southside,黃竹坑香葉道11號,南区,The Southside,黄竹坑香叶道11号,0,0,0,232,0,0,0,0,3,Tesla Supercharger,-,114.16647000000012,22.247176000000024
+Southern,S22,22 Heung Yip Rd,南區,S22,香葉道22號,南区,S22,香叶道22号,0,0,0,0,2,2,2,0,0,-,-,114.16578300000003,22.247795000000053
+Southern,MARINA HABITAT,"YUET HOI STREET, SOUTHERN",南區,悅海華庭,南區 悅海街,南区,悦海华庭,南区 悦海街,0,5,0,0,0,0,0,0,0,-,-,114.15468900000008,22.244336000000033
+Wan Chai,EAGLE HARBOUR PUBLIC CARPARK,"23 - 25 HARBOUR ROAD, Wan Chai District, Hong Kong",灣仔區,鷹港公眾停車埸,香港 灣仔區 港灣道23 - 25號,湾仔区,鹰港公众停车埸,香港 湾仔区 港湾道23 - 25号,2,0,0,0,0,0,0,0,0,-,-,114.17531300000007,22.28099100000003
+Wan Chai,Hopewell Centre,"183 Queen’s Road East, Wan Chai, Hong Kong (Entrance on Kennedy Road)",灣仔區,合和中心,香港灣仔皇后大道東183號 (入口於堅尼地道),湾仔区,合和中心,香港湾仔皇后大道东183号 (入口於坚尼地道),0,6,0,4,0,7,0,0,13,Tesla Wall Connector,-,114.17167300000006,22.27459200000004
+Wan Chai,Wu Chung House,"213 Queen's Road East, Wan Chai District, Hong Kong",灣仔區,胡忠大廈,香港 灣仔區 皇后大道東213號,湾仔区,胡忠大厦,香港 湾仔区 皇后大道东213号,9,0,0,0,0,0,0,0,0,-,-,114.17247300000008,22.27437100000003
+Wan Chai,Olympic House A,"STADIUM PATH, WAN CHAI",灣仔區,奧運大樓 A,灣仔 大球場徑,湾仔区,奥运大楼 A,湾仔 大球场径,2,0,0,0,0,0,0,0,0,-,-,114.18764500000009,22.273446000000035
+Wan Chai,Sino Plaza,"255-257 Gloucester Road, Causeway Bay",灣仔區,信和廣場,銅鑼灣告士打道255 – 257號,湾仔区,信和广场,铜锣湾告士打道255 – 257号,2,0,0,0,0,0,0,0,0,-,-,114.1823280000001,22.281372000000033
+Wan Chai,Times Square Car Park,"1 Matheson Street, Times Square, Causeway Bay, Hong Kong",灣仔區,時代廣場停車場,香港銅鑼灣勿地臣街1號時代廣場,湾仔区,时代广场停车场,香港铜锣湾勿地臣街1号时代广场,16,2,0,0,0,0,0,0,0,-,-,114.1816970000001,22.278257000000053
+Wan Chai,Tin Hau Car Park,"1 King's Road, Causeway Bay, Hong Kong'",灣仔區,天后停車場,香港銅鑼灣英皇道1號,湾仔区,天后停车场,香港铜锣湾英皇道1号,3,162,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.19166500000006,22.28288200000003
+Wan Chai,Convention Plaza Car Park (Harbour Road),"1 Harbour Road, Wanchai, Hong Kong",灣仔區,會展廣場停車場(港灣道),香港灣仔港灣道一號,湾仔区,会展广场停车场(港湾道),香港湾仔港湾道一号,3,0,0,3,0,0,0,0,0,-,-,114.1715190000001,22.280696000000034
+Wan Chai,Convention Plaza (Expo Drive Central Road) Carpark,"Expo Drive Central, Wan Chai",灣仔區,會展廣場(博覽道中)停車場,灣仔博覽道中,湾仔区,会展广场(博览道中)停车场,湾仔博览道中,2,0,0,0,0,12,0,0,0,-,-,114.17374900000004,22.282621000000063
+Wan Chai,SHUI ON CENTRE,"6-8, Harbour Road, Wanchai",灣仔區,瑞安中心,灣仔 港灣道 6-8號,湾仔区,瑞安中心,湾仔 港湾道 6-8号,0,10,0,0,0,0,0,0,1,-,-,114.1716540000001,22.280207000000075
+Wan Chai,LEE GARDEN ONE CAR PARK,"33 HYSAN AVENUE, Wan Chai District, Hong Kong",灣仔區,利園一期停車場,香港 灣仔區 希慎道33號,湾仔区,利园一期停车场,香港 湾仔区 希慎道33号,0,0,0,33,0,0,0,0,3,Tesla Wall Connector / Supercharger,-,114.18479300000001,22.278598000000045
+Wan Chai,Lee Garden Two Car Park,"28 YUN PING ROAD, Wan Chai District, Hong Kong",灣仔區,利園二期停車場,香港 灣仔區 恩平道28號,湾仔区,利园二期停车场,香港 湾仔区 恩平道28号,0,0,0,12,0,0,0,0,0,-,-,114.18594400000006,22.278252000000066
+Wan Chai,Lee Garden Three Car Park,"1 Sunning Road, Causeway Bay, Hong Kong",灣仔區,利園三期停車場,香港 銅鑼灣 新寧道1號,湾仔区,利园三期停车场,香港 铜锣湾 新宁道1号,0,0,0,40,2,2,7,0,6,-,-,114.18535900000006,22.27764700000006
+Wan Chai,SUN HUNG KAI CENTRE,"HARBOUR ROAD, WAN CHAI",灣仔區,新鴻基中心,灣仔 港灣道,湾仔区,新鸿基中心,湾仔 港湾道,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.17695500000002,22.280316000000028
+Wan Chai,World Trade Centre,"280 Gloucester Road, Causeway Bay",灣仔區,世界貿易中心,銅鑼灣告士打道280號,湾仔区,世界贸易中心,铜锣湾告士打道280号,1,0,0,0,0,0,3,0,0,-,-,114.18391500000007,22.282115000000033
+Wan Chai,Mira Moon Hotel,"388 Jaffe Rd, Wan Chai",灣仔區,問月酒店,灣仔謝斐道388號,湾仔区,问月酒店,湾仔谢斐道388号,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.17960300000004,22.279914000000076
+Wan Chai,Regal Hong Kong Hotel,"17, Irving Street, Causeway Bay",灣仔區,富豪香港酒店,銅鑼灣伊榮街17號,湾仔区,富豪香港酒店,铜锣湾伊荣街17号,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.18667900000003,22.278946000000076
+Wan Chai,LEIGHTON CAR PARK,"77 LEIGHTON ROAD, Wan Chai District, Hong Kong",灣仔區,禮頓中心停車場,香港 灣仔區 禮頓道77號,湾仔区,礼顿中心停车场,香港 湾仔区 礼顿道77号,0,0,0,30,0,0,0,0,0,-,-,114.18310000000008,22.277768000000037
+Wan Chai,Central Plaza Wan Chai,"HARBOUR ROAD, WAN CHAI",灣仔區,中環廣場,灣仔 港灣道,湾仔区,中环广场,湾仔 港湾道,0,2,0,3,0,2,0,0,0,Tesla Wall Connector,-,114.17360600000006,22.279999000000032
+Wan Chai,Harbour Centre,"23 Harbour Rd, Wan Chai",灣仔區,海港中心,灣仔港灣道23號,湾仔区,海港中心,湾仔港湾道23号,1,0,0,0,0,0,0,0,0,-,-,114.17533500000002,22.28077200000007
+Wan Chai,Lee Tung Avenue Commerical Carpark,"200 Queen's Road East, Wan Chai, Hong Kong (Entrance on Spring Garden Lane)",灣仔區,利東街商場停車場,香港灣仔皇后大道東200號 (入口於春園街),湾仔区,利东街商场停车场,香港湾仔皇后大道东200号 (入口于春园街),10,8,0,15,0,0,0,0,0,-,-,114.17202000000009,22.275387000000023
+Wan Chai,WINDSOR HOUSE,"GLOUCESTER ROAD, WAN CHAI",灣仔區,皇室大廈,灣仔 告士打道,湾仔区,皇室大厦,湾仔 告士打道,0,11,0,0,0,0,1,0,0,-,-,114.1864220000001,22.280451000000028
+Wan Chai,CHINA RESOURCES BLDG,"HARBOUR ROAD, WAN CHAI",灣仔區,華潤大廈,灣仔 港灣道,湾仔区,华润大厦,湾仔 港湾道,0,0,0,4,0,0,0,0,0,Tesla Wall Connector,-,114.1753020000001,22.280027000000075
+Wan Chai,The Emperor Hotel,"Hau Tak Ln, Wan Chai",灣仔區,英皇駿景酒店,灣仔厚德里,湾仔区,英皇骏景酒店,湾仔厚德里,0,0,0,3,0,0,0,0,0,Tesla Wall Connector,-,114.17819900000006,22.27437800000007
+Wan Chai,HANG LUNG CENTRE,"PATERSON STREET, WAN CHAI",灣仔區,恒隆中心,灣仔 百德新街,湾仔区,恒隆中心,湾仔 百德新街,0,3,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.18596600000001,22.280072000000075
+Wan Chai,Wong Nai Chung Gap Children Playground,"Tai Tam Reservoir Rd, Tai Tam",灣仔區,黃泥涌峽兒童遊樂場,大潭水塘道,湾仔区,黄泥涌峡儿童游乐场,大潭水塘道,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.19390900000008,22.257250000000056
+Wan Chai,ST. PAUL'S HOSPITAL,"TUNG LO WAN ROAD, WAN CHAI",灣仔區,聖保祿醫院,灣仔 銅鑼灣道,湾仔区,圣保禄医院,湾仔 铜锣湾道,0,0,0,0,0,0,2,0,0,-,-,114.18823700000007,22.278474000000074
+Wan Chai,Capital Centre,"254. Jaffe Rd, Wan Chai",灣仔區,資本中心,灣仔謝斐道254號,湾仔区,资本中心,湾仔谢斐道254号,0,0,0,0,0,0,2,0,0,-,-,114.1771920000001,22.27919600000007
+Wan Chai,The Avenue,"21-29 Spring Garden Ln, Wan Chai",灣仔區,囍匯,灣仔春園街21-29號,湾仔区,囍汇,湾仔春园街21-29号,4,5,0,7,0,0,0,0,0,-,-,114.1727820000001,22.275815000000023
+Wan Chai,THE PARK LANE,"GLOUCESTER ROAD, WAN CHAI",灣仔區,柏寧酒店,灣仔 告士打道,湾仔区,柏宁酒店,湾仔 告士打道,0,0,0,0,0,2,0,0,0,-,-,114.1862870000001,22.281236000000035
+Wan Chai,Hysan Place Car Park,"500 Hennessy Road, Wan Chai District, Hong Kong",灣仔區,希慎廣場停車場,香港 灣仔區 軒尼詩道500號,湾仔区,希慎广场停车场,香港 湾仔区 轩尼诗道500号,0,0,0,35,0,0,0,0,6,Tesla Wall Connector / Supercharger,-,114.1834100000001,22.279908000000034
+Wan Chai,YF Life Tower ,"52 Jaffe Rd, Wan Chai",灣仔區,萬通保險大廈,灣仔謝斐道52號,湾仔区,万通保险大厦,湾仔谢斐道52号,0,0,0,0,0,0,0,0,4,Tesla Wall Connector,-,114.16987800000004,22.27876200000003
+Wan Chai,CHINA OVERSEAS BUILDING,"HENNESSY ROAD, WAN CHAI",灣仔區,中國海外大廈,灣仔 軒尼詩道,湾仔区,中国海外大厦,湾仔 轩尼诗道,0,13,0,0,1,1,0,0,0,-,-,114.17281000000003,22.27789000000007
+Wan Chai,No.68 Yee Wo Street 68,"68 Yee Wo St, Causeway Bay, Hong Kong",灣仔區,怡和街68號,銅鑼灣怡和街68號,湾仔区,怡和街68号,铜锣湾怡和街68号,0,6,0,0,0,0,3,0,0,-,-,114.18653300000005,22.279031000000032
+Wan Chai,The St. Regis Hong Kong,"1 Harbour Dr, Wan Chai",灣仔區,香港瑞吉酒店,灣仔港灣徑1號,湾仔区,香港瑞吉酒店,湾仔港湾径1号,0,0,0,3,0,0,0,0,0,Tesla Wall Connector,-,114.17486300000007,22.27991300000008
+Kowloon City,Sunshine Plaza,"17 Sung On Street, Hung Hom, Kowloon",九龍城區,陽光廣場,九龍紅磡崇安街17號,九龙城区,阳光广场,九龙红磡崇安街17号,1,0,0,0,0,0,0,0,0,-,-,114.1891710000001,22.31189900000004
+Kowloon City,WHAMPOA PLAZA/WHAMPOA GARDEN SITE 8,"TAK ON STREET, KOWLOON CITY",九龍城區,黃埔花園黃埔廣場(8期),九龍城 德安街,九龙城区,黄埔花园黄埔广场(8期),九龙城 德安街,1,0,0,0,0,0,4,0,0,-,-,114.19085900000005,22.30503200000004
+Kowloon City,Ka Wai Chuen,"Station Lane, Kowloon City",九龍城區,家維邨,九龍城 差館里,九龙城区,家维邨,九龙城 差馆里,1,2,0,0,0,0,0,0,0,-,-,114.18640000000005,22.307840000000056
+Kowloon City,Tak Long Estate,"Tak Long Estate, Kowloon City, Kowloon",九龍城區,德朗,"德朗邨, 九龍城區, 九龍",九龙城区,德朗,"德朗邨, 九龙城区, 九龙",9,5,0,0,1,1,1,0,0,-,-,114.20392600000002,22.330189000000075
+Kowloon City,Kai Ching Estate,"Kai Ching Estate, Kowloon City, Kowloon",九龍城區,啟晴,"啟晴邨, 九龍城區, 九龍",九龙城区,启晴邨,"启晴邨, 九龙城区, 九龙",14,3,0,0,0,0,3,0,0,-,-,114.2039870000001,22.33242800000005
+Kowloon City,Kai Tak Cruise Terminal Car Park 1,SHING FUNG ROAD,九龍城區,啟德郵輪碼頭停車場 1,承豐道,九龙城区,启德邮轮码头停车场 1,承丰道,36,0,0,0,0,0,0,0,6,-,-,114.21305200000006,22.306164000000024
+Yau Tsim Mong,Hung Hom Station Car Park,"8 Cheong Wan Road, Hung Hom, Kowloon",油尖旺區,紅磡站停車場,九龍紅磡暢運道8號,油尖旺区,红磡站停车场,九龙红磡畅运道8号,0,1,0,0,0,0,1,0,0,-,-,114.18172300000003,22.303247000000056
+Kowloon City,Regal Oriental Hotel,"30 Sa Po Rd, Kowloon City",九龍城區,富豪東方酒店,九龍城沙浦道30號,九龙城区,富豪东方酒店,九龙城沙浦道30号,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.19274300000006,22.33014600000007
+Kowloon City,Hotel SAV,"2 Marsh St, Hung Hom",九龍城區,逸．酒店,紅磡孖庶街2號,九龙城区,逸．酒店,红磡孖庶街2号,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.18583600000011,22.307172000000037
+Kowloon City,Kerry Hotel Hong Kong,"HUNG LUEN ROAD, KOWLOON CITY",九龍城區,香港嘉里大酒店,九龍城 紅鸞道,九龙城区,香港嘉里大酒店,九龙城 红鸾道,0,0,0,6,0,0,0,0,0,Tesla Wall Connector,-,114.18844400000012,22.301181000000042
+Kowloon City,Kai Long Court,MUK ON STREET,九龍城區,啟朗苑,沐安街,九龙城区,启朗苑,沐安街,4,0,0,0,0,0,0,0,0,-,-,114.20108300000004,22.330190000000073
+Kowloon City,Jubilant Place,20 San Shan Road,九龍城區,欣榮花園,土瓜灣新山道20號,九龙城区,欣荣花园,土瓜湾新山道20号,0,4,0,0,0,0,0,0,0,-,-,114.18923500000005,22.320961000000068
+Kowloon City,The Laguna Mall,"8, LagunaVerde Ave",九龍城區,海逸坊,海逸豪園海逸道8號,九龙城区,海逸坊,海逸豪园海逸道8号,0,1,0,0,0,0,0,0,0,-,-,114.19161600000007,22.30837500000007
+Kowloon City,Trade and Industry Tower Car Park,"No. 3 Concords Road, Kai Tak, Kowloon, Hong Kong",九龍城區,工業貿易大樓停車場,香港九龍啟德協調道3號,九龙城区,工业贸易大楼停车场,香港九龙启德协调道3号,0,20,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.19793800000002,22.332660000000033
+Kowloon City,Hong Kong Children's Hospital,SHING CHEONG ROAD,九龍城區,香港兒童醫院,承昌道,九龙城区,香港儿童医院,承昌道,22,0,0,0,0,0,0,0,0,-,-,114.20879700000012,22.315725000000043
+Kowloon City,Celestial Heights,"SHEUNG SHING STREET, KOWLOON CITY",九龍城區,半山壹號,九龍城 常盛街,九龙城区,半山壹号,九龙城 常盛街,7,3,0,0,0,0,4,0,0,-,-,114.1857470000001,22.31862300000006
+Kowloon City,Harbour Place,"OI KING STREET, KOWLOON CITY",九龍城區,海濱南岸,九龍城 愛景街,九龙城区,海滨南岸,九龙城 爱景街,2,0,0,0,0,0,2,0,0,-,-,114.18713900000012,22.302485000000047
+Kowloon City,Oi Man Car Park ,"Oi Man Plaza, 60 Chung Hau Street, Ho Man Tin, Kowloon",九龍城區,愛民停車場,九龍何文田忠孝街60號愛民廣場,九龙城区,爱民停车场,九龙何文田忠孝街60号爱民广场,0,6,0,11,0,4,0,0,8,Tesla Wall Connector / Supercharger,-,114.17928500000005,22.311276000000078
+Kowloon City,THE HARBOUR FRONT,"TAK FUNG STREET, KOWLOON CITY",九龍城區,海濱廣場,九龍城 德豐街,九龙城区,海滨广场,九龙城 德丰街,0,0,0,0,0,0,2,0,0,-,-,114.19163900000001,22.302319000000068
+Sham Shui Po,Innocentre,"TAT CHEE AVENUE, SHAM SHUI PO",深水埗區,創新中心,深水埗達之路,深水埗区,创新中心,深水埗達之路,3,0,0,6,0,0,0,0,3,-,-,114.17604500000004,22.335232000000076
+Kowloon City,Airside,"2, Concorde Rd, Kai Tak",九龍城區,Airside,新蒲崗協調道2號,九龙城区,Airside,新蒲岗协调道2号,0,256,0,3,0,13,0,0,9,-,-,114.19813700000009,22.330486000000064
+Kowloon City,Jockey Club Campus of Hong Kong Metropolitan University,"LG1/F, 81 Chung Hau St, Ho Man Tin",九龍城區,香港都會大學賽馬會校園,何文田忠孝街81號,九龙城区,香港都会大学赛马会校园,何文田忠孝街81号,0,5,0,0,0,0,0,0,0,-,-,114.17833200000007,22.315594000000033
+Kowloon City,Main Campus of Hong Kong Metropolitan University,"30, Good Shepherd St, Ho Man Tin",九龍城區,香港都會大學正校園,何文田牧愛街30號,九龙城区,香港都会大学正校园,何文田牧爱街30号,0,5,0,0,0,0,0,0,0,-,-,114.17999500000008,22.31645000000003
+Kowloon City,The Jockey Club Institute of Healthcare of Hong Kong Metropolitan University,"5-11 Sheung Shing St, Quarry Hill",九龍城區,香港都會大學賽馬會健康護理學院,採石山常盛街5-11號,九龙城区,香港都会大学赛马会健康护理学院,采石山常盛街5-11号,0,5,0,0,0,0,0,0,0,-,-,114.1800290000001,22.317521000000056
+Yau Tsim Mong,Fortune Metropolis P2,"6 Metropolis Dr, Hung Hom",油尖旺區,置富都會二期,紅磡都會道6號,油尖旺区,置富都会二期,红磡都会道6号,0,4,0,0,0,4,0,0,0,-,-,114.18295300000011,22.303774000000033
+Kowloon City,Oasis Kai Tak,"MUK NING STREET, KOWLOON CITY",九龍城區,Oasis Kai Tak,沐寧街 九龍城,九龙城区,Oasis Kai Tak,沐宁街 九龙城,0,0,0,0,0,2,0,0,0,-,-,114.2000670000001,22.328532000000052
+Kowloon City,One Homantin,"1 Sheung Foo St, Ho Man Tin",九龍城區,何文田1號,何文田常富街1號,九龙城区,何文田1号,何文田常富街1号,0,0,0,0,0,2,0,0,0,-,-,114.18172700000002,22.31672700000007
+Kowloon City,Blissful Place,"8 Lee Kung St, Hung Hom",九龍城區,豐頤居,紅磡利工街8號,九龙城区,丰颐居,红磡利工街8号,0,10,0,0,0,0,0,0,0,-,-,114.18662800000004,22.309364000000073
+Kowloon City,Cascades (comprising 4 blocks),"CHUNG HAU STREET, KOWLOON CITY",九龍城區,欣圖軒,九龍城 忠孝街,九龙城区,欣图轩,九龙城 忠孝街,0,2,0,0,0,0,0,0,0,-,-,114.179708,22.315987000000064
+Kowloon City,Chatham Gate,"CHATHAM ROAD NORTH, KOWLOON CITY",九龍城區,昇御門,九龍城 漆咸道北,九龙城区,升御门,九龙城 漆咸道北,0,0,0,0,0,0,0,0,4,Tesla Supercharger,-,114.18620600000008,22.311194000000057
+Kowloon City,Hung Hom Car Park ,"Hung Hom Estate Retail and Car Park, 9 Dyer Avenue, Hung Hom, Kowloon",九龍城區,紅磡停車場,九龍紅磡戴亞街9號紅磡邨商舖及停車場,九龙城区,红磡停车场,九龙红磡戴亚街9号红磡邨商铺及停车场,0,14,0,0,0,0,0,0,0,-,-,114.1884980000001,22.30717500000003
+Kwun Tong,Kwun Tong Plaza,HOI YUEN ROAD,觀塘區,觀塘廣場,開源道,观塘区,观塘广场,开源道,0,3,0,0,0,0,1,0,0,-,-,114.22612900000001,22.31126500000005
+Kwun Tong,MegaBox,WANG CHIU ROAD,觀塘區,MegaBox,宏照道,观塘区,MegaBox,宏照道,0,3,0,0,0,10,15,0,0,-,-,114.20854500000007,22.319740000000024
+Kwun Tong,Exchange Tower,"33 Wang Chiu Road, Kowloon Bay, Kowloon",觀塘區,國際交易中心,九龍九龍灣宏照道33號,观塘区,国际交易中心,九龙九龙湾宏照道33号,0,8,0,0,0,0,0,0,0,-,-,114.20934800000009,22.320967000000053
+Kwun Tong,Futura Plaza,"Futura Plaza, 111-113 How Ming Street, Kwun Tong, KLN",觀塘區,富利廣場,九龍觀塘巧明街111-113號富利廣場,观塘区,富利广场,九龙观塘巧明街111-113号富利广场,1,0,0,0,0,0,0,0,0,-,-,114.22440600000004,22.311738000000048
+Kwun Tong,Skyline Tower,WANG KWONG ROAD,觀塘區,宏天廣埸,宏光道,观塘区,宏天广埸,宏光道,9,0,0,51,0,0,0,0,6,-,-,114.20529500000009,22.326225000000022
+Kwun Tong,Westin Centre,Hung To Road,觀塘區,威登中心,鴻圖道,观塘区,威登中心,鸿图道,1,0,0,0,0,0,0,0,0,-,-,114.21936500000004,22.313010000000077
+Kwun Tong,Kwun Tong Harbour Plaza,WAI YIP STREET,觀塘區,觀塘碼頭廣場,偉業街,观塘区,观塘码头广场,伟业街,2,0,0,0,0,0,0,0,0,-,-,114.22151900000006,22.309198000000038
+Kwun Tong,Metro Centre I,LAM HING STREET,觀塘區,美羅中心一期,臨興街,观塘区,美罗中心一期,临兴街,1,0,0,0,0,6,0,0,0,-,-,114.21040000000005,22.324273000000062
+Kwun Tong,Metro Centre II,LAM HING STREET,觀塘區,美羅中心二期,臨興街,观塘区,美罗中心二期,临兴街,2,0,0,0,0,0,0,0,0,-,-,114.21090500000003,22.324932000000047
+Kwun Tong,Amoy Plaza,"77 Ngau Tau Kok Road, Kowloon",觀塘區,淘大商場,九龍牛頭角道77號,观塘区,淘大商场,九龙牛头角道77号,0,0,0,0,0,0,0,0,5,Tesla Wall Connector,-,114.21675100000004,22.32470100000006
+Kwun Tong,Telford Plaza Car Park D,"33 Wai Yip Street, Kwun Tong District, Kowloon",觀塘區,德福廣場D座停車場,九龍 觀塘區 偉業街33號,观塘区,德福广场D座停车场,九龙 观塘区 伟业街33号,0,0,0,0,0,0,0,0,2,-,-,114.21203000000003,22.322331000000077
+Kwun Tong,Telford Plaza Phase I Car Park,"33 WAI YIP STREET, Kwun Tong District, Kowloon",觀塘區,德福廣場一期停車場,九龍 觀塘區 偉業街33號,观塘区,德福广场一期停车场,九龙 观塘区 伟业街33号,0,0,0,0,0,0,0,0,2,-,-,114.21356400000002,22.323767000000032
+Kwun Tong,Telford Plaza Phase II Car Park,"33 WAI YIP STREET, Kwun Tong District, Kowloon",觀塘區,德福廣場二期停車場,九龍 觀塘區 偉業街33號,观塘区,德福广场二期停车场,九龙 观塘区 观塘道33号,0,0,0,0,0,0,0,0,3,-,-,114.21316500000012,22.32114800000005
+Kwun Tong,Pacific Trade Centre,KAI HING ROAD,觀塘區,太平洋貿易中心,啟興道,观塘区,太平洋贸易中心,启兴道,2,0,0,0,0,0,0,0,0,-,-,114.21237800000006,22.316272000000026
+Kwun Tong,Choi Tak Estate Carpark,CHOI WING ROAD,觀塘區,彩德邨停車場,彩榮路,观塘区,彩德邨停车场,彩荣路,0,5,0,0,0,0,5,0,0,-,-,114.213299,22.329574000000036
+Kwun Tong,Yau Lai Shopping Centre Carpark,YAU TONG ROAD,觀塘區,油麗商場停車場,油塘道,观塘区,油丽商场停车场,油塘道,0,0,0,0,1,1,7,0,0,-,-,114.23710600000004,22.298485000000028
+Kwun Tong,PROFICIENT INDUSTRIAL CENTRE,"WANG KWUN ROAD, KWUN TONG",觀塘區,鴻力工業中心,觀塘 宏冠道,观塘区,鸿力工业中心,观塘 宏冠道,1,0,0,0,0,0,0,0,0,-,-,114.20856500000002,22.322594000000038
+Kwun Tong,Everest Industrial Centre,"85 How Ming St, Kwun Tong",觀塘區,毅力工業中心,觀塘巧明街85號,观塘区,毅力工业中心,观塘巧明街85号,1,0,0,0,0,0,0,0,0,-,-,114.22214500000007,22.312858000000062
+Kwun Tong,Harbourside HQ,"2, Kai Hing Road",觀塘區,啟匯,啓興道2號,观塘区,启汇,启兴道2号,2,5,0,0,0,0,2,0,0,-,-,114.21215100000006,22.31556800000004
+Kwun Tong,Domain Carpark,Ko Chiu Road,觀塘區,大本型停車場,高超道,观塘区,大本型停车场,高超道,7,5,0,0,0,0,0,0,0,-,-,114.23860200000001,22.29605300000003
+Kwun Tong,Lower ngau tau kok estate Car Park,"120 Ngau Tau Kok Road , Ngau Tau Kok,Kowloon",觀塘區,牛頭角下邨車場,九龍觀塘區牛頭角牛頭角道120號,观塘区,牛头角下邨车场,九龙观塘区牛头角牛头角道120号,14,4,0,0,0,0,0,0,0,-,-,114.21489200000008,22.32126100000005
+Kwun Tong,Kwun Tong Garedn Estate (Lotus Tower),"NGAU TAU KOK ROAD, KWUN TONG",觀塘區,觀塘花園大廈 (玉蓮臺),觀塘 牛頭角道,观塘区,观塘花园大厦 (玉莲台),观塘 牛头角道,1,0,0,0,0,0,0,0,0,-,-,114.2203750000001,22.31552000000005
+Kwun Tong,L'hotel Elan,"40 Chong Yip St, Kwun Tong",觀塘區,如心艾朗酒店,觀塘創業街40號,观塘区,如心艾朗酒店,观塘创业街40号,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.21922300000006,22.31401100000005
+Kwun Tong,Choi Hung Park-and-Ride Public Car Park,"CLEAR WATER BAY ROAD, KWUN TONG",觀塘區,彩虹泊車轉乘公眾停車場,觀塘 清水灣道,观塘区,彩虹泊车转乘公众停车场,观塘 清水湾道,0,4,0,0,0,0,0,0,5,-,-,114.20970800000009,22.333919000000037
+Kwun Tong,Infotech Centre,"18, Hung To Rd, Kwun Tong",觀塘區,訊科中心,觀塘鴻圖道18號,观塘区,讯科中心,观塘鸿图道18号,1,0,0,0,0,0,0,0,0,-,-,114.21945600000004,22.313267000000053
+Kwun Tong,Billion Trade Centre,"31 Hung To Rd, Kwun Tong",觀塘區,鴻貿中心,觀塘鴻圖道31號,观塘区,鸿贸中心,观塘鸿图道31号,1,0,0,0,0,0,0,0,0,-,-,114.2202440000001,22.31251000000003
+Kwun Tong,Hoplite Industrial Centre,"2, 3 Wang Tai Rd, Kowloon Bay",觀塘區,合力工業中心,九龍灣宏泰道2-3號,观塘区,合力工业中心,九龙湾宏泰道2-3号,1,0,0,0,0,0,0,0,0,-,-,114.20991200000003,22.323296000000028
+Kwun Tong,Entreport Centre,"HOW MING STREET, KWUN TONG",觀塘區,港貿中心,觀塘 巧明街,观塘区,港贸中心,观塘 巧明街,1,0,0,0,0,0,0,0,0,-,-,114.22459600000002,22.311365000000023
+Kwun Tong,On Tat Estate Car park,"3, On Chui Street, Kwun Tong",觀塘區,安達邨停車場,觀塘安翠街3號,观塘区,安达邨停车场,观塘安翠街3号,2,3,0,0,0,0,0,0,0,-,-,114.23520600000006,22.32058900000004
+Kwun Tong,One Bay East,"B2/F, 83 Hoi Bun Road, Kwun Tong, KLN",觀塘區,One Bay East,九龍觀塘海濱道 83 號地庫二樓,观塘区,One Bay East,九龙观塘海滨道 83 号地库二楼,0,10,0,0,0,0,0,0,0,-,-,114.2146150000001,22.315733000000023
+Kwun Tong,One Kowloon,"WANG YUEN STREET, KWUN TONG",觀塘區,一號九龍,觀塘 宏遠街,观塘区,一号九龙,观塘 宏远街,0,0,0,6,0,0,0,0,6,Tesla Wall Connector,-,114.2101090000001,22.32094900000004
+Kwun Tong,The Bay Hub,"Goldin Financial Global Centre, 17 Kai Cheung Road, Kowloon Bay, KLN",觀塘區,太豐匯,九龍九龍灣啟祥道17號高銀金融國際中心,观塘区,太丰汇,九龙九龙湾启祥道17号高银金融国际中心,157,2,0,0,0,0,0,0,4,Tesla Wall Connector,-,114.20647800000006,22.325744000000043
+Kwun Tong,apm,KWUN TONG ROAD,觀塘區,apm,觀塘道,观塘区,apm,观塘道,2,0,0,0,0,0,2,0,0,-,-,114.22509100000002,22.312205000000063
+Kwun Tong,Manulife Financial Centre,"223 Wai Yip Street, Kwun Tong",觀塘區,宏利金融中心,觀塘偉業街223號,观塘区,宏利金融中心,观塘伟业街223号,0,3,0,0,0,0,0,0,0,-,-,114.223206,22.308005000000037
+Kwun Tong,No.1 Lei Yue Mun Path Public Carpark ,"No.1 Lei Yue Mun Path, Yau Tong, Kowloon",觀塘區,鯉魚門徑1號公眾停車場,九龍油塘鯉魚門徑1號,观塘区,鲤鱼门径1号公众停车场,九龙油塘鲤鱼门径1号,0,0,0,1,0,0,0,0,0,Tesla Wall Connector,-,114.23881700000004,22.29269400000004
+Kwun Tong,FtLife Tower,"SHEUNG YUET ROAD, KWUN TONG",觀塘區,富通中心,觀塘 常悅道,观塘区,富通中心,观塘 常悦道,0,0,0,42,0,0,0,0,18,Tesla Supercharger,-,114.21006100000011,22.32146300000005
+Kwun Tong,On Tai Estate Carpark,"G/F., Hang Tai House, On Tai Estate, Kwun Tong",觀塘區,安泰邨停車場,觀塘安泰邨恒泰樓地下,观塘区,安泰邨停车场,观塘安泰邨恒泰楼地下,27,0,0,0,0,0,0,0,0,-,-,114.22859500000004,22.32702800000004
+Kwun Tong,The Quayside Car Park,"The Quayside,77 Hoi Bun Road,Kwun Tong,Kowloon,Hong Kong",觀塘區,海濱匯停車場,香港九龍觀塘海濱道77號海濱匯,观塘区,海滨汇停车场,香港九龙观塘海滨道77号海滨汇,312,100,0,0,3,3,0,0,6,-,-,114.21342800000002,22.31653300000005
+Kwun Tong,Choi Hing Court Car Park,"1 CHOI SING LANE,Ngau Tau Kok,Kowloon",觀塘區,彩興苑停車場,"九龍,牛頭角,彩盛里1號",观塘区,彩兴苑停车场,"九龙,牛头角,彩盛里1号",2,0,0,0,0,0,0,0,0,-,-,114.21353500000009,22.331585000000075
+Kwun Tong,One Pacific Centre,Kwun Tong Road,觀塘區,1亞太中心,觀塘道,观塘区,1亚太中心,观塘道,0,0,0,52,0,0,0,0,9,Tesla Wall Connector / Supercharger,-,114.22467400000005,22.312760000000026
+Kwun Tong,8 Yan Yue Wai Public Vehicle Park,8 Yan Yue Wai,觀塘區,仁宇圍8號公眾停車場,油塘仁宇圍8號,观塘区,仁宇围8号公众停车场,油塘仁宇围8号,0,18,0,0,0,0,2,0,0,-,-,114.23669400000006,22.292080000000055
+Kwun Tong,Lei Yue Mun Municipal Services Building,"6 Lei Yue Mun Path, Yau Tong",觀塘區,鯉魚門市政大廈,油塘鯉魚門徑6號,观塘区,鲤鱼门市政大厦,油塘鲤鱼门径6号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.238831,22.292269000000033
+Kwun Tong,Shun Lee Tsuen Park,Shun Lee Tsuen Park,觀塘區,順利邨公園,順利邨公園,观塘区,顺利邨公园,顺利邨公园,0,4,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.22483800000009,22.32897600000007
+Kwun Tong,Choi Fook Estate Car Park,"58 Choi Wing Road, Ngau Tau Kok,Kowloon",觀塘區,彩福邨車場,"九龍,牛頭角,彩榮路58號",观塘区,彩福邨车场,"九龙,牛头角,彩荣路58号",6,0,0,0,0,0,0,0,0,-,-,114.21740100000011,22.327755000000025
+Kwun Tong,Kowloon Bay Park,"18 Kai Lai Road, Kowloon Bay",觀塘區,九龍灣公園停車場,九龍灣啟禮道18號,观塘区,九龙湾公园停车场,九龙湾启礼道18号,0,11,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.20716100000004,22.327232000000038
+Kwun Tong,Ping Shek Playground,"20 New Clear Water Bay Road, Kowloon",觀塘區,坪石遊樂場,九龍新清水灣道20號,观塘区,坪石游乐场,九龙新清水湾道20号,0,10,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.21289100000001,22.33203700000007
+Kwun Tong,Yue Man Square,"33 Hip Wo Street, Kwun Tong, Kowloon",觀塘區,裕民坊,九龍觀塘協和街33號,观塘区,裕民坊,九龙观塘协和街33号,0,45,0,0,2,2,10,0,0,-,-,114.22489300000007,22.314483000000052
+Kwun Tong,Manulife Place,International Trade Tower,觀塘區,宏利廣場,國際貿易中心,观塘区,国际贸易中心,国际贸易中心,0,6,0,0,0,2,0,0,0,-,-,114.21706900000004,22.314928000000066
+Kwun Tong,Eastcore,"95 How Ming St, Kwun Tong",觀塘區,嘉域大廈,觀塘巧明街95號,观塘区,嘉域大厦,观塘巧明街95号,0,0,0,4,0,0,0,0,0,Tesla Wall Connector,-,114.22275600000012,22.312842000000046
+Kwun Tong,Ko Cheung Court,"LEI YUE MUN ROAD, KWUN TONG",觀塘區,高翔苑,觀塘 鯉魚門道,观塘区,高翔苑,观塘 鲤鱼门道,1,0,0,0,0,0,0,0,0,-,-,114.24054000000001,22.295705000000055
+Kwun Tong,Kai Tin (New Wing) Car Park ,"Kai Tin Shopping Centre, 50 Kai Tin Road, Lam Tin, Kwun Tong, Kowloon",觀塘區,啟田新翼停車場,九龍觀塘藍田啟田道50號啟田商場,观塘区,启田新翼停车场,九龙观塘蓝田启田道50号启田商场,0,0,0,5,0,0,0,0,3,Tesla Wall Connector / Supercharger,-,114.23570000000007,22.308260000000075
+Kwun Tong,Kai Tin (Old Wing) Car Park ,"Kai Tin Shopping Centre, 50 Kai Tin Road, Lam Tin, Kwun Tong, Kowloon",觀塘區,啟田舊翼停車場,九龍觀塘藍田啟田道50號啟田商場,观塘区,启田旧翼停车场,九龙观塘蓝田启田道50号启田商场,0,45,0,0,2,2,0,0,0,-,-,114.23440000000005,22.308920000000057
+Kwun Tong,Grand Central,"67 Hip Wo St, Kwun Tong",觀塘區,凱滙,觀塘協和街67號,观塘区,凯汇,观塘协和街67号,0,21,0,0,0,0,0,0,0,-,-,114.22570600000006,22.314509000000044
+Kwun Tong,On Kay Court Car Park,"20 CHUN WAH ROAD, Ngau Tau Kok,Kowloon",觀塘區,安基苑車場,"九龍,牛頭角,振華道20號",观塘区,安基苑车场,"九龙,牛头角,振华道20号",0,2,0,0,0,0,0,0,0,-,-,114.21697300000005,22.32188400000007
+Kwun Tong,Kwun Tong Storefriendly Tower (Peninsula),82 Hung To Road ,觀塘區,觀塘儲存易集團中心 (東九龍),觀塘鴻圖道82號,观塘区,观塘储存易集团中心 (东九龙),观塘鸿图道82号,0,0,0,0,0,0,3,0,0,-,-,114.22417000000007,22.30815000000007
+Kwun Tong,Infinity Eight,"Ping Shan, 坪石里, Ngau Tau Kok",觀塘區,匯八坊,牛頭角坪石里,观塘区,汇八坊,牛头角坪石里,0,0,0,0,0,0,5,0,0,-,-,114.20998500000007,22.333857000000023
+Kwun Tong,LAGUNA COMMERCIAL PLAZA (PHASE 1),"CHA KWO LING ROAD, KWUN TONG",觀塘區,麗港城商場,觀塘 茶果嶺道,观塘区,丽港城商场,观塘 茶果岭道,0,4,0,0,0,4,0,0,0,-,-,114.22811700000011,22.307074000000057
+Kwun Tong,Ko Chun Car Park ,"Ko Chun Court Retail and Car Park, 23 Ko Chiu Road, Yau Tong, Kwun Tong, Kowloon",觀塘區,高俊停車場,九龍觀塘油塘高超道23號高俊苑商舖及停車場,观塘区,高俊停车场,九龙观塘油塘高超道23号高俊苑商铺及停车场,0,14,0,0,0,0,0,0,0,-,-,114.2419000000001,22.298060000000078
+Kwun Tong,Hiu Lai Car Park ,"Hiu Lai Shopping Centre, 21 Hiu Kwong Street, Kwun Tong, Kowloon",觀塘區,曉麗停車場,九龍觀塘曉光街21號曉麗商場,观塘区,晓丽停车场,九龙观塘晓光街21号晓丽商场,0,18,0,0,0,0,0,0,0,-,-,114.22966600000007,22.320862000000034
+Kwun Tong,Sau Mau Ping Phase 3 Car Park ,"Sau Mau Ping (III) Estate Retail and Car Park, Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon",觀塘區,秀茂坪3期停車場,九龍觀塘秀茂坪秀明道秀茂坪邨第三期商舖及停車場,观塘区,秀茂坪3期停车场,九龙观塘秀茂坪秀明道秀茂坪邨第三期商铺及停车场,0,9,0,0,0,0,0,0,0,-,-,114.23053400000003,22.321743000000026
+Kwun Tong,Sau Mau Ping SC Car Park ,"Sau Mau Ping Shopping Centre, 101 Sau Ming Road, Sau Mau Ping, Kwun Tong, Kowloon",觀塘區,秀茂坪商場停車場,九龍觀塘秀茂坪秀明道101號秀茂坪商場,观塘区,秀茂坪商场停车场,九龙观塘秀茂坪秀明道101号秀茂坪商场,0,27,0,0,2,2,0,0,0,-,-,114.23227800000006,22.32003100000003
+Kwun Tong,Fullerton Centre,"19 Hung To Road, Kwun Tong",觀塘區,富登中心,觀塘鴻圖道19號,观塘区,富登中心,观塘鸿图道19号,0,2,0,0,0,0,0,0,0,-,-,114.21955000000003,22.31349700000004
+Kwun Tong,Remington Centre,"HUNG TO ROAD, KWUN TONG",觀塘區,利登中心,觀塘 鴻圖道,观塘区,利登中心,观塘 鸿图道,0,2,0,0,0,0,0,0,0,-,-,114.21985100000006,22.313199000000054
+Kwun Tong,Hong Yat Car Park ,"Hong Yat Court Retail and Car Park, 1 Tak Tin Street, Lam Tin, Kwun Tong, Kowloon",觀塘區,康逸停車場,九龍觀塘藍田德田街1號康逸苑商舖及停車場,观塘区,康逸停车场,九龙观塘蓝田德田街1号康逸苑商铺及停车场,0,13,0,0,0,0,0,0,0,-,-,114.23449000000005,22.310441000000026
+Kwun Tong,Boton Technology Innovation Tower,"25 Chong Yip St, Kwun Tong",觀塘區,波頓科創中心,觀塘創業街25號,观塘区,波顿科创中心,观塘创业街25号,0,0,0,12,0,0,0,0,0,Tesla Wall Connector,-,114.21951000000001,22.31434900000005
+Kwun Tong,Capital Tower ,38 Wai Yip Street,觀塘區,富臨中心,偉業街38號,观塘区,富临中心,伟业街38号,0,0,0,12,0,0,0,0,0,Tesla Wall Connector,-,114.21211800000003,22.318471000000045
+Kwun Tong,Gravity,"20 Hing Yip St, Kwun Tong",觀塘區,萬有引力,觀塘興業街20號,观塘区,万有引力,观塘兴业街20号,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.2256450000001,22.308771000000036
+Kwun Tong,NEO,"Hoi Bun Road, Kwun Tong, KLN",觀塘區,綠景,九龍觀塘海濱道,观塘区,绿景,九龙观塘海滨道,0,0,0,0,0,0,0,0,7,Tesla Wall Connector,-,114.21630400000004,22.314023000000077
+Kwun Tong,Millennium City 2 & 3 (Wilson Parking),KWUN TONG ROAD,觀塘區,創紀之城2及3期 (威信停車場),觀塘道,观塘区,创纪之城2及3期 (威信停车场),观塘道,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.21977300000003,22.314561000000026
+Kwun Tong,Two Harbour Square,WAI YIP STREET,觀塘區,二號海港廣場,偉業街,观塘区,二号海港广场,伟业街,0,0,0,10,0,0,0,0,0,Tesla Wall Connector,-,114.2212320000001,22.30962900000003
+Kwun Tong,Ping Tin Phase 2 Car Park ,"Ping Tin Shopping Centre, 23 On Tin Street, Lam Tin, Kwun Tong, Kowloon",觀塘區,平田2期停車場,九龍觀塘藍田安田街23號平田商場,观塘区,平田2期停车场,九龙观塘蓝田安田街23号平田商场,0,13,0,0,0,0,0,0,0,-,-,114.23770000000002,22.305860000000052
+Kwun Tong,Po Tat Car Park B and C ,"Po Tat Shopping Centre, 2 Po Lam Road, Sau Mau Ping, Kwun Tong, Kowloon",觀塘區,寶達 B & C停車場,九龍觀塘秀茂坪寶琳路2號寶達商場,观塘区,宝达 B & C停车场,九龙观塘秀茂坪宝琳路2号宝达商场,0,14,0,0,0,0,0,0,0,-,-,114.2380720000001,22.316985000000045
+Kwun Tong,DCH Building,"20 Kai Cheung Rd, Kowloon Bay",觀塘區,大昌行集團大廈,九龍灣啓祥道20號,观塘区,大昌行集团大厦,九龙湾启祥道20号,0,0,0,0,2,16,0,0,0,-,-,114.20751300000006,22.324389000000053
+Kwun Tong,Seaview Centre,"139 Hoi Bun Road, Kwun Tong, KLN",觀塘區,海濱中心,觀塘海濱道139號,观塘区,海滨中心,观塘海滨道139号,1,0,0,0,0,0,0,0,0,-,-,114.21780400000011,22.31223200000005
+Kwun Tong,CTF Life Tower,"18 SHEUNG YUET ROAD, KWUN TONG",觀塘區,周大福保險中心,九龍灣常悅道18號,观塘区,周大福保险中心,九龙湾常悦道18号,0,0,0,42,0,0,0,0,18,Tesla Wall Connector / Supercharger,-,114.2102010000001,22.321143000000063
+Kwun Tong,Hong Pak Car Park ,"Hong Pak Court Retail and Car Park, 139 Pik Wan Road, Lam Tin, Kwun Tong, Kowloon",觀塘區,康柏停車場,九龍觀塘藍田碧雲道139號康栢苑商舖及停車場,观塘区,康柏停车场,九龙观塘蓝田碧云道139号康栢苑商铺及停车场,0,11,0,0,0,0,0,0,0,-,-,114.2391560000001,22.302487000000042
+Kwun Tong,Hong Shui Car Park ,"Hong Shui Court Retail and Car Park, 133 Pik Wan Road, Lam Tin, Kwun Tong, Kowloon",觀塘區,康瑞停車場,九龍觀塘藍田碧雲道133號康瑞苑商舖及停車場,观塘区,康瑞停车场,九龙观塘蓝田碧云道133号康瑞苑商铺及停车场,0,9,0,0,0,0,0,0,0,-,-,114.24035000000003,22.30157900000006
+Kwun Tong,Tsui Ping South Car Park,"Tsui Ping South Estate Car Park, 19 Tsui Ping Road, Kwun Tong,  Kowloon",觀塘區,翠屏南停車場,九龍觀塘翠屏道19號翠屏南邨停車場,观塘区,翠屏南停车场,九龙观塘翠屏道19号翠屏南邨停车场,0,21,0,0,0,0,0,0,0,-,-,114.23040800000001,22.312275000000056
+Kwun Tong,Peninsula East,"9 Shung Yiu St, Yau Tong",觀塘區,Peninsula East,油塘崇耀街9號,观塘区,Peninsula East,油塘崇耀街9号,0,3,0,0,0,0,0,0,0,-,-,114.23455000000001,22.294238000000064
+Sham Shui Po,FESTIVAL WALK,"TAT CHEE AVENUE, SHAM SHUI PO",深水埗區,又一城,深水埗達之路,深水埗区,又一城,深水埗達之路,0,30,0,0,0,0,0,0,4,Tesla Supercharger,-,114.17429800000002,22.33750800000007
+Sham Shui Po,CEO Tower,"77 Wing Hong St, Cheung Sha Wan",深水埗區,環薈中心,長沙灣永康街77號,深水埗区,环荟中心,长沙湾永康街77号,2,0,0,0,0,0,0,0,0,-,-,114.14926400000002,22.339410000000044
+Sham Shui Po,Excel Centre,"483A Castle Peak Rd, Lai Chi Kok",深水埗區,卓匯中心,長沙灣青山道483A號,深水埗区,卓汇中心,长沙湾青山道483A号,1,0,0,0,0,0,0,0,0,-,-,114.15006300000005,22.339009000000033
+Sham Shui Po,Cheung Sha Wan Government Offices Car Park,"303 Cheung Sha Wan Road, Kowloon",深水埗區,長沙灣政府合署停車場,九龍長沙灣道303號,深水埗区,长沙湾政府合署停车场,九龙长沙湾道303号,0,71,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.16036500000007,22.331759000000034
+Sham Shui Po,Dragon Centre,"71-79 Wing Hong St, Cheung Sha Wan",深水埗區,恆龍工商中心,長沙灣永康街71-79號,深水埗区,恒龙工商中心,长沙湾永康街71-79号,1,0,0,0,0,0,0,0,0,-,-,114.14961000000005,22.339450000000056
+Sham Shui Po,Kowloon Plaza,"485 Castle Peak Road, Lai Chi Kok",深水埗區,九龍廣場,荔枝角青山道485號,深水埗区,九龙广场,荔枝角青山道485号,1,0,0,0,0,0,0,0,0,-,-,114.14934800000003,22.338565000000074
+Sham Shui Po,Manhattan Hill,"PO LUN STREET, SHAM SHUI PO",深水埗區,曼克頓山,深水埗寶輪街,深水埗区,曼克顿山,深水埗寶輪街,1,0,0,0,0,0,0,0,0,-,-,114.14221200000009,22.33429700000005
+Sham Shui Po,LAW'S COMMERCIAL PLAZA,"CHEUNG SHA WAN ROAD, SHAM SHUI PO",深水埗區,羅氏商業廣場,深水埗長沙灣道,深水埗区,罗氏商业广场,深水埗長沙灣道,0,0,0,0,0,0,0,0,0,-,-,114.14982600000008,22.338219000000038
+Sham Shui Po,CHEUNG SHA WAN ESTATE,"Cheung Sha Wan Estate, Sham Shui Po, Kowloon",深水埗區,長沙灣邨,"長沙灣邨, 深水埗區, 九龍",深水埗区,长沙湾邨,"长沙湾邨, 深水埗区, 九龙",4,5,0,0,0,0,0,0,0,-,-,114.15639500000009,22.334570000000042
+Sham Shui Po,D2 Place Two,"17 Cheung Yee St, Cheung Sha Wan",深水埗區,D2 Place Two,17 長義街,深水埗区,D2 Place Two,17 长义街,0,0,0,8,0,0,0,0,0,Tesla Wall Connector,-,114.1474720000001,22.33585000000005
+Sham Shui Po,Shek Kip Mei Park,"270 Nam Cheong Street, Sham Shui Po",深水埗區,石硤尾公園,深水埗南昌街270號,深水埗区,石硖尾公园,深水埗南昌街270号,0,1,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.16990700000008,22.338652000000025
+Sham Shui Po,Shek Kip Mei Park Sports Centre,"290 Nam Cheong Street, Sham Shui Po",深水埗區,石硤尾公園體體育館,深水埗南昌街290號,深水埗区,石硖尾公园体育馆,深水埗南昌街290号,0,1,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.17033600000002,22.33679600000005
+Kowloon City,City University of Hong Kong-Press Printing Section Outdoor Carpark,"83 Tat Chee Ave, Kowloon Tong",九龍城區,香港城市大學印刷組外露天停車場,九龍塘達之路83號,九龙城区,香港城市大学印刷组外露天停车场,九龙塘达之路83号,0,0,0,0,0,0,2,0,0,-,-,114.17312900000002,22.33777500000008
+Kowloon City,"Bank of China (HK) Complex Carpark, The City University of Hong Kong","83 Tat Chee Ave, Kowloon Tong",九龍城區,香港城市大學中國銀行（香港）綜合樓停車場,九龍塘達之路83號,九龙城区,香港城市大学中国银行（香港）综合楼停车场,九龙塘达之路83号,0,0,0,0,0,0,2,0,0,-,-,114.17312900000002,22.33777500000008
+Kowloon City,City University of Hong Kong-Lau Ming Wai Academic Building Carpark,"83 Tat Chee Ave, Kowloon Tong",九龍城區,香港城市大學劉鳴煒學術樓停車場,九龍塘達之路83號,九龙城区,香港城市大学刘鸣炜学术楼停车场,九龙塘达之路83号,0,0,0,0,0,0,1,0,0,-,-,114.17312900000002,22.33777500000008
+Sham Shui Po,So Uk Estate Car Park (Phase 2),"Cheung Sha Wan Cheung Fat Street, Kowloon",深水埗區,蘇屋邨停車場 (第二期),九龍長沙灣長發街,深水埗区,苏屋邨停车场 (第二期),九龙长沙湾长发街,2,0,0,0,0,0,0,0,0,-,-,114.15656700000011,22.34108200000003
+Sham Shui Po,V Walk,"28 Sham Mong Rd, Sham Shui Po",深水埗區,V Walk,大角咀深旺道28號,深水埗区,V Walk,大角咀深旺道28号,0,0,0,0,0,4,0,0,3,-,-,114.15499800000009,22.326617000000056
+Sham Shui Po,Hoi Lok Court,LAI YING STREET,深水埗區,凱樂苑,荔盈街,深水埗区,凯乐苑,荔盈街,10,0,0,0,0,0,0,0,0,-,-,114.14933700000006,22.327868000000024
+Sham Shui Po,HEYA AQUA,"FUK WING STREET, SHAM SHUI PO",深水埗區,喜漾,深水埗福榮街,深水埗区,喜漾,深水埗福榮街,0,2,0,0,0,0,0,0,0,-,-,114.15437100000008,22.338824000000045
+Sham Shui Po,Cronin Garden,"2 Po On Rd, Cheung Sha Wan",深水埗區,樂年花園,李鄭屋保安道2號,深水埗区,乐年花园,李郑屋保安道2号,0,2,0,0,0,0,0,0,0,-,-,114.1609850000001,22.336285000000032
+Sham Shui Po,Heya Crystal,"CASTLE PEAK ROAD, SHAM SHUI PO",深水埗區,喜薈,深水埗青山道,深水埗区,喜薈,深水埗青山道,0,3,0,0,0,0,0,0,0,-,-,114.15478800000005,22.339214000000027
+Sham Shui Po,CRE Centre,"16 Cheung Shun St, Lai Chi Kok",深水埗區,華創中心,長沙灣長順街16號,深水埗区,华创中心,长沙湾长顺街16号,0,0,0,0,0,0,3,0,0,-,-,114.14725900000008,22.33635000000004
+Sham Shui Po,Lai Tsui Court,LAI CHI KOK ROAD,深水埗區,麗翠苑,荔枝角道,深水埗区,丽翠苑,荔枝角道,5,0,0,0,0,0,0,0,0,-,-,114.15453900000011,22.333766000000026
+Sham Shui Po,Sham Shui Po Sports Ground,"3 Hing Wah Street, Cheung Sha Wan, Kowloon",深水埗區,深水埗運動場,九龍長沙灣興華街3號,深水埗区,深水埗运动场,九龙长沙湾兴华街3号,0,2,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.15156600000012,22.337387000000035
+Sham Shui Po,The Campton,"208 Fuk Wa St, Un Chau",深水埗區,The Campton,福華街208號,深水埗区,The Campton,福华街208号,0,0,0,14,0,0,0,0,3,Tesla Wall Connector,-,114.16018400000007,22.33328000000006
+Sham Shui Po,Lung Cheung Road Lookout,Lung Cheung Road,深水埗區,龍翔道觀景台,龍翔道,深水埗区,龙翔道观景台,龙翔道,0,4,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.1712950000001,22.343042000000025
+Sham Shui Po,Cheung Sha Wan Plaza,"833 Cheung Sha Wan Road, Kowloon",深水埗區,長沙灣廣場,九龍長沙灣道833號,深水埗区,长沙湾广场,九龙长沙湾道833号,0,0,0,23,0,0,0,0,3,Tesla Wall Connector,-,114.14870500000006,22.337114000000042
+Sham Shui Po,Lai Sun Commercial Centre,"680 Cheung Sha Wan Road, Kowloon",深水埗區,麗新商業中心,九龍長沙灣道680號,深水埗区,丽新商业中心,九龙长沙湾道680号,0,7,0,3,0,0,0,0,0,Tesla Wall Connector,-,114.15195500000004,22.339050000000043
+Sham Shui Po,Lai Chi Kok Park,"1 Lai Wan Road, Lai Chi Kok, Kowloon",深水埗區,荔枝角公園,九龍荔枝角荔灣道1號,深水埗区,荔枝角公园,九龙荔枝角荔湾道1号,0,8,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.13822200000004,22.339746000000048
+Sham Shui Po,Cornwall Street Park,"17 Cornwall Street, Kowloon Tong",深水埗區,歌和老街公園,九龍塘歌和老街17號,深水埗区,歌和老街公园,九龙塘歌和老街17号,0,2,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.17272200000002,22.33918600000004
+Sham Shui Po,Wing Cheong Estate Car Park,"No.20, Sai Chuen Road, Sham Shui Po",深水埗區,榮昌邨停車場,深水埗西邨路20號,深水埗区,荣昌邨停车场,深水埗西邨路20号,2,0,0,0,0,0,0,0,0,-,-,114.15611100000001,22.32880700000004
+Sham Shui Po,Caritas Medical Centre,"WING HONG STREET, SHAM SHUI PO",深水埗區,明愛醫院,深水埗永康街,深水埗区,明爱医院,深水埗永康街,0,0,0,1,0,0,0,0,0,IEC60309,-,114.15412900000001,22.341827000000023
+Sham Shui Po,Hoi Ying Estate,LAI YING STREET,深水埗區,海盈邨,荔盈街,深水埗区,海盈邨,荔盈街,0,4,0,0,0,0,0,0,0,-,-,114.14795800000002,22.32883400000003
+Kowloon City,"Run Run Shaw Creative Media Centre, The City University of Hong Kong","18 Tat Hong Ave, Kowloon Tong",九龍城區,香港城市大學邵逸夫創意媒體中心,九龍塘達康路18號,九龙城区,香港城市大学邵逸夫创意媒体中心,九龙塘达康路18号,0,0,0,0,0,0,1,0,0,-,-,114.16907800000001,22.340099000000066
+Kowloon City,"Nam Shan Yuen, The City University of Hong Kong","23 Nam Shan Chuen Rd, Kowloon Tong",九龍城區,香港城市大學南山苑,九龍塘南山邨道23號,九龙城区,香港城市大学南山苑,九龙塘南山邨道23号,0,0,0,0,0,0,1,0,0,-,-,114.17095600000005,22.335628000000042
+Kowloon City,"Academic Exchange Building, The City University of Hong Kong",33 To Yuen Street,九龍城區,香港城市大學學術交流大樓,33 桃源街,九龙城区,香港城市大学学术交流大楼,33 桃源街,0,0,0,0,0,0,1,0,0,-,-,114.17463600000008,22.335659000000078
+Kowloon City,"Tak Chee Yuen, The City University of Hong Kong","88, Tat Chee Ave",九龍城區,香港城市大學德智苑,九龍塘達之路88號,九龙城区,香港城市大学德智苑,九龙塘达之路88号,0,0,0,0,0,0,1,0,0,-,-,114.17343500000004,22.338247000000024
+Sham Shui Po,KMB Manhanttan Hill Carpark,"1 Po Lun St, Lai Chi Kok",深水埗區,曼克頓山(九巴總部)停車場,荔枝角寶輪街1號,深水埗区,曼克顿山(九巴总部)停车场,荔枝角宝轮街1号,0,0,0,0,0,12,0,0,0,-,-,114.14253100000008,22.334324000000038
+Sham Shui Po,ONE WEST KOWLOON,"873 Lai Chi Kok Rd, Lai Chi Kok",深水埗區,一號．西九龍,荔枝角道873號,深水埗区,一号．西九龙,荔枝角道873号,0,1,0,0,0,0,0,0,0,-,-,114.14695200000006,22.33361400000007
+Wong Tai Sin,Lok Fu Zone B Car Park ,"Lok Fu Place, 198 Junction Road, Wang Tau Hom, Kowloon",黃大仙區,樂富B區停車場,九龍橫頭磡聯合道198號樂富廣場,黄大仙区,乐富B区停车场,九龙横头磡联合道198号乐富广场,0,6,0,0,0,6,3,0,0,-,-,114.18792200000007,22.337352000000067
+Wong Tai Sin,Temple Mall North Car Park,"Temple Mall North, 136 Lung Cheung Road, Wong Tai Sin, Kowloon",黃大仙區,黃大仙中心 北館 停車場,九龍黃大仙龍翔道136號黃大仙中心 北館,黄大仙区,黄大仙中心 北馆 停车场,九龙黄大仙龙翔道136号黄大仙中心 北馆,0,0,0,4,1,1,4,0,4,-,-,114.19070600000009,22.34247800000003
+Wong Tai Sin,Plaza Hollywood Carpark,"Plaza Hollywood, Diamond Hill, Kln",黃大仙區,荷里活廣場停車場,九龍鑽石山荷里活廣場,黄大仙区,荷里活广场停车场,九龙钻石山荷里活广场,8,0,0,0,0,0,3,0,0,-,-,114.20270600000003,22.34050300000007
+Wong Tai Sin,Sheung Fung Street Car Park,"Sheung Fung Street, Wong Tai Sin, Kowloon",黃大仙區,雙鳳街停車場,九龍黃大仙雙鳳街,黄大仙区,双凤街停车场,九龙黄大仙双凤街,0,82,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.19705900000008,22.34395900000004
+Wong Tai Sin,AIA Financial Centre,"103 King Fuk St, San Po Kong",黃大仙區,友邦九龍金融中心,新蒲崗景福街103號,黄大仙区,友邦九龙金融中心,新蒲岗景福街103号,0,1,0,0,0,0,0,0,0,-,-,114.19936300000006,22.335095000000024
+Wong Tai Sin,Lions Rise,"7 Muk Lun St, Chuk Un",黃大仙區,現崇山,竹園睦鄰街7號,黄大仙区,现崇山,竹园睦邻街7号,2,2,0,0,0,0,0,0,0,-,-,114.19647000000009,22.340900000000033
+Wong Tai Sin,Lions Rise Mall,"5 Chun Yan St, Chuk Un",黃大仙區,現崇山商場,竹園親仁街5號,黄大仙区,现崇山商场,竹园亲仁街5号,2,2,0,0,0,2,0,0,0,-,-,114.19702900000004,22.339913000000024
+Wong Tai Sin,The Latitude Carpark,"PRINCE EDWARD ROAD EAST, WONG TAI SIN",黃大仙區,譽．港灣停車場,黃大仙太子道東,黄大仙区,誉．港湾停车场,黄大仙太子道东,3,0,0,0,0,0,2,0,4,-,-,114.19690700000001,22.333582000000035
+Wong Tai Sin,Kai Tak Garden,"10 Tai Shing St, Chuk Un",黃大仙區,啟德花園,竹園大成街10號,黄大仙区,启德花园,竹园大成街10号,0,2,0,0,0,0,0,0,0,-,-,114.19414500000005,22.337436000000025
+Wong Tai Sin,Lok Fu Market Car Park ,"Lok Fu Place, 198 Junction Road, Wang Tau Hom, Kowloon",黃大仙區,樂富街市停車場,九龍橫頭磡聯合道198號樂富廣場,黄大仙区,乐富街市停车场,九龙横头磡联合道198号乐富广场,0,0,0,4,0,0,0,0,4,Tesla Wall Connector / Supercharger,-,114.18712700000003,22.339622000000077
+Wong Tai Sin,Hammer Hill Road Swimming Pool and Sports Ground,"Wing Ting Road Wong Tai Sin, Kowloon, HongKong",黃大仙區,斧山道游泳池及運動場,牛池灣永定道,黄大仙区,斧山道游泳池及运动场,牛池湾永定道,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.20737500000007,22.337582000000054
+Wong Tai Sin,Po Kong Village Road Park,"140 Po Kong Village Road, Diamond Hill, Kowloon",黃大仙區,蒲崗村道公園,九龍鑽石山蒲崗村道140號,黄大仙区,蒲岗村道公园,九龙钻石山蒲岗村道140号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.20624900000007,22.344720000000052
+Wong Tai Sin,Temple Mall South Car Park A,"Temple Mall South, 103 Ching Tak Street, Wong Tai Sin, Kowloon",黃大仙區,黃大仙中心 南館 A停車場,九龍黃大仙正德街103號黃大仙中心 南館,黄大仙区,黄大仙中心 南馆 A停车场,九龙黄大仙正德街103号黄大仙中心 南馆,0,10,0,0,0,2,0,0,0,-,-,114.19523400000003,22.341184000000055
+Wong Tai Sin,Lok Fu UNY,198 Junction Road Wang Tau Hom,黃大仙區,樂富生活創庫,橫頭磡聯合道198號,黄大仙区,乐富生活创库,横头磡联合道198号,0,12,0,0,0,8,0,0,0,-,-,114.18591300000003,22.338693000000035
+Wong Tai Sin,Tsz Wan Shan Shopping Centre,"23 Yuk Wah St, Tsz Wan Shan",黃大仙區,慈雲山中心,慈雲山毓華街23號,黄大仙区,慈云山中心,慈云山毓华街23号,0,29,0,0,1,1,0,0,0,-,-,114.20142300000009,22.34730600000006
+Wong Tai Sin,Lok Fu Estate,196 Junction Road Wang Tau Hom,黃大仙區,樂富邨,橫頭磡聯合道196號,黄大仙区,乐富邨,横头磡联合道196号,0,8,0,0,0,0,0,0,0,-,-,114.18709700000011,22.335406000000035
+Wong Tai Sin,Tung Tau II Car Park A,"Tung Tau Estate Retail and Car Park, 183 Tung Tau Tsuen Road, Wong Tai Sin, Kowloon",黃大仙區,東頭二(A)停車場,九龍黃大仙東頭村道183號東頭邨商舖及停車場,黄大仙区,东头二(A)停车场,九龙黄大仙东头村道183号东头邨商舖及停车场,0,9,0,0,0,0,0,0,0,-,-,114.19271100000003,22.33523100000008
+Wong Tai Sin,Tung Tau II Car Park B,"183 Tung Tau Tsuen Rd, Chuk Un",黃大仙區,東頭二(B)停車場,竹園東頭村道183號東頭邨商舖及停車場,黄大仙区,东头二(B)停车场,竹园东头村道183号东头邨商铺及停车场,0,0,0,0,0,0,9,0,0,-,-,114.19250800000009,22.334513000000072
+Wong Tai Sin,King Lai Court,"36-38 Fung Shing St, Hammer Hill",黃大仙區,瓊麗苑,斧山豐盛街36-38號,黄大仙区,琼丽苑,斧山丰盛街36-38号,0,12,0,0,0,0,0,0,0,-,-,114.21065800000008,22.341645000000028
+Wong Tai Sin,Tsz Man Estate,"55 Tsz Wan Shan Rd, Tsz Wan Shan",黃大仙區,慈民邨,慈雲山慈雲山道55號,黄大仙区,慈民邨,慈云山慈云山道55号,0,17,0,0,0,0,0,0,0,-,-,114.20277600000009,22.34846600000003
+Wong Tai Sin,Bel Air Heights,"LUNG POON STREET, WONG TAI SIN",黃大仙區,悅庭軒,黃大仙 龍蟠街,黄大仙区,悦庭轩,黄大仙 龙蟠街,0,1,0,0,0,0,0,0,0,-,-,114.20211400000005,22.341984000000025
+Wong Tai Sin,Hong Keung Car Park,"Hong Keung Court Car Park, 23 Heng Lam Street, Wang Tau Hom,  Kowloon",黃大仙區,康強停車場,九龍橫頭磡杏林街23號康強苑停車場,黄大仙区,康强停车场,九龙横头磡杏林街23号康强苑停车场,0,14,0,0,0,0,0,0,0,-,-,114.19001000000003,22.337244000000055
+Wong Tai Sin,The Burrow,"212 Choi Hung Rd, San Po Kong",黃大仙區,The Burrow,新蒲崗彩虹道212號,黄大仙区,The Burrow,新蒲岗彩虹道212号,0,0,0,0,0,0,0,0,3,Supercharger,-,114.19998500000008,22.338234000000057
+Wong Tai Sin,Temple Mall South Car Park B,"Temple Mall South, 103 Ching Tak Street, Wong Tai Sin, Kowloon",黃大仙區,黃大仙中心 南館 B停車場,九龍黃大仙正德街103號黃大仙中心 南館,黄大仙区,黄大仙中心 南馆 B停车场,九龙黄大仙正德街103号黄大仙中心 南馆,0,0,0,0,0,2,0,0,0,-,-,114.19403000000011,22.341282000000035
+Yau Tsim Mong,China Hong Kong City,"33 Canton Road, Tsim Sha Tsui",油尖旺區,中港城,尖沙咀廣東道33號,油尖旺区,中港城,尖沙咀广东道33号,0,42,0,0,0,4,0,0,0,-,-,114.1676940000001,22.300291000000072
+Yau Tsim Mong,Ocean Terminal Car Park (P5),"4/F - 5/F, Ocean Terminal, Harbour City, Tsim Sha Tsui, Kowloon",油尖旺區,海運大廈停車場 (P5),九龍尖沙咀海港城海運大廈4樓-5樓,油尖旺区,海运大厦停车场 (P5),九龙尖沙咀海港城海运大厦4楼-5楼,24,0,0,0,2,2,5,0,0,-,-,114.16767500000003,22.295135000000073
+Yau Tsim Mong,Langham Place,"31 Shantung St, Mong Kok",油尖旺區,朗豪坊,旺角山東街31號,油尖旺区,朗豪坊,旺角山东街31号,0,0,0,0,26,0,29,0,0,-,-,114.16872300000011,22.317372000000034
+Yau Tsim Mong,Olympian City 1,"11 Hoi Fai Road, West Kowloon",油尖旺區,奧海城1期,西九龍海輝道11號,油尖旺区,奥海城1期,西九龙海辉道11号,2,1,0,33,0,0,0,0,7,-,-,114.15822300000002,22.319690000000037
+Yau Tsim Mong,Olympian City 2,"18 Hoi Ting Road, West Kowloon",油尖旺區,奧海城2期,西九龍海庭道18號,油尖旺区,奥海城2期,西九龙海庭道18号,0,0,0,0,0,4,2,0,0,-,-,114.16203300000006,22.315300000000036
+Yau Tsim Mong,Olympian City 3,"1 Hoi Wang Road, South West Kowloon",油尖旺區,奧海城3期,西南九龍海泓道1號,油尖旺区,奥海城3期,西南九龙海泓道1号,2,0,0,0,0,0,0,0,0,-,-,114.16521100000011,22.31749300000007
+Yau Tsim Mong,The Long Beach,"HOI FAI ROAD, YAU TSIM MONG",油尖旺區,浪澄灣,油尖旺 海輝道,油尖旺区,浪澄湾,油尖旺 海辉道,0,0,0,0,0,0,2,0,0,-,-,114.15591400000005,22.319885000000056
+Yau Tsim Mong,HONG KONG SCOUT HEADQUARTERS,"AUSTIN ROAD, YAU TSIM MONG",油尖旺區,香港童軍中心,油尖旺 柯士甸道,油尖旺区,香港童军中心,油尖旺 柯士甸道,3,3,0,0,0,0,0,0,0,-,-,114.16939200000002,22.302711000000045
+Yau Tsim Mong,Empire Centre,"68 Mody Road, Tsim Sha Tsui East",油尖旺區,帝國中心,尖東麼地道68號,油尖旺区,帝国中心,尖东么地道68号,0,2,0,0,0,2,0,0,0,-,-,114.17842700000006,22.298268000000064
+Yau Tsim Mong,K11 Art Mall,"18 Hanoi Road, Tsim Sha Tsui, Kowloon",油尖旺區,K11購物藝術館,尖沙咀河內道18號,油尖旺区,K11购物艺术馆,尖沙咀河内道18号,0,5,0,0,0,3,0,0,0,-,-,114.17361800000003,22.29743200000007
+Yau Tsim Mong,ELEMENTS Carpark,"1 AUSTIN ROAD WEST, Yau Tsim Mong District, Kowloon",油尖旺區,圓方停車場,九龍 油尖旺區 柯士甸道西1號,油尖旺区,圆方停车场,九龙 油尖旺区 柯士甸道西1号,0,0,0,9,0,0,2,0,12,-,-,114.16157900000007,22.304932000000065
+Yau Tsim Mong,Elements (South) Car Park,"1, Tsim Sha Tsui, Austin Rd W",油尖旺區,圓方南停車場,柯士甸道一號,油尖旺区,圆方南停车场,柯士甸道一号,0,0,0,0,0,0,3,0,0,-,-,114.16013700000008,22.30421800000005
+Yau Tsim Mong,Gala Place,"56 Dundas Street, Mongkok, Kowloon",油尖旺區,家樂坊,九龍旺角登打士街56號,油尖旺区,家乐坊,九龙旺角登打士街56号,0,4,0,6,0,0,0,0,0,Tesla Wall Connector,-,114.17109700000003,22.31525400000004
+Yau Tsim Mong,WEALTH COMMERCIAL CENTRE,"KWONG WA STREET, YAU TSIM MONG",油尖旺區,廣發商業中心,油尖旺 廣華街,油尖旺区,广发商业中心,油尖旺 广华街,1,0,0,0,0,0,0,0,0,-,-,114.17366700000002,22.316771000000074
+Yau Tsim Mong,SHANGRI-LA HOTEL,"MODY ROAD, YAU TSIM MONG",油尖旺區,九龍香格里拉大酒店,油尖旺 麼地道,油尖旺区,九龙香格里拉大酒店,油尖旺 么地道,2,0,0,1,0,0,0,0,0,-,-,114.17708800000003,22.297004000000072
+Yau Tsim Mong,Royal Plaza Hotel,"193 Prince Edward Rd W, Kadoorie Hill",油尖旺區,帝京酒店,加多利山太子道西193號,油尖旺区,帝京酒店,加多利山太子道西193号,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.17317800000001,22.32483300000007
+Yau Tsim Mong,Lodgewood,"1131 Canton Rd, Mong Kok",油尖旺區,薈賢居,旺角廣東道1131號,油尖旺区,荟贤居,旺角广东道1131号,0,0,0,1,0,0,0,0,0,Tesla Wall Connector,-,114.16652900000008,22.32123400000006
+Yau Tsim Mong,W Hong Kong,1 Austin Road West Kowloon Station,油尖旺區,香港W酒店,柯士甸道西1號,油尖旺区,香港W酒店,柯士甸道西1号,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.160616,22.30541800000003
+Yau Tsim Mong,Hotel ICON,"17 Science Museum Rd, Tsim Sha Tsui",油尖旺區,唯港薈,尖沙咀科學館道17號,油尖旺区,唯港荟,尖沙咀科学馆道17号,0,0,0,0,0,0,0,0,6,Tesla Wall Connector,-,114.17943200000002,22.300448000000074
+Yau Tsim Mong,Coronation Circle,"1 Yau Cheung Road, South West Kowloon",油尖旺區,中港薈,西南九龍友翔道1號,油尖旺区,中港薈,西南九龙友翔道1号,1,0,0,0,0,0,0,0,0,-,-,114.16577100000006,22.309413000000063
+Yau Tsim Mong,REGAL KOWLOON HOTEL,"MODY ROAD, YAU TSIM MONG",油尖旺區,富豪九龍酒店,油尖旺 麼地道,油尖旺区,富豪九龙酒店,油尖旺 么地道,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.1779130000001,22.298937000000024
+Yau Tsim Mong,Royal Garden Hotel,"69 Mody Rd, Tsim Sha Tsui",油尖旺區,帝苑酒店,尖東麼地道69號,油尖旺区,帝苑酒店,尖东么地道69号,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.17734300000006,22.298667000000023
+Yau Tsim Mong,International Commerce Centre,"1 Austin Rd W, Tsim Sha Tsui",油尖旺區,環球貿易廣場,柯士甸道西1號,油尖旺区,环球贸易广场,柯士甸道西1号,0,1,0,0,0,0,0,0,0,-,-,114.16145300000005,22.30370700000003
+Yau Tsim Mong,Pioneer Centre Car Park,NO.133 Sai Yeung Choi Street South,油尖旺區,始創中心停車場,西洋菜南街133號,油尖旺区,始创中心停车场,西洋菜南街133号,0,0,0,0,0,0,2,0,0,-,-,114.16905200000008,22.322245000000066
+Yau Tsim Mong,ONE PEKING,"PEKING ROAD, YAU TSIM MONG",油尖旺區,北京道1號,油尖旺 北京道,油尖旺区,北京道1号,油尖旺 北京道,0,1,0,0,0,0,0,0,0,-,-,114.16976000000011,22.296017000000063
+Yau Tsim Mong,8 OBSERVATORY ROAD,"OBSERVATORY ROAD, YAU TSIM MONG",油尖旺區,天文臺道８號,油尖旺 天文臺道,油尖旺区,天文台道８号,油尖旺 天文台道,0,0,0,3,0,0,0,0,0,Tesla Wall Connector,-,114.17580600000008,22.301143000000025
+Yau Tsim Mong,The Ritz-Carlton Hong Kong,"1 Austin Rd W, Tsim Sha Tsui",油尖旺區,香港麗思卡爾頓酒店,柯士甸道西1號,油尖旺区,香港丽思卡尔顿酒店,柯士甸道西1号,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.16145300000005,22.30370700000003
+Yau Tsim Mong,Canton Road Carpark,"1112, 1120 Canton Rd, Mong Kok",油尖旺區,廣東道停車場,"廣東道1112, 1120號",油尖旺区,广东道停车场,"广东道1112, 1120号",0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,114.16682300000002,22.32108500000004
+Yau Tsim Mong,GuangDong Hotel Hong Kong,"15 Prat Ave, Tsim Sha Tsui",油尖旺區,香港粵海酒店,尖沙咀寶勒巷15號,油尖旺区,香港粤海酒店,尖沙咀宝勒巷15号,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.17455400000006,22.298564000000056
+Yau Tsim Mong,AUTO PLAZA,"MODY ROAD, YAU TSIM MONG",油尖旺區,安達中心,油尖旺 麼地道,油尖旺区,安达中心,油尖旺 么地道,0,4,0,0,0,0,0,0,0,-,-,114.17637000000002,22.298666000000026
+Yau Tsim Mong,LANGHAM PLACE HOTEL MONGKOK HK,"SHANGHAI STREET, YAU TSIM MONG",油尖旺區,朗豪酒店,油尖旺 上海街,油尖旺区,朗豪酒店,油尖旺 上海街,0,0,0,2,0,0,0,0,0,Tesla Wall Connector,-,114.16808500000002,22.318209000000024
+Yau Tsim Mong,Grand Century Place,"PRINCE EDWARD ROAD WEST, YAU TSIM MONG",油尖旺區,新世紀廣場,油尖旺 太子道西,油尖旺区,新世纪广场,油尖旺 太子道西,2,0,0,0,0,0,2,0,0,-,-,114.17232200000001,22.32314800000006
+Yau Tsim Mong,West Kowloon Cultural District Zone E Car Park,"Cultural District, West Kowloon, No.36 Museum Dr, Tsim Sha Tsui",油尖旺區,西九龍文化區E區停車場,西九龍博物館道36號,油尖旺区,西九龙文化区E区停车场,西九龙博物馆道36号,0,20,0,0,0,0,0,0,0,-,-,114.15776100000005,22.30132800000007
+Yau Tsim Mong,K11 MUSEA,18 SALISBURY RD,油尖旺區,K11 人文購物藝術館,梳士巴利道18號,油尖旺区,K11 人文购物艺术馆,梳士巴利道18号,0,21,0,0,0,10,0,0,0,-,-,114.17490100000009,22.29443800000007
+Yau Tsim Mong,Queen Elizabeth Hospital (Ambulatory Care Centre Extension),"Queen Elizabeth Hospital Rd, King's Park",油尖旺區,伊利沙伯醫院(日間醫療中心新翼),京士柏伊利沙伯醫院路,油尖旺区,伊利沙伯医院(日间医疗中心新翼),京士柏伊利沙伯医院路,12,2,0,0,0,0,0,0,0,-,-,114.17519400000003,22.30816600000003
+Yau Tsim Mong,The One,"NATHAN ROAD, YAU TSIM MONG",油尖旺區,The One,油尖旺 彌敦道,油尖旺区,The One,油尖旺 弥敦道,0,2,0,0,0,0,0,0,0,-,-,114.17260500000009,22.299829000000045
+Yau Tsim Mong,Prosperous Garden,"PUBLIC SQUARE STREET, YAU TSIM MONG",油尖旺區,駿發花園,油尖旺 眾坊街,油尖旺区,骏发花园,油尖旺 众坊街,1,1,0,0,0,0,0,0,0,-,-,114.16837200000009,22.310062000000073
+Yau Tsim Mong,Hong Kong West Kowloon Station Car Park,B2 Basement Floor of West Kowloon Station in the Hong Kong Section of the Exprss Rail Link,油尖旺區,高鐵香港段西九龍站停車場,高鐵香港段西九龍站的地下庫B2,油尖旺区,高铁香港段西九龙站停车场,高铁香港段西九龙站的地下库B2,0,0,10,0,0,0,0,0,0,-,-,114.16437600000006,22.303840000000037
+Yau Tsim Mong,Kowloon Park,"22, Austin Road, Tsim Sha Tsui, Kowloon",油尖旺區,九龍公園,九龍尖沙咀柯士甸道22號,油尖旺区,九龙公园,九龙尖沙咀柯士甸道22号,0,9,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.17054800000005,22.30192900000003
+Yau Tsim Mong,CONCORDIA PLAZA,"SCIENCE MUSEUM ROAD, YAU TSIM MONG",油尖旺區,康宏廣場,油尖旺 科學館道,油尖旺区,康宏广场,油尖旺 科学馆道,0,0,0,0,0,4,0,0,0,-,-,114.1782720000001,22.302197000000035
+Yau Tsim Mong,Eaton Hotel,Pak Hoi Street,油尖旺區,逸東酒店,北海街,油尖旺区,逸东酒店,北海街,0,0,0,0,0,0,2,0,0,-,-,114.17185500000005,22.307892000000038
+Yau Tsim Mong,Hong Kong Red Cross Blood Transfusion Service,"15 King's Park Rise, Yau Ma Tei",油尖旺區,香港紅十字會輸血服務中心,油麻地京士柏道15號,油尖旺区,香港红十字会输血服务中心,油麻地京士柏道15号,0,0,0,0,0,0,8,0,0,-,-,114.17464500000006,22.311014000000057
+Yau Tsim Mong,Hoi Fu Car Park ,"Hoi Fu Shopping Centre, 2 Hoi Ting Road, Mong Kok, Kowloon",油尖旺區,海富停車場,九龍旺角海庭路2號海富商場,油尖旺区,海富停车场,九龙旺角海庭路2号海富商场,0,12,0,0,0,2,0,0,0,-,-,114.16545300000007,22.315750000000037
+Yau Tsim Mong,CHI WAN BUILDING (MIRAMAR SHOPPING CENTRE),"KIMBERLEY ROAD, YAU TSIM MONG",油尖旺區,美麗華商場,油尖旺 金巴利道,油尖旺区,美麗华商场,油尖旺 金巴利道,0,16,0,2,0,2,3,0,0,Tesla Wall Connector,-,114.17262400000004,22.300815000000057
+Yau Tsim Mong,One Bedford Place,"100 Bedford Rd, Tai Kok Tsui",油尖旺區,One Bedford Place,大角咀必發道100號,油尖旺区,One Bedford Place,大角咀必发道100号,0,0,0,0,0,0,0,0,3,Tesla Supercharger,-,114.1630080000001,22.323718000000042
+Yau Tsim Mong,InterContinental Grand Stanford,70 Mody Rd,油尖旺區,海景嘉福洲際酒店,尖沙咀麼地道70號,油尖旺区,海景嘉福洲际酒店,尖沙咀么地道70号,0,0,0,1,0,0,0,0,0,Tesla Wall Connector,-,114.1792190000001,22.299383000000034
+Kwai Tsing,Shek Lei Shopping Centre II,"8 Shek Lei St, Shek Lei",葵青區,石籬商場二期,石梨街8號,葵青区,石篱商场二期,石梨街8号,0,0,0,3,0,0,3,0,3,-,-,114.139362,22.36533600000007
+Kwai Tsing,MTR Maritime Square Car Park,"33 TSING KING ROAD, Kwai Tsing District, New Territories",葵青區,港鐵青衣城停車場,新界 葵青區 青敬路33號,葵青区,港铁青衣城停车场,新界 葵青区 青敬路33号,0,0,0,1,0,0,0,0,2,-,-,114.10669100000007,22.358198000000073
+Kwai Tsing,Kwai Chung Shopping Centre,"11 Sheung Kok St, Kwai Chung",葵青區,葵涌商場,葵涌上角街11號,葵青区,葵涌商场,葵涌上角街11号,0,0,0,0,1,1,8,0,0,-,-,114.12776000000008,22.368214000000023
+Kwai Tsing,Cheung Fat Car Park ,"Cheung Fat Plaza, 6 Tam Kon Shan Road, Tsing Yi, New Territories",葵青區,長發停車場,新界青衣擔桿山路6號長發廣場,葵青区,长发停车场,新界青衣担杆山路6号长发广场,0,10,0,12,0,0,3,0,4,-,-,114.10293300000001,22.362637000000063
+Kwai Tsing,Cheung On Phase 2 Car Park ,"Cheung On Estate Retail and Car Park, 1 Tam Kon Shan Road, Tsing Yi, New Territories",葵青區,長安2期停車場,新界青衣擔桿山路1號長安邨商舖及停車場,葵青区,长安2期停车场,新界青衣担杆山路1号长安邨商铺及停车场,0,0,0,0,1,1,1,0,0,-,-,114.10441600000001,22.360484000000042
+Kwai Tsing,Metroplaza,"HING FONG ROAD, KWAI TSING",葵青區,新都會廣場,葵青 興芳路,葵青区,新都会广场,葵青 兴芳路,1,0,0,1,0,0,1,0,0,-,-,114.12669100000005,22.357556000000045
+Kwai Tsing,Tsing Yi Southwest Leisure Building,"70 Chung Mei Road, Tsing Yi",葵青區,青衣西南康體大樓,青衣涌美路70號,葵青区,青衣西南康体大楼,青衣涌美路70号,6,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.10223400000007,22.35140000000007
+Kwai Tsing,Magnet Place,"49 Kwai Fung Cres, Kwai Chung",葵青區,Magnet Place,葵涌葵豐街49號,葵青区,Magnet Place,葵涌葵丰街49号,0,0,0,4,0,0,0,0,0,Tesla Wall Connector,-,114.12564100000009,22.355555000000038
+Kwai Tsing,Riley House,"79 Lei Muk Rd, Shek Yam",葵青區,達利中心,石蔭梨木道79號,葵青区,达利中心,石荫梨木道79号,0,0,0,0,0,0,5,0,0,-,-,114.13712500000008,22.370081000000027
+Kwai Tsing,Highland Park,"LAI KONG STREET, KWAI TSING",葵青區,浩景臺,葵青 荔崗街,葵青区,浩景台,葵青 荔岗街,0,3,0,0,0,0,0,0,0,-,-,114.13015800000005,22.349578000000065
+Kwai Tsing,Kwai Fong Car Park,"19 Kwai Yi Road, Kwai Chung, New Territories",葵青區,葵芳停車場,新界葵涌葵義路19號,葵青区,葵芳停车场,新界葵涌葵义路19号,0,94,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.12731500000007,22.355485000000044
+Kwai Tsing,Hang King Garden,"WING FONG ROAD, KWAI TSING",葵青區,恒景花園,葵青 榮芳路,葵青区,恒景花园,葵青 荣芳路,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.12760800000001,22.360492000000022
+Kwai Tsing,Gateway TS,"CHEUNG FAI ROAD, KWAI TSING",葵青區,橋滙,葵青 長輝路,葵青区,桥滙,葵青 长辉路,0,0,0,0,0,0,6,0,0,-,-,114.10971800000004,22.35165200000006
+Kwai Tsing,Tsing Yi Northeast Park,"10 Tam Kon Shan Road, Tsing Yi",葵青區,青衣東北公園,青衣担杆山路10號,葵青区,青衣东北公园,青衣担杆山路10号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.09871800000008,22.36136700000003
+Kwai Tsing,Kwai Chung Sports Ground,"93 Hing Shing Road, Kwai Chung",葵青區,葵涌運動場,葵涌興盛路93號,葵青区,葵涌运动场,葵涌兴盛路93号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.1252750000001,22.358152000000075
+Kwai Tsing,Hing Fong Road Playground,"Hing Fong Road, Kwai Chung",葵青區,興芳路遊樂場,葵涌興芳路,葵青区,兴芳路游乐场,葵涌兴芳路,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.12826600000005,22.360805000000028
+Kwai Tsing,Tsing Yi Sports Ground and Swimming Pool,"38 Tsing Luk Street, Tsing Yi",葵青區,青衣運動場及游泳池,青衣青綠街38號,葵青区,青衣运动场及泳池,青衣青敬路51号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.10747500000002,22.35615800000005
+Kwai Tsing,TSING YI ESTATE,"FUNG SHUE WO ROAD, KWAI TSING",葵青區,青衣邨,葵青 楓樹窩路,葵青区,青衣邨,葵青 枫树窝路,0,0,0,0,0,2,0,0,0,-,-,114.1023130000001,22.356580000000065
+Kwai Tsing,ON YAM ESTATE,"ON CHIT STREET, KWAI TSING",葵青區,安蔭邨,葵青 安捷街,葵青区,安荫邨,葵青 安捷街,0,6,0,0,0,4,0,0,0,-,-,114.14159000000006,22.371232000000077
+Kwai Tsing,Kwai Shing West Shopping Centre Car Park,"Kwai Luen Road, Kwai Chung, N.T.",葵青區,葵盛西商場停車場,新界葵涌葵聯路,葵青区,葵盛西商场停车场,新界葵涌葵联路,0,2,0,0,0,0,0,0,0,-,-,114.12357700000007,22.362299000000064
+Kwai Tsing,Yin Lai Car Park ,"Yin Lai Court Shopping Centre, 180 Lai King Hill Road, Kwai Chung, New Territories",葵青區,賢麗停車場,新界葵涌荔景山路180號賢麗苑購物中心,葵青区,贤丽停车场,新界葵涌荔景山路180号贤丽苑购物中心,0,18,0,0,0,0,0,0,0,-,-,114.12632500000007,22.348928000000058
+Kwai Tsing,KWAI FONG TERRACE,"KWAI YI ROAD, KWAI TSING",葵青區,葵芳閣,葵青 葵義路,葵青区,葵芳阁,葵青 葵义路,0,0,0,0,0,2,0,0,0,-,-,114.12844900000005,22.355615000000057
+Kwai Tsing,Fung King Industrial Building,"Fung King Industrial Building, 24-28 Lam Tin Street, Kwai Chung",葵青區,馮敬工業大廈,葵涌藍田街 24-28號,葵青区,冯敬工业大厦,葵涌蓝田街 24-28号,0,0,0,0,0,6,0,0,0,-,-,114.1381070000001,22.369124000000056
+Kwai Tsing,Kowloon Commerce Centre,"KWAI CHEONG ROAD, KWAI TSING",葵青區,九龍貿易中心,葵青 葵昌路,葵青区,九龙贸易中心,葵青 葵昌路,0,0,0,4,0,0,0,0,0,Tesla Wall Connector,-,114.13257500000009,22.361680000000035
+Kwai Tsing,Goodman Interlink,39 Tsing Yi Rd,葵青區,嘉民領達中心,青衣青衣路39號,葵青区,嘉民领达中心,青衣青衣路39号,0,0,0,6,0,0,0,0,6,Tesla Wall Connector / Supercharger,-,114.10808100000008,22.332091000000048
+Kwai Tsing,Cheung Wang Car Park ,"Cheung Wang Estate Retail and Car Park, 9 Liu To Road, Tsing Yi, New Territories",葵青區,長宏停車場,新界青衣寮肚路9號長宏邨商舖及停車場,葵青区,长宏停车场,新界青衣寮肚路9号长宏邨商铺及停车场,0,14,0,0,0,0,0,0,0,-,-,114.09580500000004,22.356988000000058
+Kwai Tsing,Ning Fung Court,"99, Lei Muk Rd, Kwai Chung",葵青區,寧峰苑,葵涌梨木道99號,葵青区,宁峰苑,葵涌梨木道99号,0,13,0,0,0,0,0,0,0,-,-,114.13808700000004,22.37203500000004
+Kwai Tsing,Greenview Villa,"18 Tsing Luk St, Tsing Yi",葵青區,綠悠雅苑,青衣青綠街18號,葵青区,绿悠雅苑,青衣青绿街18号,51,0,0,0,0,0,0,0,0,-,-,114.10479800000007,22.353041000000076
+Kwai Tsing,TIVOLI GARDEN,"TSING KING ROAD, KWAI TSING",葵青區,宏福花園,葵青 青敬路,葵青区,宏福花园,葵青 青敬路,0,2,0,0,0,0,0,0,0,-,-,114.1076240000001,22.35451400000005
+Kwai Tsing,China Merchants Logistics Centre,"38 Tsing Yi Hong Wan Rd, Tsing Yi",葵青區,中國招商局物流中心,青衣青衣航運路38 號,葵青区,中国招商局物流中心,青衣青衣航运路38 号,0,0,0,6,0,0,0,0,0,Tesla Wall Connector,-,114.11160500000005,22.333950000000073
+Kwai Tsing,Ching Wah Court Car Park ,"Ching Wah Court Retail and Car Park, 22 Tsing Chin Street, Tsing Yi, New Territories",葵青區,青華停車場,新界青衣青芊街22號青華苑商舖及停車場,葵青区,青华停车场,新界青衣青芊街22号青华苑商铺及停车场,0,9,0,0,0,0,0,0,0,-,-,114.099421,22.34908100000007
+Kwai Tsing,Wah Lai Car Park,"Wah Lai Estate Car Park, 282 Lai King Hill Road, Lai Chi Kok,  Kowloon",葵青區,華荔停車場,新界葵涌梨木道99九龍荔枝角荔景山路282號華荔邨停車場號寧峰苑停車場,葵青区,华荔停车场,新界葵涌梨木道99九龙荔枝角荔景山路282号华荔邨停车场号宁峰苑停车场,0,24,0,0,0,0,0,0,0,-,-,114.13771800000006,22.342508000000066
+Kwai Tsing,Shek Yam Shopping Centre,"UG4, Shek Yam Car Park, Shek Yam Estate, Kwai Chung",葵青區,石蔭商場,葵涌梨木道120號石蔭邨石蔭停車場,葵青区,石荫商场,葵涌梨木道120号石荫邨石荫停车场,0,1,0,0,0,2,0,0,0,-,-,114.13843700000007,22.371687000000065
+Tsuen Wan,CHINACHEM TSUEN WAN PLAZA,"CASTLE PEAK ROAD, TSUEN WAN",荃灣區,華懋荃灣廣場,荃灣 青山道,荃湾区,华懋荃湾广场,荃湾 青山道,0,0,0,0,0,0,2,0,0,-,-,114.11114900000007,22.37512300000003
+Tsuen Wan,DISCOVERY PARK,"398 Castle Peak Road, Tsuen Wan, New Territories",荃灣區,愉景新城,荃灣青山公路荃灣段398號,荃湾区,愉景新城,荃湾 青山道,1,14,0,0,0,6,3,0,0,-,-,114.11237500000004,22.37594500000006
+Tsuen Wan,Panda Place,"3 Tsuen Wah Street, Tsuen Wan, Hong Kong",荃灣區,悅來坊商場,新界荃灣荃華街3號,荃湾区,悅来坊商场,新界荃湾荃华街3号,0,6,0,0,0,4,0,0,4,Tesla Supercharger,-,114.12042700000006,22.368918000000065
+Tsuen Wan,Riviera Plaza,"2 Yi Lok St, Riviera Gardens",荃灣區,海濱商場,荃灣怡樂街2號,荃湾区,海滨商场,荃湾怡乐街2号,1,0,0,0,0,0,0,0,0,-,-,114.1143790000001,22.36264200000005
+Tsuen Wan,Waterside Plaza,"38 Wing Shun Street, Tsuen Wan",荃灣區,海灣花園,荃灣永順街38號,荃湾区,海湾花园,荃湾永顺街38号,2,0,0,0,0,0,0,0,0,-,-,114.11390100000006,22.364360000000033
+Tsuen Wan,Nina Tower,"No. 8 Yeung Uk Road,Tsuen Wan, N.T.",荃灣區,如心廣場,新界荃灣楊屋道8號,荃湾区,如心广场,新界荃湾杨屋道8号,0,0,0,0,1,1,1,0,0,-,-,114.11347200000012,22.368516000000056
+Tsuen Wan,Tsuen Wan Car Park,"174-208 Castle Peak Road, Tsuen Wan",荃灣區,荃灣多層停車場大廈,荃灣青山公路荃灣段174-208號,荃湾区,荃湾停车场,新界荃湾青山公路-荃湾段174-208号,0,162,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.11872900000003,22.37294000000003
+Tsuen Wan,City Landmark,Tak Hoi Street,荃灣區,荃灣城市中心,荃灣德海街,荃湾区,荃湾城市中心,荃湾德海街,1,0,0,0,0,0,0,0,0,-,-,114.11788800000011,22.37053700000007
+Tsuen Wan,KOLOUR • Tsuen Wan II (Tsuen Wan Town Square),"CASTLE PEAK ROAD, TSUEN WAN",荃灣區,荃灣千色匯 II (荃灣城市廣場),荃灣 青山道,荃湾区,荃湾千色汇 II (荃湾城市广场),荃湾 青山道,1,0,0,0,0,0,0,0,0,-,-,114.11850000000004,22.371390000000076
+Tsuen Wan,Royal View Hotel,"353 Castle Peak Rd - Ting Kau, Ting Kau",荃灣區,帝景酒店,汀九青山公路－汀九段353號,荃湾区,帝景酒店,汀九青山公路－汀九段353号,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.07762400000001,22.368945000000053
+Tsuen Wan,One Midtown,47 Chai Wan Kok Street Tsuen Wan NT,荃灣區,One Midtown,荃灣柴灣角街47號,荃湾区,One Midtown,荃湾柴湾角街47号,2,0,0,0,0,4,0,0,0,-,-,114.10799500000007,22.373212000000024
+Tsuen Wan,Sheung Chui Court,"SHA TSUI ROAD, TSUEN WAN",荃灣區,尚翠苑,荃灣 沙咀道,荃湾区,尚翠苑,荃湾 沙咀道,2,0,0,0,0,0,0,0,0,-,-,114.12047000000007,22.367200000000025
+Tsuen Wan,Wai Tsuen Sports Centre,"6 Miu Kong Street, Tsuen Wan",荃灣區,蕙荃體育館,荃灣廟崗街6號,荃湾区,蕙荃体育馆,荃湾庙岗街6号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.12249000000008,22.372318000000064
+Tsuen Wan,Silka Tsuen Wan Hotel,Lam Tin Street,荃灣區,荃灣絲麗酒店,葵涌藍田街,荃湾区,荃湾丝丽酒店,葵涌蓝田街,0,2,0,0,0,0,0,0,0,-,-,114.13867800000003,22.369264000000044
+Tsuen Wan,Citywalk,"1 Yeung Uk Road, Tsuen Wan",荃灣區,荃新天地,荃灣楊屋道1號,荃湾区,荃新天地,荃湾杨屋道1号,0,2,0,0,0,2,0,0,0,-,-,114.11312300000009,22.36992300000003
+Tsuen Wan,Citywalk 2,"18 Yeung Uk Road, Tsuen Wan",荃灣區,荃新天地2,荃灣楊屋道18號,荃湾区,荃新天地2,荃湾杨屋道18号,0,2,0,0,0,2,0,0,0,-,-,114.11492900000007,22.367875000000026
+Tsuen Wan,Tsuen Wan Sports Centre,"53 Wing Shun Street, Tsuen Wan",荃灣區,荃灣體育館,新界荃灣永順街53號,荃湾区,荃湾体育馆,新界荃湾永顺街53号,0,3,0,0,0,0,0,0,0,-,-,114.11306800000011,22.365671000000077
+Tsuen Wan,BO SHEK MANSION,"SHA TSUI ROAD, TSUEN WAN",荃灣區,寶石大廈,荃灣 沙咀道,荃湾区,宝石大厦,荃湾 沙咀道,1,2,0,0,0,0,0,0,0,-,-,114.11794800000007,22.368579000000068
+Tsuen Wan,Goodman Tsuen Wan Centre,"68 Wang Lung St, Tsuen Wan",荃灣區,嘉民荃灣中心,荃灣橫龍街68號,荃湾区,嘉民荃湾中心,荃湾横龙街68号,0,0,0,0,0,0,2,0,0,-,-,114.1177980000001,22.365264000000025
+Tsuen Wan,Yan Chai Hospital Visitor Carpark,"7-11 Yan Chai Street, Tsuen Wan, N.T.",荃灣區,仁濟醫院訪客停車場,新界荃灣仁濟街7-11號,荃湾区,仁济医院访客停车场,新界荃湾仁济街7-11号,4,0,0,0,0,0,0,0,0,-,-,114.11949000000004,22.369860000000074
+Tsuen Wan,Shing Mun Valley Sports Ground,"21 Shing Mun Road, Tsuen Wan",荃灣區,城門谷運動場,荃灣城門道21號,荃湾区,城门谷运动场,荃湾城门道21号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.12805900000001,22.37678100000005
+Tsuen Wan,MTR Tsuen Wan West Station Car Park,"MTR Tsuen Wan West Station, Tai Ho Road, Tsuen Wan",荃灣區,港鐵荃灣西站停車場,荃灣大河道港鐵荃灣西站,荃湾区,港铁荃湾西站停车场,荃湾大河道港铁荃湾西站,0,0,0,0,0,0,2,0,0,-,-,114.10887400000001,22.369195000000047
+Tsuen Wan,LUK YEUNG SUN CHUEN,"WAI TSUEN ROAD, TSUEN WAN",荃灣區,綠楊新邨,荃灣 蕙荃路,荃湾区,绿杨新邨,荃湾 蕙荃路,1,2,0,1,0,0,0,0,3,-,-,114.12021800000002,22.373556000000065
+Tsuen Wan,Shing Mun Valley Swimming Pool,"21 Shing Mun Road, Tsuen Wan",荃灣區,城門谷游泳池,荃灣城門道21號,荃湾区,城门谷游泳池,荃湾城门道21号,0,2,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.1235200000001,22.373177000000055
+Tsuen Wan,Lei Muk Shue Shopping Centre,"NGONG HOM ROAD, TSUEN WAN",荃灣區,梨木樹商場,荃灣 昂磡路,荃湾区,梨木树商场,荃湾 昂磡路,0,2,0,0,0,0,0,0,0,-,-,114.13617700000009,22.378336000000047
+Tsuen Wan,Nina Mall 2,"No. 98 Tai Ho Road,Tsuen Wan, N.T.",荃灣區,如心廣場二期,新界荃灣大河道98號,荃湾区,如心广场二期,新界荃湾大河道98号,0,4,0,0,0,0,0,0,0,-,-,114.11146300000007,22.368808000000058
+Tsuen Wan,Cheung Shan Estate Carpark,"Cheung Shan Estate Road West, Tsuen Wan, N.T.",荃灣區,象山邨停車場,新界荃灣象山邨西路,荃湾区,象山邨停车场,新界荃湾象山邨西路,0,2,0,0,0,0,0,0,0,-,-,114.13054900000009,22.378625000000056
+Tsuen Wan,Sime Darby House,"380 Castle Peak Rd - Tsuen Wan, Tsuen Wan",荃灣區,森那美集團大廈,荃灣青山公路 - 荃灣段380號,荃湾区,森那美集团大厦,荃湾青山公路 - 荃湾段380号,0,0,0,0,0,4,0,0,0,-,-,114.11334700000009,22.37482700000004
+Tsuen Wan,KOLOUR • Tsuen Wan I,"68 Chung On Street, Tseun Wan",荃灣區,荃灣千色匯I,荃灣眾安街68號,荃湾区,荃湾千色汇I,荃湾众安街68号,0,5,0,0,0,4,0,0,0,-,-,114.11761500000011,22.370584000000065
+Tsuen Wan,Plaza 88,Ma Tau Pa Road,荃灣區,Plaza 88,荃灣馬頭壩道,荃湾区,Plaza 88,荃湾马头坝道,0,0,0,28,0,0,4,0,8,Tesla Wall Connector / Supercharger,-,114.11517800000001,22.366831000000047
+Tsuen Wan,Global Plaza (1 Sha Tsui Road),1 Sha Tsui Road,荃灣區,荃灣環貿廣場 (沙咀道 1 號),沙咀道 1 號,荃湾区,荃湾环贸广场 (沙咀道 1 号),沙咀道 1 号,0,0,0,0,0,0,0,0,3,Tesla Supercharger,-,114.1075810000001,22.374856000000023
+Tsuen Wan,The Octagon,"1-15 Pun Shan St, Chai Wan Kok",荃灣區,嘉達環球中心,柴灣角半山街1-15,荃湾区,嘉达环球中心,柴湾角半山街1-15,0,13,0,0,0,0,0,0,0,-,-,114.10729000000003,22.37472400000007
+Tsuen Wan,Shek Wai Kok Square,"Shek Wai Kok Rd, Kwai Chung",荃灣區,石圍角新城,葵涌石圍角路,荃湾区,石围角新城,葵涌石围角路,0,0,0,0,0,6,6,0,0,-,-,114.12403300000005,22.374501000000066
+Tsuen Wan,Aurora,YEUNG UK ROAD,荃灣區,映日灣,楊屋道,荃湾区,映日湾,杨屋道,0,0,0,0,0,0,2,0,0,-,-,114.11484200000007,22.367341000000067
+Tsuen Wan,The Mills,PAK TIN PAR STREET,荃灣區,南豐紗廠,白田壩街,荃湾区,南丰纱厂,白田坝街,0,3,0,0,0,0,3,0,0,-,-,114.10961400000008,22.37516800000003
+Sai Kung,Sai Kung Government Offices Carpark,"24 Man Nin Street, Sai Kung, N.T.",西貢區,西貢政府合署停車場,新界西貢萬年街24號,西贡区,西贡政府合署停车场,新界西贡万年街24号,0,27,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.27244300000007,22.382026000000053
+Sai Kung,"The Capitol, LOHAS Park 1 (comprising 5 towers)","WAN PO ROAD, SAI KUNG",西貢區,"首都, 日出康城1期",西貢 環保大道,西贡区,"首都, 日出康城1期",西贡 环保大道,0,0,0,0,1,1,4,0,0,-,-,114.272287,22.296835000000044
+Sai Kung,EAST POINT CITY,"CHUNG WA ROAD, SAI KUNG",西貢區,東港城,西貢 重華路,西贡区,东港城,西贡 重华路,2,0,0,0,0,0,2,0,6,Tesla Supercharger,-,114.2653620000001,22.316640000000064
+Sai Kung,Popcorn I Carpark,"9 TONG YIN STREET, Sai Kung District, New Territories",西貢區,Popcorn 一期停車場,新界 西貢區 唐賢街9號,西贡区,Popcorn 一期停车场,新界 西贡区 唐贤街9号,0,0,0,0,0,0,0,0,3,-,-,114.25922300000002,22.30801900000006
+Sai Kung,The Edge,"TONG CHUN STREET, SAI KUNG",西貢區,君薈坊,西貢 唐俊街,西贡区,君薈坊,西贡 唐俊街,0,0,0,0,0,0,0,0,1,-,-,114.2615770000001,22.30797800000005
+Sai Kung,TSEUNG KWAN O PLAZA,"TONG TAK STREET, SAI KUNG",西貢區,將軍澳廣場,西貢 唐德街,西贡区,将军澳广场,西贡 唐德街,0,3,0,0,0,0,5,0,0,-,-,114.2623880000001,22.309105000000045
+Sai Kung,Sheung Tak Car Park A ,"Sheung Tak Plaza, 2 Tong Ming Street, Tseung Kwan O, New Territories",西貢區,尚德A停車場,新界將軍澳唐明街2號尚德廣場,西贡区,尚德A停车场,新界将军澳唐明街2号尚德广场,0,0,0,9,1,1,1,0,4,-,-,114.2600000000001,22.311740000000043
+Sai Kung,The Wings II,"TONG CHUN STREET, SAI KUNG",西貢區,天晉II,西貢 唐俊街,西贡区,天晋II,西贡 唐俊街,0,0,0,0,0,0,2,0,0,-,-,114.26101900000003,22.306434000000024
+Sai Kung,Park Central Shopping Arcade,"TONG TAK STREET, SAI KUNG",西貢區,將軍澳中心(商業中心)(第一及第二期),西貢 唐德街,西贡区,将军澳中心(商业中心)(第一及第二期),西贡 唐德街,11,2,0,12,0,0,2,0,6,-,-,114.25786300000004,22.30755800000003
+Sai Kung,Kau Sai Chau Public Golf Course Car Park,WAI MAN ROAD,西貢區,滘西洲公眾高爾夫球場停車場,惠民路,西贡区,滘西洲公众高尔夫球场停车场,惠民路,0,0,0,0,1,1,1,0,0,-,-,114.27677500000004,22.384033000000045
+Sai Kung,Papillons Square Car Park,"The Papillons, 21 Tong Chun Street, Tseung Kwan O, N.T.",西貢區,翩滙坊停車場,將軍澳唐俊街21號海翩滙,西贡区,翩滙坊停车场,将军澳唐俊街21号海翩滙,0,3,0,0,0,0,0,0,0,-,-,114.26262700000007,22.30326800000006
+Sai Kung,The Pier Hotel,"9 Pak Shan Wan Street, Sai Kung",西貢區,The Pier Hotel,西貢白少灣街9號,西贡区,The Pier Hotel,西贡白少湾街9号,0,3,0,0,0,0,0,0,0,-,-,114.25930000000005,22.363341000000048
+Sai Kung,Verbena Heights,8 Mau Tai Road,西貢區,茵怡花園,將軍澳貿泰路8號,西贡区,茵怡花园,将军澳贸泰路8号,0,3,0,0,0,0,0,0,0,-,-,114.25641100000007,22.321948000000077
+Sai Kung,Mount Pavilia,"663 Clear Water Bay Rd, Clear Water Bay",西貢區,傲瀧,清水灣清水灣道663號,西贡区,傲泷,清水湾清水湾道663号,0,0,0,0,0,0,2,0,0,-,-,114.2603150000001,22.33587700000004
+Sai Kung,The LOHAS,"1 LOHAS PARK ROAD, TSEUNG KWAN O, N.T. HONG KONG",西貢區,The LOHAS康城,香港新界將軍澳康城路1號,西贡区,The LOHAS康城,香港新界将军澳康城路1号,0,0,0,0,0,0,0,0,10,-,-,114.27011400000004,22.293985000000077
+Sai Kung,Corinthia by the Sea,"23 Tong Yin Street, Tseung Kwan O",西貢區,帝景灣,將軍澳唐賢街23號,西贡区,帝景湾,将军澳唐贤街23号,84,0,0,0,0,0,0,0,0,-,-,114.2595080000001,22.303627000000063
+Sai Kung,PopWalk,"12 Tong Chun St, Tseung Kwan O",西貢區,天晉滙,將軍澳唐俊街12號,西贡区,天晋汇,将军澳唐俊街12号,2,0,0,0,0,0,2,0,0,-,-,114.26136500000007,22.30630000000008
+Sai Kung,Alto Public Car Park,"No.29 Tong Yin Street, Tseung Kwan O",西貢區,藍塘傲公衆停車場,將軍澳唐賢街29號,西贡区,蓝塘傲公衆停车场,将军澳唐贤街29号,0,0,0,3,0,0,0,0,0,Tesla Wall Connector,-,114.25822500000004,22.302700000000073
+Sai Kung,Choi Ming Car Park 1 ,"Choi Ming Shopping Centre, 1 Choi Ming Street, Tiu Keng Leng, Tseung Kwan O, New Territories",西貢區,彩明1號停車場,新界將軍澳調景嶺彩明街1號彩明商場,西贡区,彩明1号停车场,新界将军澳调景岭彩明街1号彩明商场,0,21,0,10,0,2,0,0,0,Tesla Wall Connector / Supercharger,-,114.25244600000008,22.306660000000022
+Sai Kung,Tseung Kwan O Swimming Pool,"9 Wan Lung Road, Tseung Kwan O",西貢區,將軍澳游泳池,將軍澳運隆路9號,西贡区,将军澳游泳池,将军澳运隆路9号,0,4,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.26012400000002,22.317913000000033
+Sai Kung,Tseung Kwan O Sports Ground,"109 Po Hong Road, Tseung Kwan O",西貢區,將軍澳運動場,將軍澳寶康路109號,西贡区,将军澳运动场,将军澳宝康路109号,0,2,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.26316100000008,22.31162800000004
+Sai Kung,Tiu Keng Leng Sports Centre,"2 Chui Ling Road, Tseung Kwan O",西貢區,調景嶺體育館,將軍澳翠嶺路2號,西贡区,调景岭体育馆,将军澳翠岭路2号,0,2,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.25471500000003,22.30589100000003
+Sai Kung,"Shaw Studios, Shaw House",Pak Shing Kok,西貢區,邵氏影城 邵氏大樓,百勝角,西贡区,邵氏影城 邵氏大楼,百胜角,0,0,0,0,0,0,7,0,0,-,-,114.27298200000007,22.30291200000005
+Sai Kung,"Shaw Studios, Production Building","201 Wan Po Rd, Tseung Kwan O",西貢區,邵氏影城 製作大樓,"Shaw Studios, Production Building 邵氏影城 製作大樓",西贡区,邵氏影城 制作大楼,"Shaw Studios, Production Building 邵氏影城 制作大楼",0,0,0,0,0,0,3,0,0,-,-,114.27330700000005,22.300088000000073
+Sai Kung,Clear Water Bay Golf & Country Club,"139 Tai Au Mun Rd, Clear Water Bay",西貢區,清水灣鄉村俱樂部,清水灣大坳門路139號,西贡区,清水湾乡村俱乐部,清水湾大坳门路139号,0,2,0,0,0,0,3,0,0,-,-,114.29831200000001,22.26443400000005
+Sai Kung,Ocean PopWalk,"28 Tong Chun St, Tseung Kwan O",西貢區,海天晉滙,將軍澳唐俊街28號,西贡区,海天晋汇,将军澳唐俊街28号,0,0,0,0,0,0,0,0,6,Tesla Wall Connector,-,114.26069000000007,22.303930000000037
+Sai Kung,Yung Ming Court Car Park,"5 Chi Shin Street, Tseung Kwan O,  New Territories",西貢區,雍明苑停車場,將軍澳至善街5號,西贡区,雍明苑停车场,将军澳至善街5号,14,0,0,0,0,0,0,0,0,-,-,114.26395500000001,22.304527000000064
+Sai Kung,WM Hotel,WAI MAN ROAD,西貢區,WM Hotel,惠民路,西贡区,WM Hotel,惠民路,0,0,0,10,0,0,9,0,3,-,-,114.27592200000004,22.385943000000054
+Sai Kung,Kin Ming Car Park A ,"Kin Ming Estate Car Park, 1 Choi Ming Street, Tiu Keng Leng, Tseung Kwan O, New Territories",西貢區,健明A停車場,新界將軍澳調景嶺彩明街1號健明邨停車場,西贡区,健明A停车场,新界将军澳调景岭彩明街1号健明邨停车场,0,12,0,10,0,8,0,0,4,Tesla Wall Connector / Supercharger,-,114.25110800000004,22.306028000000026
+Sai Kung,MCP Discovery,"8 Mau Yip Rd, Metro City",西貢區,新都城中心3期,貿泰路8號,西贡区,新都城中心3期,贸泰路8号,0,5,0,0,0,4,0,0,0,-,-,114.25708100000008,22.32187700000003
+Sai Kung,Advanced Manufacturing Centre ,"18 Chun Cheong St, Tseung Kwan O Industrial Estate",西貢區,‎先進製造業中心,將軍澳工業邨駿昌街18號,西贡区,‎先进制造业中心,将军澳工业邨骏昌街18号,0,0,0,10,0,0,0,0,6,Tesla Wall Connector / Supercharger,-,114.27280200000007,22.287959000000058
+Sai Kung,Data Technology Hub,"7 Chun Cheong St, Tseung Kwan O Industrial Estate",西貢區,數據技術中心,將軍澳工業邨駿昌街7,西贡区,数据技术中心,将军澳工业邨骏昌街7,0,30,0,0,0,0,6,0,0,-,-,114.2727020000001,22.287994000000026
+Sai Kung,Twin Peak,"9 Chi Shin St, Tseung Kwan O",西貢區,嘉悅,將軍澳至善街9號,西贡区,嘉悦,将军澳至善街9号,0,2,0,0,0,0,0,0,0,-,-,114.2608580000001,22.304794000000072
+Sai Kung,TKO Gateway East,"TKO Gateway, 2 Sheung Ning Rd, Tseung Kwan O",西貢區,TKO Gateway 東翼,將軍澳常寧路2號重華路近厚德邨,西贡区,TKO Gateway 东翼,将军澳常宁路2号重华路近厚德邨,0,7,0,0,0,8,0,0,0,-,-,114.26694200000009,22.31742200000008
+Sai Kung,TKO Gateway West,"TKO Gateway, 2 Sheung Ning Rd, Tseung Kwan O",西貢區,TKO Gateway 西翼,將軍澳常寧路2號,西贡区,TKO Gateway 西翼,将军澳常宁路2号,0,9,0,0,0,0,0,0,0,-,-,114.26427100000001,22.31769500000007
+Sai Kung,Yau Yue Wan Village,"Yau Yue Wan Tsuen Village Office, 89 Yau Yue Wan Village Road, Tseung Kwan O",西貢區,魷魚灣村,魷魚灣村道89號魷魚灣村公所,西贡区,鱿鱼湾村,鱿鱼湾村道89号鱿鱼湾村公所,0,0,0,0,0,0,2,0,0,-,-,114.26023200000009,22.327349000000027
+Sai Kung,Po Lam Car Park ,"Po Lam Shopping Centre, 18 Po Lam Road North, Tseung Kwan O, New Territories",西貢區,寶林停車場,新界將軍澳寶琳北路18號寶林商場,西贡区,宝林停车场,新界将军澳宝琳北路18号宝林商场,0,19,0,0,0,0,0,0,0,-,-,114.25467000000003,22.326221000000032
+Sai Kung,Metro Town Car Park,"8 King Ling Road, Tseung Kwan O, NT",西貢區,都會駅停車場,新界將軍澳景嶺路8號,西贡区,都会駅停车场,新界将军澳景岭路8号,0,2,0,0,0,2,0,0,0,-,-,114.25181600000008,22.304410000000075
+Sai Kung,Wo Ming Court,"8 Ngan O Rd, Tseung Kwan O",西貢區,和明苑,將軍澳銀澳路8號,西贡区,和明苑,将军澳银澳路8号,0,14,0,0,0,0,0,0,0,-,-,114.26674700000001,22.314523000000065
+Sai Kung,Monterey,"TONG CHUN STREET, SAI KUNG",西貢區,Monterey,西貢 唐俊街,西贡区,Monterey,西贡 唐俊街,0,0,0,0,0,4,2,0,0,-,-,114.26266800000008,22.30258900000007
+Sai Kung,Mount Verdant,"48 Chui Ling Road, Tseung Kwan O",西貢區,翠嶺峰,將軍澳翠嶺路48號,西贡区,翠岭峰,将军澳翠岭路48号,39,0,0,0,0,0,0,0,0,-,-,114.2512190000001,22.307652000000076
+Sai Kung,Radiant Towers,"1 Yuk Nga Ln, Tseung Kwan O",西貢區,旭輝臺,將軍澳毓雅里1號,西贡区,旭辉台,将军澳毓雅里1号,0,2,0,0,0,0,0,0,0,-,-,114.254726,22.323758000000055
+Sai Kung,SERENITY PLACE,"PO HONG ROAD, SAI KUNG",西貢區,怡心園,西貢 寶康路,西贡区,怡心园,西贡 宝康路,0,2,0,0,0,0,0,0,0,-,-,114.25367000000006,22.322452000000055
+Sai Kung,THE PINNACLE,"WAN HANG ROAD, SAI KUNG",西貢區,疊翠軒,西貢 運亨路,西贡区,迭翠轩,西贡 运亨路,0,6,0,0,0,0,0,0,0,-,-,114.25816400000008,22.320490000000063
+Sai Kung,Ming Tak Car Park ,"Ming Tak Shopping Centre, 10 Pui Shing Lane, Tseung Kwan O, New Territories",西貢區,明德停車場,新界將軍澳培成里10號明德商場,西贡区,明德停车场,新界将军澳培成里10号明德商场,0,0,0,0,2,2,0,0,0,-,-,114.26860600000009,22.316521000000023
+Sai Kung,Savannah,"CHI SHIN STREET, SAI KUNG",西貢區,Savannah,西貢 至善街,西贡区,Savannah,西贡 至善街,0,0,0,0,0,0,3,0,0,-,-,114.26440800000012,22.305556000000024
+Sai Kung,Capri,"TONG YIN STREET, SAI KUNG",西貢區,Capri,西貢 唐賢街,西贡区,Capri,西贡 唐贤街,0,0,0,0,0,0,3,0,0,-,-,114.25724000000002,22.302681000000064
+North,Fanling Town Centre,"FANLING STATION ROAD, NORTH",北區,粉嶺名都,北區 粉嶺車站路,北区,粉岭名都,北区 粉岭车站路,0,0,0,0,0,0,3,0,0,-,-,114.1391910000001,22.492746000000068
+North,LANDMARK NORTH,"LUNG SUM AVENUE, NORTH",北區,上水廣場,北區 龍琛路,北区,上水广场,北区 龙琛路,2,0,0,0,0,0,2,0,4,Tesla Supercharger,-,114.12774000000002,22.502590000000055
+North,Avon Park,"15 Yat Ming Road, Fanling",北區,碧湖花園,粉嶺一鳴路15號,北区,碧湖花园,粉岭一鸣路15号,0,2,0,0,0,4,0,0,0,-,-,114.14342900000008,22.486910000000023
+North,Cambridge Plaza,"188 San Wan Road, Sheung Shui",北區,劍橋廣場,上水新運路188號,北区,剑桥广场,上水新运路188号,1,0,0,0,0,0,0,0,0,-,-,114.12228300000004,22.506643000000054
+North,Grand Regentville,"9 Wo Mun Street, Luen Wo Hui, Fanling",北區,御庭軒,粉嶺聯和墟和滿街9號,北区,御庭轩,粉岭联和墟和满街9号,2,0,0,0,0,0,0,0,0,-,-,114.14488600000004,22.499878000000024
+North,Regentville,"8 Wo Mun Street, Luen Wo Hui, Fanling",北區,帝庭軒,粉嶺聯和墟和滿街8號,北区,帝庭轩,粉岭联和墟和满街8号,2,0,0,8,0,0,0,0,3,-,-,114.14361400000007,22.500190000000032
+North,SHEUNG SHUI CENTRE,"CHI CHEONG ROAD, NORTH",北區,上水中心,北區 智昌路,北区,上水中心,北区 智昌路,1,0,0,0,0,0,0,0,0,-,-,114.12982000000011,22.50098900000006
+North,Choi Yuen Car Park C,"Choi Yuen Plaza, 8 Choi Yuen Road, Sheung Shui, New Territories",北區,彩園C停車場,新界上水彩園路8號彩園廣場,北区,彩园C停车场,新界上水彩园路8号彩园广场,0,0,0,0,1,1,5,0,0,-,-,114.12676500000009,22.500147000000027
+North,North District Government Offices,"No. 3 Pik Fung Road, Fanling, New Territories, Hong Kong",北區,北區政府合署,香港新界粉嶺璧峰路3號,北区,北区政府合署,香港新界粉岭璧峰路3号,0,26,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.13826800000004,22.494642000000056
+North,Wah Sum Estate Car Park,"18 Yat Ming Rd, Fanling",北區,華心邨停車場,粉嶺一鳴路18號,北区,华心邨停车场,粉岭一鸣路18号,0,0,0,0,1,1,1,0,0,-,-,114.14216600000009,22.486808000000053
+North,Metropolis Plaza,"8 Lung Wan Street, Sheung Shui",北區,新都廣場,上水龍運街8號,北区,新都广场,上水龙运街8号,2,0,0,0,0,0,2,0,0,-,-,114.12930800000004,22.502504000000044
+North,Po Shek Wu Estate,"Choi Yuen Road, Sheung Shui, N.T.",北區,寶石湖邨,新界上水寶石湖路與彩園路路口,北区,宝石湖邨,新界上水宝石湖路与彩园路路口,49,0,0,0,0,0,0,0,0,-,-,114.12470000000008,22.503330000000062
+North,Po Wing Road Sports Centre,"19 Pak Wo Road, Sheung Shui",北區,保榮路體育館,上水百和路19號,北区,保荣路体育馆,上水百和路19号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.12834900000007,22.496931000000075
+North,Fai Ming Estate,FAI MING ROAD,北區,暉明邨,暉明路,北区,晖明邨,晖明路,1,0,0,0,0,0,0,0,0,-,-,114.13625600000012,22.48115800000005
+North,Commune Modern,"28 Wo Fung St, Fanling",北區,囍逸,粉嶺聯和墟和豐街28號,北区, 囍逸,粉岭联和墟和丰街28号,30,87,0,0,0,0,3,0,0,-,-,114.14278500000012,22.49853600000006
+North,North District Sports Ground,"26 Tin Ping Road, Sheung Shui",北區,北區運動場,新界上水天平路26號北區運動場,北区,北区运动场,新界上水天平路26号北区运动场,0,8,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.13047000000006,22.506212000000062
+North,Wo Hing Sports Centre,"No.8 Wo Ming Lane, Fanling",北區,和興體育館,粉嶺和鳴里8號地下,北区,和兴体育馆,粉岭和鸣里8号地下,0,4,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.14312700000005,22.484745000000032
+North,Sheung Shui Swimming Pool,"38 Tin Ping Road, Sheung Shui",北區,上水游泳池,上水天平路38號,北区,上水游泳池,上水天平路38号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.13158400000009,22.505968000000053
+North,Green Code,"MA SIK ROAD, NORTH",北區,逸峯,北區 馬適路,北区,逸峯,北区 马适路,0,0,0,0,0,4,0,0,0,-,-,114.14601300000004,22.500987000000066
+North,Fanling Swimming Pool,"73 San Wan Road, Fanling",北區,粉嶺游泳池,粉嶺新運路73號,北区,粉岭游泳池,粉岭新运路73号,0,5,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.13642100000004,22.494781000000046
+North,Queens Hill Shopping Centre,LUNG MA ROAD,北區,皇后山商場停車場,龍馬路,北区,皇后山商场停车场,龙马路,56,0,0,0,0,0,0,0,0,-,-,114.156698,22.50358700000004
+North,Shan Lai Court,"88 Lung Ma Rd, Kwan Tei",北區,山麗苑,軍地龍馬路88號,北区,山丽苑,军地龙马路88号,18,0,0,0,0,0,0,0,0,-,-,114.15978900000005,22.504008000000056
+North,CHOI PO COURT,"PO SHEK WU ROAD, NORTH",北區,彩蒲苑,北區 寶石湖路,北区,彩蒲苑,北区 宝石湖路,6,0,0,0,0,0,0,0,0,-,-,114.12458800000002,22.50229100000007
+North,Heung Yuen Wai BCP Public Car Park-Private Car & Motorcycle,"Mezzanine Floor of Passenger Terminal Building, Heung Yuen Wai Boundary Control Point, New Territories, Hong Kong",北區,香園圍口岸公眾停車場-私家車及電單車,香港新界香園圍邊境管制站旅檢大樓閣樓,北区,香园围口岸公众停车场-私家车及电单车,香港新界香园围边境管制站旅检大楼阁楼,0,126,0,0,0,0,0,0,0,-,-,114.15362700000003,22.55267800000007
+North,Cheung Lung Wai Estate,"Cheung Lung Wai Estate, North, New Territories",北區,祥龍圍邨,"祥龍圍邨, 北區, 新界",北区,祥龙围邨,"祥龙围邨, 北区, 新界",0,1,0,0,0,0,0,0,0,-,-,114.12343600000008,22.495129000000077
+North,Ho Sheung Heung,"D95 Lot HSHL1, 1080RP, Ho Sheung Heung Village",北區,河上鄉,"河上鄉 DD95 Lot HSHL1, 1080RP (近美味棧對出)",北区,河上乡,"河上乡 DD95 Lot HSHL1, 1080RP (近美味栈对出)",0,0,0,0,0,0,1,0,0,-,-,114.10836600000005,22.511880000000076
+North,Fanling Lung Fung,"No.23 Yip Cheong Street, Fanling",北區,粉嶺龍豐,粉嶺業暢街23號,北区,粉岭龙丰,粉岭业畅街23号,0,0,0,0,0,4,0,0,0,-,-,114.14467600000012,22.493040000000065
+North,Choi Yuen Car Park A ,"Choi Yuen Plaza, 8 Choi Yuen Road, Sheung Shui, New Territories",北區,彩園A停車場,新界上水彩園路8號彩園廣場,北区,彩园A停车场,新界上水彩园路8号彩园广场,0,9,0,0,0,0,0,0,0,-,-,114.12664200000006,22.500856000000056
+North,YUNG SHING COURT,"FAI MING ROAD, NORTH",北區,雍盛苑,北區 暉明路,北区,雍盛苑,北区 晖明路,0,0,0,0,2,2,0,0,0,-,-,114.1374800000001,22.482563000000027
+Tai Po,Tai Wo Car Park B ,"Tai Wo Plaza, 12 Tai Wo Road, Tai Po, New Territories",大埔區,太和B停車場,新界大埔太和路12號太和廣場,大埔区,太和B停车场,新界大埔太和路12号太和广场,0,0,0,0,0,0,3,0,0,-,-,114.1607600000001,22.450499000000036
+Tai Po,Tai Wo Car Park A ,"Tai Wo Plaza, 12 Tai Wo Road, Tai Po, New Territories",大埔區,太和A停車場,新界大埔太和路12號太和廣場,大埔区,太和A停车场,新界大埔太和路12号太和广场,0,18,0,6,0,2,0,0,8,Tesla Wall Connector / Supercharger,-,114.16217100000006,22.45140900000007
+Tai Po,UPTOWN PLAZA BLOCK 1,"NAM WAN ROAD, TAI PO",大埔區,新達廣場,大埔 南運路,大埔区,新达广场,大埔 南运路,0,0,0,0,1,1,1,0,0,-,-,114.1688210000001,22.443940000000055
+Tai Po,Po Heung Estate Car Park,"No.1 Po Heung Street, Tai Po, N.T",大埔區,寶鄉邨停車場,新界大埔寶鄉街1號,大埔区,宝乡邨停车场,新界大埔宝乡街1号,25,3,0,0,0,0,0,0,0,-,-,114.16527100000008,22.446863000000064
+Tai Po,Tai Po Mega Mall,8 On Pong Rd,大埔區,大埔超級城,大埔安邦路8號,大埔区,大埔超级城,大埔安邦路8号,2,0,0,0,0,0,2,0,0,-,-,114.17077900000004,22.452035000000024
+Tai Po,Tai Po Sports Ground,"21 Tai Po Tau Road, Tai Po",大埔區,大埔運動場停車場,大埔頭路21 號,大埔区,大埔运动场停车场,大埔头路21 号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.16218100000003,22.45538300000004
+Tai Po,Tai Po Complex Car Park,"No. 8 Heung Sze Wui Street, Tai Po",大埔區,大埔綜合大樓停車場,大埔鄉事會街8號,大埔区,大埔综合大楼停车场,大埔乡事会街8号,0,5,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.16671800000006,22.446348000000057
+Tai Po,Fu Shin Car Park ,"Fu Shin Shopping Centre, 12 On Po Road, Tai Po, New Territories",大埔區,富善停車場,新界大埔安埔路12號富善商場,大埔区,富善停车场,新界大埔安埔路12号富善商场,0,18,0,6,1,1,0,0,4,Tesla Wall Connector / Supercharger,-,114.17414300000007,22.45354800000007
+Tai Po,Kwong Fuk Park,"Kwong Chun Street, Tai Po",大埔區,廣福公園停車場,大埔廣進街,大埔区,广福公园停车场,大埔广进街,0,5,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.17477400000007,22.44554100000005
+Tai Po,Fu Tip Estate,Choi Tip Street; near Ban Tip House ,大埔區,富蝶邨,彩蝶街，近斑蝶樓,大埔区,富蝶邨,彩蝶街，近斑蝶楼,3,0,0,0,0,0,0,0,0,-,-,114.17364100000009,22.461560000000077
+Tai Po,Tai Po Tung Cheong Street Leisure Building,"Tung Cheung Street, Tai Po Market, Tai Po, New Territories",大埔區,大埔東昌街康體大樓,新界大埔大埔墟東昌街,大埔区,大埔东昌街康体大楼,新界大埔大埔墟东昌街,0,60,0,0,0,0,0,0,0,-,-,114.17031100000008,22.449538000000075
+Tai Po,Ming Nga Court,"7 On Po Ln, Tai Po",大埔區,明雅苑,安保里7號,大埔区,明雅苑,安保里7号,0,12,0,0,0,0,0,0,0,-,-,114.17501500000003,22.452517000000057
+Tai Po,Richwood Park,"33, Lo Fai Rd, Tai Po",大埔區,嘉豐花園,大埔露輝路33號,大埔区,嘉丰花园,大埔露辉路33号,0,16,0,0,0,2,0,0,0,-,-,114.19535500000006,22.46400200000005
+Tai Po,Royal China Aqua Garden,"Sam Mun Tsai Rd, Tai Po",大埔區,皇朝明珠,大埔三門仔路,大埔区,皇朝明珠,大埔三门仔路,0,0,0,0,0,0,4,0,0,-,-,114.21432900000002,22.456747000000064
+Tai Po,Ting Kok Village,"No.138, Ting Kok Village",大埔區,汀角村,汀角路138號,大埔区,汀角村,汀角路138号,0,0,0,0,0,2,0,0,0,-,-,114.22009100000002,22.47005400000006
+Tai Po,Tai Yuen Car Park B,"Tai Yuen Commercial Centre, 10 Ting Kok Road, Tai Po, New Territories",大埔區,大元B停車場,新界大埔汀角路10號大元商場,大埔区,大元B停车场,新界大埔汀角路10号大元商场,0,21,0,0,0,0,0,0,0,-,-,114.16771000000006,22.454338000000064
+Tai Po,Fu Heng Car Park A,"Fu Heng Shopping Centre, 6 Chung Nga Road, Tai Po, New Territories",大埔區,富亨停車場A,新界大埔頌雅路6號富亨商場,大埔区,富亨停车场A,新界大埔颂雅路6号富亨商场,0,11,0,0,0,0,0,0,0,-,-,114.17091700000003,22.457943000000057
+ShaTin,Science Park Car Park P2,"10 Science and Technology East Ave, Tai Po",沙田區,科學園停車場 P2,科技大道東10號,沙田区,科学园停车场 P2,科技大道东10号,0,0,0,0,2,4,24,0,0,-,-,114.21119500000009,22.426486000000068
+ShaTin,Shatin Centre,"2-16 Wang Pok Street, Shatin",沙田區,沙田中心,沙田橫壆街2-16號,沙田区,沙田中心,沙田横壆街2-16号,0,3,0,0,0,0,0,0,0,-,-,114.19007900000008,22.382542000000058
+ShaTin,Shatin Galleria,"18 – 24 Shan Mei Street, Fo Tan",沙田區,沙田商業中心,火炭山尾街18-24號,沙田区,沙田商业中心,火炭山尾街18-24号,2,0,0,10,0,0,0,0,0,Tesla Wall Connector,-,114.19347100000005,22.39718800000003
+ShaTin,Shatin Government Offices,"1 sheung wo che road, shatin",沙田區,沙田政府合署,沙田上禾輋路1號,沙田区,沙田政府合署,沙田上禾輋路1号,0,74,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.18698600000005,22.385733000000073
+ShaTin,MOS Town (Phase 3),"On Shing Street, Ma On Shan",沙田區,新港城3期,馬鞍山鞍誠街,沙田区,新港城3期,马鞍山鞍诚街,1,0,0,0,0,0,0,0,0,-,-,114.23172000000011,22.422840000000065
+ShaTin,MOSTown Phase 4,"18 On Luk Street, Ma On Shan",沙田區,新港城中心4期,馬鞍山鞍祿街18號,沙田区,新港城中心4期,马鞍山鞍禄街18号,0,16,0,0,0,8,0,0,0,-,-,114.23180400000001,22.424179000000038
+ShaTin,Shatin Plaza,"20 Sha Tin Centre St, Sha Tin",沙田區,沙田廣場,沙田沙田正街20號,沙田区,沙田广场,沙田沙田正街20号,1,0,0,0,0,0,0,0,0,-,-,114.18953800000008,22.383835000000033
+ShaTin,Plaza Ascot,Lok Shun Path,沙田區,駿景廣場,火炭樂信徑,沙田区,骏景广场,火炭乐信径,0,0,0,0,0,0,0,0,3,-,-,114.2009250000001,22.40005300000007
+ShaTin,NEW TOWN PLAZA PHASE I,"SHATIN CENTRE STREET, SHATIN",沙田區,新城市廣場(第一期),沙田 沙田正街,沙田区,新城市广场(第一期),沙田 沙田正街,0,0,0,0,0,0,1,0,6,-,-,114.18938700000001,22.382101000000034
+ShaTin,New Town Plaza Phase III,"SHATIN CENTRE STREET, SHATIN",沙田區,新城市廣場(第三期),沙田 沙田正街,沙田区,新城市广场(第三期),沙田 沙田正街,2,0,0,0,0,0,2,0,0,-,-,114.18784800000003,22.379512000000034
+ShaTin,MA ON SHAN CENTRE,"ON CHUN STREET, SHATIN",沙田區,馬鞍山中心,沙田 鞍駿街,沙田区,马鞍山中心,沙田 鞍骏街,2,4,0,0,0,0,0,0,0,-,-,114.23317000000009,22.425978000000043
+ShaTin,Mei Tin Estate,"Heung Fan Liu Street, Tai Wai, New Territories",沙田區,美田邨,新界大圍香粉寮街,沙田区,美田邨,新界大围香粉寮街,11,3,0,0,0,0,0,0,0,-,-,114.17182200000002,22.37602400000003
+ShaTin,ROYAL PARK HOTEL & NEW TOWN TOWER,"PAK HOK TING STREET, SHATIN",沙田區,帝都酒店,沙田 白鶴汀街,沙田区,帝都酒店,沙田 白鹤汀街,0,0,0,0,0,0,0,0,3,Tesla Wall Connector,-,114.18833200000006,22.38003100000003
+ShaTin,Regal Riverside Hotel,"1, Kong Pui Street",沙田區,麗豪酒店,沙田崗背街1號,沙田区,丽豪酒店,沙田岗背街1号,0,3,0,0,0,0,1,0,3,Tesla Wall Connector,-,114.1966450000001,22.382003000000054
+ShaTin,GRAND CENTRAL PLAZA,"SHATIN RURAL COMMITTEE ROAD, SHATIN",沙田區,新城市中央廣場,沙田 沙田鄉事會路,沙田区,新城市中央广场,沙田 沙田乡事会路,1,0,0,0,0,0,0,0,0,-,-,114.18777900000009,22.385657000000037
+ShaTin,Heung Yee Kuk N.T.,6 On Lai Street,沙田區,新界鄉議局大樓,沙田安麗街6號,沙田区,新界乡议局大楼,沙田安丽街6号,0,0,0,0,1,1,1,0,0,-,-,114.20605200000011,22.390235000000075
+ShaTin,Shui Chuen O Capark,"Shui Chuen O Plaza, 1 Pok Chuen Street, Shatin",沙田區,水泉澳停車場,沙田博泉街1號水泉澳廣場,沙田区,水泉澳停车场,沙田博泉街1号水泉澳广场,15,5,0,0,0,0,0,0,0,-,-,114.19723700000009,22.37334400000003
+ShaTin,Double Cove,"SAI SHA ROAD, SHATIN",沙田區,迎海,沙田 西沙路,沙田区,迎海,沙田 西沙路,0,3,0,0,0,0,0,0,0,-,-,114.24260200000003,22.43113900000003
+ShaTin,Yuen Chau Kok Complex,"35 Ngan Shing Street, ShaTin",沙田區,圓州角綜合大樓,沙田銀城街35號,沙田区,圆州角综合大楼,沙田银城街35号,1,10,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.20455200000004,22.379709000000048
+ShaTin,We Go Mall,"PO TAI STREET, SHATIN",沙田區,We Go Mall,沙田 保泰街,沙田区,We Go Mall,沙田 保泰街,0,0,0,0,0,0,0,0,4,Tesla Wall Connector,-,114.22391600000003,22.414075000000025
+ShaTin,Courtyard by Marriott Hong Kong ShaTin,1 On Ping Street,沙田區,香港沙田萬怡酒店,沙田安平街1號,沙田区,香港沙田万怡酒店,沙田安平街1号,0,3,0,3,0,0,0,0,0,Tesla Wall Connector,-,114.2065550000001,22.390389000000027
+ShaTin,Shek Mun Estate Phase 2 Car park,"Shek Mun Estate, 18 On Muk St, Shatin",沙田區,碩門邨二期停車場,沙田石門安睦街18號,沙田区,硕门邨二期停车场,沙田石门安睦街18号,7,0,0,0,0,0,0,0,0,-,-,114.20860600000003,22.38632300000006
+ShaTin,Ma On Shan Swimming Pool,"33 On Chun Street, Ma On Shan, ShaTin",沙田區,馬鞍山游泳池,馬鞍山鞍駿街33號,沙田区,马鞍山游泳池,马鞍山鞍骏街33号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.22887400000002,22.42710900000003
+ShaTin,Siu Lek Yuen Road Playground,"No. 1 Siu Lek Yuen Road, ShaTin",沙田區,小瀝源路遊樂場,沙田小瀝源路1號,沙田区,小沥源路游乐场,沙田小沥源路1号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.20603200000005,22.387028000000043
+ShaTin,ShaTin Sports Ground & Yuen Wo Playground  Car Park,"18 Yuen Wo Road, ShaTin, N.T.",沙田區,沙田運動場 & 源禾遊樂場停車場,沙田源禾路18號,沙田区,沙田运动场 & 源禾游乐场停车场,沙田源禾路18号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.19628100000011,22.38697600000006
+ShaTin,FESTIVAL CITY PHASE I-III,"MEI TIN ROAD, SHATIN",沙田區,名城,沙田 美田路,沙田区,名城,沙田 美田路,0,0,0,0,0,0,2,0,0,-,-,114.17677700000002,22.371098000000075
+ShaTin,CUHK Medical Centre,"9 Chak Cheung St, Ma Liu Shui",沙田區,香港中文大學醫院,馬料水澤祥街9號,沙田区,香港中文大学医院,马料水泽祥街9号,0,143,0,0,0,0,0,0,0,-,-,114.21130500000004,22.414041000000054
+ShaTin,Ma On Shan Sports Ground,"No. 1 Hang Hong Street, Ma On Shan, ShaTin",沙田區,馬鞍山運動場,馬鞍山恆康街1號,沙田区,马鞍山运动场,马鞍山恒康街1号,0,15,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.22808800000007,22.42095800000004
+ShaTin,Chun Yeung Shopping Centre Car Park,"Chun Yeung Shopping Centre, 20 Kwei Tei Street, Fo Tan, N.T.",沙田區,駿洋商場停車場,火炭桂地街20號駿洋商場,沙田区,骏洋商场停车场,火炭桂地街20号骏洋商场,55,0,0,0,0,0,0,0,0,-,-,114.18995200000006,22.399346000000037
+ShaTin,Kam Fai Court,"13 Hang Kin Street, Ma on Shan",沙田區,錦暉苑,馬鞍山恆健街13號,沙田区,锦晖苑,马鞍山恒健街13号,14,0,0,0,0,0,0,0,0,-,-,114.22503900000004,22.41679300000004
+ShaTin,"Hyatt Regency Hong Kong , ShaTin","CHAK CHEUNG STREET, SHATIN",沙田區,香港凱悅酒店-沙田,沙田 澤祥街,沙田区,香港凯悦酒店-沙田,沙田 泽祥街,0,0,0,0,0,0,0,0,32,Tesla Supercharger,-,114.21115200000008,22.411935000000028
+ShaTin,SUN TIN WAI ESTATE,"ShaTin TAU ROAD, SHATIN",沙田區,新田圍邨,沙田 沙田頭路,沙田区,新田围邨,沙田 沙田头路,0,0,0,5,0,0,0,0,0,Tesla Wall Connector,-,114.18634600000007,22.370089000000064
+ShaTin,Hin Keng Car Park ,"Hin Keng Shopping Centre, 69 Che Kung Miu Road, Tai Wai, ShaTin, New Territories",沙田區,顯徑停車場,新界沙田大圍車公廟道69號顯徑商場,沙田区,显径停车场,新界沙田大围车公庙道69号显径商场,0,9,0,6,0,4,0,0,4,Tesla Wall Connector / Supercharger,-,114.17250700000011,22.36407600000007
+ShaTin,ShaTin Town Hall Carpark,"1 Yuen Wo Road, Shatin, NT",沙田區,沙田大會堂停車場,沙田源禾路1號,沙田区,沙田大会堂停车场,沙田源禾路1号,0,5,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.18967400000008,22.381052000000068
+ShaTin,Yu Chui Shopping Centre,"Chui Yan St, Sha Tin",沙田區,愉翠商場,沙田翠欣街,沙田区,愉翠商场,沙田翠欣街,0,12,0,6,0,6,0,0,8,Tesla Wall Connector / Supercharger,-,114.20447200000001,22.382282000000032
+ShaTin,ShaTin Jockey Club Swimming Pool and Yuen Wo Road Sports Centre,"10 Yuen Wo Road, ShaTin, N.T.",沙田區,沙田賽馬會游泳池及源禾路體育館,沙田源禾路10號,沙田区,沙田赛马会游泳池及源禾路体育馆,沙田源禾路10号,0,6,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.1937650000001,22.38368200000008
+ShaTin,Hong Kong Heritage Museum Carpark,"Hong Kong Heritage Museum Carpark,  ShaTin, NT",沙田區,香港文化博物館停車場,沙田香港文化博物館停車場,沙田区,香港文化博物馆停车场,沙田香港文化博物馆停车场,0,11,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.18537500000002,22.37736700000005
+Tai Po,St. Martin,"12 Fo Chun Rd, Pak Shek Kok",大埔區,雲滙,天賦海灣科進路12號,大埔区,云汇,天赋海湾科进路12号,0,0,0,0,1,1,4,0,0,-,-,114.20476900000006,22.43075300000004
+ShaTin,Yiu On Shopping Centre,"2 Hang Hong St, Ma On Shan",沙田區,耀安商場,馬鞍山恆康街2號,沙田区,耀安商场,马鞍山恒康街2号,0,9,0,0,0,6,0,0,0,-,-,114.23001800000009,22.419998000000078
+ShaTin,Hong Kong Science Park (Car Park 1),"3 Science Park W Ave, Science Park",沙田區,香港科學園 (1號車場),科學園科技大道西3號 停車場,沙田区,香港科学园 (1号车场),科学园科技大道西3号 停车场,18,35,0,0,0,0,57,0,0,-,-,114.21231200000011,22.42444000000006
+ShaTin,Hong Kong Science Park (Car Park 3),"12 Science Park W Ave, Science Park",沙田區,香港科學園 (3號車場),科學園科技大道西12號,沙田区,香港科学园 (3号车场),科学园科技大道西12号,340,6,0,0,0,0,4,0,0,-,-,114.20944100000008,22.427226000000076
+ShaTin,Hong Kong Science Park (Car Park 4),"16 Science Park W Ave, Science Park",沙田區,香港科學園 (4號車場),科學園科技大道西16號,沙田区,香港科学园 (4号车场),科学园科技大道西16号,182,59,0,0,0,0,6,0,0,-,-,114.20843900000011,22.42782600000004
+ShaTin,Wo Che Car Park S,"3 Tak Hau St, Sha Tin",沙田區,禾輋S停車場,沙田德厚街3號,沙田区,禾輋S停车场,沙田德厚街3号,0,17,0,0,0,0,0,0,0,-,-,114.19510700000001,22.387458000000038
+ShaTin,United Village Office Lek Yuen York,"1 Ngau Pei Sha New Village, Shatin",沙田區,瀝源約聯合村公所,沙田牛皮沙新村1號,沙田区,沥源约联合村公所,沙田牛皮沙新村1号,0,0,0,0,0,0,1,0,0,-,-,114.20827100000008,22.37932100000006
+ShaTin,SUI WO COURT,"SUI WO ROAD, SHATIN",沙田區,穗禾苑,沙田 穗禾路,沙田区,穗禾苑,沙田 穗禾路,0,0,0,0,0,0,0,0,6,Tesla Supercharger,-,114.19460700000002,22.393865000000062
+ShaTin,Chung On Car Park,"632, Sai Sha Road, Ma On Shan",沙田區,頌安停車場,馬鞍山西沙路632號,沙田区,颂安停车场,马鞍山西沙路632号,0,54,0,0,0,0,0,0,6,-,-,114.22650500000009,22.420896000000027
+ShaTin,Ma On Shan Plaza,"On Chun St, Ma On Shan",沙田區,馬鞍山廣場,馬鞍山鞍駿街,沙田区,马鞍山广场,马鞍山鞍骏街,0,4,0,0,0,4,0,0,0,-,-,114.2323100000001,22.426540000000045
+ShaTin,Greenhill Villa,"63 Siu Lek Yuen Road, Siu Lek Yuen",沙田區,綠怡雅苑,小瀝源小瀝源路63號,沙田区,绿怡雅苑,小沥源小沥源路63号,93,0,0,0,0,0,0,0,0,-,-,114.21405000000004,22.38403900000003
+ShaTin,Mountain Shore,"8 Yuk Tai St, Ma On Shan",沙田區,曉峰灣畔,馬鞍山沃泰街8號,沙田区,晓峰湾畔,马鞍山沃泰街8号,0,10,0,0,0,0,0,0,0,-,-,114.2224030000001,22.411328000000026
+ShaTin,Park Belvedere,"MA ON SHAN ROAD, SHATIN",沙田區,雅景臺,沙田 馬鞍山路,沙田区,雅景台,沙田 马鞍山路,1,7,0,0,0,0,0,0,0,-,-,114.23304500000006,22.421462000000076
+ShaTin,Sunshine Grove,"TAK YI STREET, SHATIN",沙田區,晴碧花園,沙田 得怡街,沙田区,晴碧花园,沙田 得怡街,0,1,0,0,0,0,0,0,0,-,-,114.20330600000011,22.384562000000074
+ShaTin,MOS Café,"MOS Café, 23 Hang Tai Road, Ma On Shan",沙田區,鞍山茶座,新界馬鞍山恆泰路23號,沙田区,鞍山茶座,新界马鞍山恒泰路23号,0,0,0,0,0,2,3,0,0,-,-,114.2227610000001,22.40946100000008
+ShaTin,Heng On Car Park ,"Heng On Commercial Centre, 1 Hang Kam Street, Ma On Shan, ShaTin, New Territories",沙田區,恆安停車場,新界沙田馬鞍山恆錦街1號恆安商場,沙田区,恒安停车场,新界沙田马鞍山恒锦街1号恒安商场,0,22,0,0,0,0,0,0,0,-,-,114.22813700000006,22.416621000000077
+ShaTin,Lek Yuen Car Park ,"Lek Yuen Plaza, 6 Lek Yuen Street, ShaTin, New Territories",沙田區,瀝源停車場,新界沙田瀝源街6號瀝源廣場,沙田区,沥源停车场,新界沙田沥源街6号沥源广场,0,3,0,0,0,0,0,0,0,-,-,114.19119100000012,22.38556200000005
+ShaTin,Sha Kok Car Park 2,"Sha Kok Commercial Centre, 5 Sha Kok Street, ShaTin,  New Territories",沙田區,沙角2號停車場,新界沙田沙角街5號沙角商場,沙田区,沙角2号停车场,新界沙田沙角街5号沙角商场,0,10,0,0,0,0,0,0,0,-,-,114.19396300000005,22.37810600000006
+ShaTin,Ka Tin Car Park,"Ka Tin Court Car Park, 2-8 Hin Tin Street, Tai Wai,  ShaTin, New Territories",沙田區,嘉田停車場,新界沙田大圍顯田街2-8號嘉田苑停車場,沙田区,嘉田停车场,新界沙田大围显田街2-8号嘉田苑停车场,0,3,0,0,0,0,0,0,0,-,-,114.17337000000009,22.36025200000006
+ShaTin,KAM YING COURT,"MA ON SHAN ROAD, SHATIN",沙田區,錦英苑,沙田 馬鞍山路,沙田区,锦英苑,沙田 马鞍山路,0,0,0,0,0,2,0,0,0,-,-,114.2355970000001,22.42212500000005
+ShaTin,Kwong Yuen Shopping Centre,"Kwong Yuen Shopping Centre 68 Siu Lek Yuen Road Sha Tin, New Territories",沙田區,廣源商場,新界沙田小瀝源路68號,沙田区,广源商场,新界沙田小沥源路68号,0,57,0,0,0,0,0,0,0,-,-,114.21566400000006,22.38127700000007
+ShaTin,Harry Industrial Building,49 Au Pui Wan Street Fo Tan,沙田區,火炭協力工業大廈,火炭坳背灣街49號協力工業大廈,沙田区,火炭协力工业大厦,火炭坳背湾街49号协力工业大厦,0,0,0,3,0,0,0,0,0,Tesla Wall Connector,-,114.19383600000003,22.398462000000052
+Yuen Long,Fu Shing Building,"9 Sai Ching Street, Yuen Long",元朗區,富盛大廈,元朗西菁街9號,元朗区,富盛大厦,元朗西菁街9号,0,0,0,0,0,0,3,0,0,-,-,114.02753700000005,22.442183000000057
+Yuen Long,Tin Shing Car Park A,"Tin Shing Shopping Centre, 3 Tin Ching Street, Tin Shui Wai, Yuen Long, New Territories",元朗區,天盛A停車場,新界元朗天水圍天靖街3號天盛商場,元朗区,天盛A停车场,新界元朗天水围天靖街3号天盛商场,0,28,0,6,1,1,1,0,4,-,-,114.00313600000004,22.44822400000004
+Yuen Long,Golden Plaza,"28 Shui Che Kwun Street, Yuen Long",元朗區,萬金中心,元朗水車館街28號,元朗区, 万金中心,元朗水车馆街28号,0,2,0,0,0,2,0,0,0,-,-,114.03144600000007,22.44509400000004
+Yuen Long,Ping Wui Centre,"13 – 17 Ping Wui Street,",元朗區,屏會中心,元朗屏會街13 – 17號,元朗区,屏会中心,元朗屏会街13 – 17号,2,0,0,0,0,0,0,0,0,-,-,114.02196200000003,22.446593000000064
+Yuen Long,Springdale Villas,"80 Ma Tin Road, Yuen Long",元朗區,御庭居,元朗馬田路80號,元朗区, 御庭居,元朗马田路80号,2,0,0,0,0,0,0,0,3,Tesla Supercharger,-,114.02170300000012,22.440678000000048
+Yuen Long,Shui Pin Wai Estate,"Shui Pin Wai Road, Yuen Long, N. T.",元朗區,水邊圍邨,新界元朗水邊圍邨,元朗区,水边围邨,新界元朗水边围邨,0,1,0,0,1,1,1,0,0,-,-,114.02000400000009,22.445553000000075
+Yuen Long,Hong Kong Wetland Park Car Park,"Wetland Park Road, Tin Shui Wai, NT",元朗區,香港濕地公園停車場,新界 天水圍 濕地公園路,元朗区,香港湿地公园停车场,新界 天水围 湿地公园路,0,2,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.00458500000002,22.46922500000005
+Yuen Long,"Yoho Mall I Zone A, B  I A, B ","9 Yuen Lung St, Yuen Long",元朗區,"形點 I (A, B區)",元朗元龍街9號,元朗区,"形点 I (A, B区)",元朗元龙街9号,2,0,0,0,0,0,2,0,4,-,-,114.0376050000001,22.444237000000044
+Yuen Long,"Yoho Mall I Zone C, D  I C, D ","9 Long Yat Road, Yuen Long",元朗區,"形點 I (C, D區)",元朗朗日路9號,元朗区,"形点 I (C, D区)",元朗朗日路9号,0,0,0,3,0,0,0,0,3,Tesla Wall Connector / Supercharger,-,114.03687800000012,22.444515000000024
+Yuen Long,Yoho Mall II,"8 Long Yat Rd, Yuen Long",元朗區,形點 II,元朗朗日路8號,元朗区,形点 II,元朗朗日路8号,2,0,0,0,0,0,2,0,0,-,-,114.03529200000003,22.446454000000074
+Yuen Long,Hung Fuk Estate Carpark ,"Hung Fuk Shopping Centre Management Office, G/F, Ancillary Facilities Block, Hung Fuk Estate, Hung Shui Kiu, Yuen Long",元朗區,洪福邨停車場,元朗洪水橋洪福邨服務設施大樓地下洪福商場管理處,元朗区,洪福邨停车场,元朗洪水桥洪福邨服务设施大楼地下洪福商场管理处,3,0,0,0,0,0,0,0,0,-,-,113.9986970000001,22.43734900000004
+Yuen Long,Park Signature,"KUNG UM ROAD, YUEN LONG",元朗區,溱柏,元朗 公庵路,元朗区,溱柏,元朗 公庵路,0,3,0,0,0,0,0,0,2,Tesla Wall Connector,-,114.02323400000012,22.43719500000003
+Yuen Long,Long Ching Estate,"Long Ching Estate, Yuen Long, New Territories",元朗區,朗晴邨,"朗晴邨, 元朗區, 新界",元朗区,朗晴邨,"朗晴邨, 元朗区, 新界",1,0,0,0,0,0,0,0,0,-,-,114.0287320000001,22.446997000000067
+Yuen Long,Long Shin Estate,"Long Shin Estate, Yuen Long, New Territories",元朗區,朗善邨,"朗善邨, 元朗區, 新界",元朗区,朗善邨,"朗善邨, 元朗区, 新界",4,0,0,0,0,0,0,0,0,-,-,114.04538000000002,22.442371000000037
+Yuen Long,Yuen Long Plaza,"251 Castle Peak Road, Yuen Long",元朗區,元朗廣場,元朗青山公路251號,元朗区,元朗广场,元朗青山公路251号,2,0,0,0,0,0,2,0,0,-,-,114.02389300000004,22.44517600000006
+Yuen Long,Ping Yan Carpark,"Ping Yan Court, 65 Ping Ha Street, Tin Shui Wai, N.T.",元朗區,屏欣停車場,新界天水圍屏夏路65號屏欣苑,元朗区,屏欣停车场,新界天水围屏夏路65号屏欣苑,5,0,0,0,0,0,0,0,0,-,-,114.00432300000011,22.445876000000055
+Yuen Long,Tin Shui Wai Hospital,"TIN TAN STREET, YUEN LONG",元朗區,天水圍醫院,元朗 天壇街,元朗区,天水围医院,元朗 天坛街,2,0,0,0,0,0,0,0,0,-,-,113.99552200000005,22.45833200000004
+Yuen Long,Yuen Long Swimming Pool,"10 Tai Yuk Road, Yuen Long, N.T.",元朗區,元朗游泳池,元朗體育路10號,元朗区,元朗游泳池,元朗体育路10号,0,17,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.02108800000008,22.441355000000044
+Yuen Long,Tin Shui Wai Swimming Pool,"1 Tin Pak Road, Tin Shui Wai, N.T.",元朗區,天水圍泳池,天水圍天柏路1號,元朗区,天水围泳池,天水围天柏路1号,0,11,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.00695800000005,22.45503800000006
+Yuen Long,Tin Shui Wai Sports Ground,"2 Tin Shui Rd, Tin Shui Wai, N.T.",元朗區,天水圍運動場,天水圍天瑞路2號,元朗区,天水围运动场,天水围天瑞路2号,0,18,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.00408600000003,22.453815000000077
+Yuen Long,Tin Yip Road Park,"Tin Yip Road, Tin Shui Wai, N.T.",元朗區,天業路公園,新界天水圍天業路,元朗区,天业路公园,新界天水围天业路,0,12,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.00669100000005,22.463869000000045
+Yuen Long,Fung Kam Street Sports Centre,"20 Fung Yau Street North, Yuen Long",元朗區,鳳琴街體育館,元朗鳳攸北街20號,元朗区,凤琴街体育馆,元朗凤攸北街20号,0,17,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.0330580000001,22.443052000000023
+Yuen Long,Park Yoho Car Park Phase 1B,"18 Castle Peak Rd - Tam Mei, Kam Tin",元朗區,Park Yoho Car Park Phase 1B,錦田青山公路 - 潭尾段18號,元朗区,Park Yoho Car Park Phase 1B,锦田青山公路 - 潭尾段18号,0,0,0,0,0,0,2,0,0,-,-,114.05261300000006,22.45118700000006
+Yuen Long,Park Yoho Car Park Phase 2A,"18 Castle Peak Rd - Tam Mei, Kam Tin",元朗區,Park Yoho Car Park Phase 2A,錦田青山公路 - 潭尾段18號,元朗区,Park Yoho Car Park Phase 2A,锦田青山公路 - 潭尾段18号,0,0,0,0,0,0,2,0,0,-,-,114.05335400000001,22.45054200000004
+Yuen Long,Park Yoho Car Park Phase 2C,"18 Castle Peak Rd - Tam Mei, Kam Tin",元朗區,Park Yoho Car Park Phase 2C,錦田青山公路 - 潭尾段18號,元朗区,Park Yoho Car Park Phase 2C,锦田青山公路 - 潭尾段18号,0,0,0,0,0,0,1,0,0,-,-,114.05612200000007,22.45185300000003
+Yuen Long,Wetland Season Park,WETLAND PARK ROAD,元朗區,Wetland Seasons Park,濕地公園路,元朗区,Wetland Seasons Park,湿地公园路,0,2,0,0,1,1,8,0,0,-,-,114.00611200000003,22.466805000000022
+Yuen Long,Wetland Seasons Bay Public Vehicle Park,WETLAND PARK ROAD,元朗區,Wetland Seasons Bay 公眾停車場,濕地公園路,元朗区,Wetland Seasons Bay 公众停车场,湿地公园路,0,0,0,0,1,1,3,0,0,-,-,114.00316600000008,22.469208000000037
+Yuen Long,T Town South Car Park,"T Town, 30 & 33 Tin Wah Road, Tin Shui Wai, Yuen Long, New Territories",元朗區,T Town South 停車場,新界元朗天水圍天華路30及33號T Town,元朗区,T Town South 停车场,新界元朗天水围天华路30及33号T Town,0,21,0,6,0,2,0,0,6,Tesla Wall Connector / Supercharger,-,113.99724000000003,22.461066000000073
+Yuen Long,One North ,8 Hong Yip Street,元朗區,朗壹廣場,元朗康業街8號,元朗区,朗壹广场,元朗康业街8号,0,74,0,0,2,2,0,0,3,-,-,114.02995300000009,22.450954000000024
+Yuen Long,Tin Yat Estate,"76 Tin Shui Rd, Tin Shui Wai",元朗區,天逸邨,天水圍天瑞路76號,元朗区,天逸邨,天水围天瑞路76号,0,13,0,0,0,0,0,0,0,-,-,113.99983700000007,22.46791900000005
+Yuen Long,Tai Tong Organic EcoPark,"Tai Tong Organic Eco Park, 11 Tai Tong Shan Road, Yuen Long",元朗區,大棠有機生態園,元朗大棠山道11號大棠有機生態園停車場,元朗区,大棠有机生态园,元朗大棠山道11号大棠有机生态园停车场,0,0,0,0,0,4,12,0,0,-,-,114.02584000000002,22.41010700000004
+Yuen Long,T Town North,"33 Tin Wah Rd, Tin Shui Wai",元朗區,T Town North,天水圍天華路33號,元朗区,T Town North,天水围天华路33号,0,27,0,0,0,6,0,0,0,-,-,113.99888400000009,22.462063000000057
+Yuen Long,Shui Lau Tin Village Office,"27B Shui Lau Tin, Yuen Long",元朗區,水流田村公所,元朗八鄉水流田村村公所水流田27B號,元朗区,水流田村公所,元朗八乡水流田村村公所水流田27B号,0,0,0,0,0,0,2,0,0,-,-,114.08338100000003,22.431211000000076
+Yuen Long,Wang Toi Shan Yau Uk Tsuen,"DD111 LOT 1545SBRP, 1546SBRP (part of),Wang Toi Shan Yau Uk Tsuen, Pat Heung, Yuen Long, NT",元朗區,橫台山邱屋村,"橫台山邱屋村 DD111 LOT 1545SBRP (部份), 1546SBRP (部份)",元朗区,横台山邱屋村,"横台山邱屋村 DD111 LOT 1545SBRP (部份), 1546SBRP (部份)",0,0,0,0,0,4,2,0,0,-,-,114.0910510000001,22.440641000000028
+Yuen Long,Tin Yiu Car Park,"2 Tin Wu Rd, Tin Shui Wai",元朗區,天耀停車場,天水圍天湖路2號,元朗区,天耀停车场,天水围天湖路2号,0,18,0,0,0,0,0,0,0,-,-,114.00286700000004,22.451464000000044
+Yuen Long,Tin Wah Estate,"21 Tin Tan St, Tin Shui Wai",元朗區,天華邨,天水圍天壇街21號,元朗区,天华邨,天水围天坛街21号,0,12,0,0,0,0,0,0,0,-,-,113.99637200000006,22.461262000000033
+Yuen Long,Tin Shui Car Park ,"Tin Shui Shopping Centre, 9 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories",元朗區,天瑞停車場,新界元朗天水圍天瑞路9號天瑞商場,元朗区,天瑞停车场,新界元朗天水围天瑞路9号天瑞商场,0,24,0,0,0,0,0,0,0,-,-,113.99843500000009,22.45633300000003
+Yuen Long,FAIRVIEW PARK - TOWN CENTRE,"GRINKGO ROAD, YUEN LONG",元朗區,錦綉花園市中心,元朗 銀杏路,元朗区,锦绣花园市中心,元朗 银杏路,0,0,0,0,0,2,0,0,0,-,-,114.04596900000001,22.476315000000056
+Yuen Long,Tin Yau Car Park,"Tin Yau Court Car Park, 1 Tin Shing Road, Tin Shui Wai, Yuen Long, New Territories",元朗區,天祐停車場,新界元朗天水圍天城路1號天祐苑停車場,元朗区,天佑停车场,新界元朗天水围天城路1号天佑苑停车场,0,9,0,0,0,0,0,0,0,-,-,114.00639600000011,22.45164200000005
+Yuen Long,Tin Chak Car Park A ,"Tin Chak Shopping Centre, 71, 73, 75 & 77 Tin Shui Road, Tin Shui Wai, Yuen Long, New Territories",元朗區,天澤A停車場,"新界元朗天水圍天瑞路71, 73, 75及77號天澤商場",元朗区,天泽A停车场,"新界元朗天水围天瑞路71, 73, 75及77号天泽商场",0,11,0,0,0,0,0,0,0,-,-,113.99744900000007,22.466840000000047
+Tuen Mun,Hong Kong Gold Coast Piazza,"1 Castle Peak Road, Castle Peak Bay, Tuen Mun",屯門區,黃金海岸商場,屯門青山灣青山公路1號,屯门区,黄金海岸商场,屯门青山湾青山公路1号,0,0,0,30,0,6,2,0,0,Tesla Wall Connector,-,113.99268300000006,22.37248500000004
+Tuen Mun,Hong Kong Gold Coast Hotel,Golden Beach Path,屯門區,香港黃金海岸酒店,屯門黃金泳灘徑,屯门区,香港黄金海岸酒店,屯门黄金泳滩径,0,2,0,0,0,0,0,0,0,-,-,113.98949700000003,22.372403000000077
+Tuen Mun,Oceania Height,"2 Hoi Chu Road, Tuen Mun",屯門區,海典軒,屯門海珠路2號,屯门区,海典轩,屯门海珠路2号,0,0,0,3,0,0,0,0,3,Tesla Wall Connector / Supercharger,-,113.97169100000008,22.383786000000043
+Tuen Mun,Parklane Centre,"25 Kin Wing Street, Tuen Mun",屯門區,百利中心,屯門建榮街25號,屯门区,百利中心,屯门建荣街25号,0,0,0,0,0,2,0,0,0,-,-,113.96964500000001,22.39629800000006
+Tuen Mun,Tuen Mun Town Plaza Phase 1,"1 Tuen Shun Street, Tuen Mun",屯門區,屯門市廣場第一期,屯門屯順街1號,屯门区,屯门市广场第一期,屯门屯顺街1号,0,3,0,14,1,3,1,0,3,-,-,113.97743100000002,22.39341200000007
+Tuen Mun,Tuen Mun Town Plaza Phase 2,"3 Tuen Lung Street, Tuen Mun, New Territories",屯門區,屯門市廣場第二期,新界屯門屯隆街3號,屯门区,屯门市广场第二期,新界屯门屯隆街3号,2,0,0,0,0,0,0,0,0,-,-,113.97645200000011,22.39387800000003
+Tuen Mun,Tuen Mun Town Plaza Phase 3,"2 Tuen Yan Street, Tuen Mun",屯門區,屯門市廣場第三期,屯門屯仁街2號,屯门区, 屯门市广场第三期,屯门屯仁街2号,2,0,0,0,0,0,0,0,0,-,-,113.977348,22.394528000000037
+Tuen Mun,Sun Tuen Mun Centre,"LUNG MUN ROAD, TUEN MUN",屯門區,新屯門中心,屯門 龍門路,屯门区,新屯门中心,屯门 龙门路,0,3,0,3,0,0,3,0,3,-,-,113.96478300000001,22.381260000000054
+Tuen Mun,Hanford Plaza,"Sam Shing St, Tuen Mun",屯門區,恆福商場,屯門三聖街,屯门区,恒福商场,屯门三圣街,0,1,0,1,0,0,0,0,0,-,-,113.97678600000006,22.381803000000048
+Tuen Mun,Fu Tai Car Park ,"Fu Tai Shopping Centre, 9 Tuen Kwai Road, Tuen Mun, New Territories",屯門區,富泰停車場,新界屯門屯貴路9號富泰商場,屯门区,富泰停车场,新界屯门屯贵路9号富泰商场,0,14,0,0,1,5,1,0,0,-,-,113.98381500000005,22.414191000000073
+Tuen Mun,V City,"9 Tuen Mun Heung Sze Wui Rd, Tuen Mun",屯門區,V City,9 屯門鄉事會路,屯门区,V City,9 屯门乡事会路,5,0,0,0,0,0,5,0,4,-,-,113.97436800000003,22.395897000000048
+Tuen Mun,Yan Tin Estate Carpark,"39, Tsing Lun Road, Tuen Mun, New Territories",屯門區,欣田邨停車場,新界屯門青麟路39號,屯门区,欣田邨停车场,新界屯门青麟路39号,2,0,0,0,0,0,0,0,0,-,-,113.97581300000002,22.414307000000065
+Tuen Mun,99Common,"99 Pui To Rd, Tuen Mun",屯門區,99Common,屯門杯渡路99號,屯门区,99Common,屯门杯渡路99号,0,0,0,3,0,0,0,0,0,Tesla Wall Connector,-,113.96828700000003,22.394835000000057
+Tuen Mun,No.4 Kin Fat Lane,"33 Kin Wing Street, Tuen Mun",屯門區,發里4 號,屯門建榮街33號,屯门区,发里4 号,屯门建荣街33号,0,0,0,0,0,0,0,0,12,Tesla Wall Connector,-,113.9686640000001,22.396687000000043
+Tuen Mun,Tuen Mun Swimming Pool,"8 Hoi Wong RD, Tuen Mun, New Territories",屯門區,屯門游泳池,新界屯門海皇路8號,屯门区,屯门游泳池,新界屯门海皇路8号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,113.96981800000003,22.384388000000058
+Tuen Mun,LUNG YAT ESTATE,"Lung Yat Estate, Tuen Mun, New Territories",屯門區,龍逸邨,"龍逸邨, 屯門區, 新界",屯门区,龙逸邨,"龙逸邨, 屯门区, 新界",1,0,0,0,0,0,0,0,0,-,-,113.96751400000005,22.386835000000076
+Tuen Mun,Tuen Mun Government Offices,"No.1 Tuen Hi Road, Tuen Mun, New Territories",屯門區,屯門政府合署,新界屯門屯喜路1號,屯门区,屯门政府合署,新界屯门屯喜路1号,0,22,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,113.97633400000007,22.38997100000006
+Tuen Mun,Tuen Mun North West Swimming Pool,"95 Ming Kum Road, Tuen Mun, N.T.",屯門區,屯門西北游泳池,屯門鳴琴路95號,屯门区,屯门西北游泳池,屯门鸣琴路95号,0,9,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,113.96556900000007,22.408665000000042
+Tuen Mun,Yau Oi Sports Centre,"No. 3 Hing On Lane, Tuen Mun, New Territories",屯門區,友愛體育館,新界屯門興安里3號,屯门区,友爱体育馆,新界屯门兴安里3号,0,3,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,113.971314,22.385109000000057
+Tuen Mun,Siu Hei Car Park ,"Siu Hei Commercial Centre, 201 Wu Chui Road, Tuen Mun, New Territories",屯門區,兆禧停車場,新界屯門湖翠路201號兆禧苑商場,屯门区,兆禧停车场,新界屯门湖翠路201号兆禧苑商场,0,0,0,0,0,2,0,0,0,-,-,113.96683700000006,22.373358000000053
+Tuen Mun,Ching Tin Estate,Yan Po Road,屯門區,菁田邨,屯門欣寶路,屯门区,菁田邨,屯门欣宝路,0,4,0,0,0,0,0,0,0,-,-,113.97080300000005,22.41193000000004
+Tuen Mun,Wo Tin Estate,"35 Hing Kwai St, Tuen Mun",屯門區,和田邨,屯門興貴街35號,屯门区,和田邨,屯门兴贵街35号,0,4,0,0,0,0,0,0,0,-,-,113.96903600000007,22.414180000000044
+Tuen Mun,Tin King Car Park,"Tin King Estate Car Park, 10 Tin King Road, Tuen Mun,  New Territories",屯門區,田景停車場,新界屯門田景路10號田景邨停車場,屯门区,田景停车场,新界屯门田景路10号田景邨停车场,0,11,0,0,0,0,0,0,0,-,-,113.96508800000004,22.40660500000007
+Tuen Mun,Leung King Car Park ,"Leung King Plaza, 31 Tin King Road, Tuen Mun, New Territories",屯門區,良景停車場,新界屯門田景路31號良景廣場,屯门区,良景停车场,新界屯门田景路31号良景广场,0,12,0,0,0,6,0,0,0,-,-,113.96265400000004,22.406017000000077
+Tuen Mun,Blossom Garden,"11 Leung Tak Street, Tuen Mun",屯門區,寶怡花園,屯門良德街11號,屯门区,宝怡花园,屯门良德街11号,0,0,0,0,0,2,0,0,0,-,-,113.96863600000006,22.407666000000063
+Tuen Mun,Chelsea Heights Phase II,"1 Shek Pai Tau Path, Tuen Mun",屯門區,卓爾居2期,屯門石排頭徑1號,屯门区,卓尔居2期,屯门石排头径1号,0,0,0,3,0,0,0,0,6,Tesla Wall Connector / Supercharger,-,113.97438900000009,22.400443000000053
+Tuen Mun,Butterfly Car Park,"1 Wu Chui Rd, Tuen Mun",屯門區,蝴蝶停車場,屯門湖翠路1號,屯门区,蝴蝶停车场,屯门湖翠路1号,0,27,0,0,0,0,0,0,0,-,-,113.96289000000002,22.375662000000034
+Tuen Mun,Kingston Terrace,KING SAN PATH,屯門區,景新臺,景新徑,屯门区,景新台,景新径,0,6,0,0,0,0,0,0,0,-,-,113.98074600000007,22.402389000000028
+Tuen Mun,YAU OI ESTATE,"YAU OI ROAD, TUEN MUN",屯門區,友愛邨,屯門 友愛路,屯门区,友爱邨,屯门 友爱路,0,0,0,0,2,2,0,0,0,-,-,113.97464200000002,22.388103000000058
+Tuen Mun,Marina Garden,"Marina Garden Block 4, 280 Wu Chui Rd, Tuen Mun",屯門區,慧豐園,屯門碼頭湖翠路280號,屯门区,慧丰园,屯门码头湖翠路280号,0,2,0,0,0,0,0,0,0,-,-,113.97088400000007,22.37298500000003
+Tuen Mun,Hotel COZI Resort,4 Kin Fung Circuit,屯門區,悦品度假酒店,屯門建豐街4號,屯门区,悦品度假酒店,屯门建丰街4号,0,0,0,0,0,0,0,0,2,Tesla Wall Connector,-,113.97217200000011,22.39583200000004
+Islands,Citygate P3 Carpark,"39 Man Tung Road, Tung Chung",離島區,東薈城P3停車場,東涌文東路39號,离岛区,东荟城P3停车场,东涌文东路39号,0,0,0,0,0,0,2,0,4,-,-,113.94330300000001,22.290981000000045
+Islands,Citygate P1 Carpark,"18 Tat Tung Road, Tung Chung",離島區,東薈城P1停車場,東涌達東路18號,离岛区,东荟城P1停车场,东涌达东路18号,0,0,0,0,0,0,6,0,4,Tesla Supercharger,-,113.94053200000008,22.29026600000003
+Islands,Fu Tung Car Park A ,"Fu Tung Plaza, 6 Fu Tung Street, Tung Chung, New Territories",離島區,富東A停車場,新界東涌富東街6號富東廣場,离岛区,富东A停车场,新界东涌富东街6号富东广场,0,12,0,0,0,2,3,0,0,-,-,113.94225400000005,22.286571000000038
+Islands,Hong Kong SkyCity Marriott Hotel,"1 Sky City Rd E, Chek Lap Kok",離島區,香港天際萬豪酒店,赤鱲角航天城東路1號,离岛区,香港天际万豪酒店,赤鱲角航天城东路1号,0,0,0,0,0,0,0,0,4,Tesla Wall Connector,-,113.94363500000009,22.319853000000023
+Islands,AIRPORT CAR PARK 4,"GF-L5, 11 CHEONG TAT ROAD, Hong Kong International Airport, Islands District, New Territories",離島區,機場四號停車埸,大嶼山香港國際機場暢達路11號地下至五樓,离岛区,机场四号停车埸,大屿山香港国际机场畅达路11号地下至五楼,0,78,0,0,5,3,0,0,0,-,-,113.93449800000008,22.317513000000076
+Islands,Hong Kong Disneyland,Fantasy Road,離島區,香港迪士尼樂園,幻想道,离岛区,香港迪士尼乐园,幻想道,2,26,0,8,0,0,0,0,0,-,-,114.04783300000008,22.316764000000035
+Islands,Hong Kong Disneyland Hotel,"MAGIC ROAD, ISLANDS",離島區,香港迪士尼樂園酒店,離島 神奇道,离岛区,香港迪士尼乐园酒店,离岛 神奇道,1,0,0,1,0,0,0,0,0,Tesla Wall Connector,-,114.04348300000004,22.30872000000005
+Islands,HK Disneyland Theme Park Hollywood Hotel (Building 645),"MAGIC ROAD, ISLANDS",離島區,香港迪士尼主題樂園好萊塢酒店,離島 神奇道,离岛区,香港迪士尼主题乐园好莱坞酒店,离岛 神奇道,1,14,0,0,0,0,0,0,0,-,-,114.03947100000005,22.30825200000004
+Islands,Disney Explorers Lodge,Magic Rd,離島區,迪士尼探索家度假酒店,神奇道,离岛区,迪士尼探索家度假酒店,神奇道,1,4,0,0,0,0,0,0,0,-,-,114.03911600000004,22.309346000000062
+Islands,Yat Tung Car Park 2 & 3 (Sin Yat) ,"Yat Tung Shopping Centre, 8 Yat Tung Street, Tung Chung, New Territories",離島區,逸東2號及3號(善逸)停車場,新界東涌逸東街8號逸東商場,离岛区,逸东2号及3号(善逸)停车场,新界东涌逸东街8号逸东商场,0,0,0,0,2,2,2,0,0,-,-,113.93577600000003,22.281160000000057
+Islands,Regal Airport Hotel,"9 Cheong Tat Rd, Chek Lap Kok",離島區,富豪機場酒店,赤鱲角暢達路9號,离岛区,富豪机场酒店,赤鱲角畅达路9号,0,0,0,0,0,0,0,0,1,Tesla Wall Connector,-,113.93451100000004,22.319443000000035
+Islands,Cathay Pacific City,"International Airport, East Coast Rd, Lantau Island",離島區,國泰城,機場東岸路,离岛区,国泰城,机场东岸路,0,4,0,0,0,0,0,0,0,-,-,113.93475000000001,22.29817900000006
+Islands,Mun Tung Estate,CHUNG MUN ROAD,離島區,滿東邨,松滿路,离岛区,满东邨,松满路,8,0,0,0,0,0,0,0,0,-,-,113.93386100000009,22.277479000000028
+Islands,Hong Kong-Zhuhai-Macao Bridge Hong Kong Port car park 2,"Hong Kong-Zhuhai-Macao Bridge Hong Kong Port, Lantau Island, Hong Kong",離島區,港珠澳大橋香港口岸2號停車場,香港大嶼山港珠澳大橋香港口岸,离岛区,港珠澳大桥香港口岸2号停车场,香港大屿山港珠澳大桥香港口岸,0,89,0,0,0,0,0,0,0,-,-,113.95275300000003,22.315887000000032
+Islands,Hong Kong-Zhuhai-Macao Bridge Hong Kong Port car park 1,"Hong Kong-Zhuhai-Macao Bridge Hong Kong Port, Lantau Island, Hong Kong",離島區,港珠澳大橋香港口岸1號停車場,香港大嶼山港珠澳大橋香港口岸,离岛区,港珠澳大桥香港口岸1号停车场,香港大屿山港珠澳大桥香港口岸,0,0,0,0,1,1,1,1,0,-,-,113.9524540000001,22.316524000000072
+Islands,Ngan Ho Court,NGAN KWONG WAN ROAD,離島區,銀河苑,銀鑛灣路,离岛区,银河苑,银鑛湾路,1,0,0,0,0,0,0,0,0,-,-,113.99540400000001,22.265187000000026
+Islands,Ngan Wai Court,NGAN KWONG WAN ROAD,離島區,銀蔚苑,銀鑛灣路,离岛区,银蔚苑,银鑛湾路,1,0,0,0,0,0,0,0,0,-,-,113.99798400000009,22.265651000000048
+Islands,Ying Tung Estate,"Ying Tung Estate, Islands, New Territories",離島區,迎東,"迎東邨, 離島區, 新界",离岛区,迎东,"迎东邨, 离岛区, 新界",1,0,0,0,0,0,0,0,0,-,-,113.95346800000004,22.296024000000045
+Islands,Mui Wo Ferry Pier Road Car Park,"14 Mui Wo Ferry Pier Road, Mui Wo",離島區,梅窩碼頭路停車場,梅窩梅窩碼頭路14號,离岛区,梅窝码头路 (CX 2579),离岛 梅窝码头路,0,9,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,114.00064300000008,22.263359000000037
+Islands,Tung Chung Municipal Services Building,"39 Man Tung Road, Tung Chung, Lantau Island",離島區,東涌市政大樓,新界大嶼山東涌文東路39 號,离岛区,东涌市政大楼,新界大屿山东涌文东路39 号,0,10,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,113.94390900000008,22.29058100000003
+Islands,Shell Airport Cargo Terminal,"12 Chek Lap Kok S Rd, Chek Lap Kok",離島區,蜆殼機場貨運大樓,赤鱲角赤鱲角南路12號,离岛区,蚬壳机场货运大楼,赤鱲角赤鱲角南路12号,0,2,0,0,0,2,0,0,0,-,-,113.93108000000007,22.29179700000003
+Islands,Tai O Carpark,"Tai O Road, Tai O, Lantau",離島區,大澳停車場,大嶼山大澳大澳道,离岛区,大澳停车场,大屿山大澳大澳道,0,9,0,0,0,0,0,0,0,-,https://ev-charger.epd.gov.hk/resource/ev_charger_avail/ev_charger_avail.json,113.86337600000002,22.252567000000056
+Islands,Yu Nga Court,"8 Yi Tung Rd, Tung Chung",離島區,裕雅苑,東涌怡東路8號,离岛区,裕雅苑,东涌怡东路8号,84,20,0,0,0,0,0,0,0,-,-,113.94769200000007,22.295266000000026
+Islands,Yat Tung Estate Carpark 3,"8 Yat Tung St, Yat Tung Estate",離島區,逸東邨3號停車場,逸東邨逸東街8號,离岛区,逸东邨3号停车场,逸东邨逸东街8号,0,9,0,0,0,0,0,0,0,-,-,113.93609300000003,22.281976000000043
+Islands,Yat Tung Car Park 1 (Mei Yat) ,"Yat Tung Shopping Centre, 8 Yat Tung Street, Tung Chung, New Territories",離島區,逸東1號(美逸)停車場,新界東涌逸東街8號逸東商場,离岛区,逸东1号(美逸)停车场,新界东涌逸东街8号逸东商场,0,18,0,0,2,2,0,0,0,-,-,113.93862800000011,22.281096000000048
